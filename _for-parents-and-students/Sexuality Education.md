@@ -21,8 +21,11 @@ description: ""
 <p style="padding-left: 40px;">a. Science</p>
 <p style="padding-left: 40px;">b. Form Teacher Guidance Period (FTGP)</p>
 <p style="padding-left: 40px;">c. Character and Citizenship Education (CCE)</p>
-<p>&nbsp;</p>
 <p><u><strong>Sexuality Education</strong></u>: &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo; (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. &ldquo;Curious Minds&rdquo; is a response to these challenges.</p>
 <p>7. The Primary 5 &amp; 6 Sexuality Education Teaching and Learing resource package, &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</p>
 <p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
+<img src="/images/se1.png">
+<img src="/images/se2.png"><br>
+<img src="/images/se3.png">
+<img src="/images/se4.png">
