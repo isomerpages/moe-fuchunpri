@@ -40,3 +40,25 @@ Website:&nbsp;&nbsp;<a href="https://www.ihuntforbooks.com/" target="">https://w
 <p dir="ltr"><a href="/files/FC%20Booklist%202022%20-%20P6%204S1H.pdf" target="_blank" rel="noopener">Primary 6 Booklist - 4S1H</a></p>
 </li>
 </ul>
+<hr>
+<h4><strong>School Uniform</strong></h4>
+<p dir="ltr"><strong>Supplied by Chop Kong Chong (CKC)</strong></p>
+<p dir="ltr">School uniforms can be purchased either from the School Bookshop or from the CKC retail shop at:<br />#02-13, Sembawang Shopping Centre<br />604 Sembawang Road,<br />Singapore 758459<br />Tel : 6753 1489</p>
+<p dir="ltr"><strong>Opening Hours: <br /></strong>Monday to Saturday: 11:30 a.m. to 8:00 p.m.<br />Sunday: 11:30 a.m. to 6:00 p.m.</p>
+<p dir="ltr">For enquiries, please whatsapp 9077 2932</p>
+<p>Website: &nbsp;<a href="https://www.euniforms.com.sg/shop/" target="">https://www.euniforms.com.sg/shop/</a></p>
+<hr />
+<h4><strong>School Dental Services</strong></h4>
+<p dir="ltr"><strong>Operating Hours during School Term (Strictly by appointment only)</strong></p>
+<p dir="ltr">Monday to Thursday: 8:00 a.m. to 5:30 p.m.<br />Friday: 8:00 a.m. to 5:00 p.m.<br />Lunch: 1:00 p.m. to 2:00 p.m.<br />Tel : 6362 7924</p>
+<p dir="ltr">For emergencies such as dental trauma, facial/gum swellings or toothaches and during the school holidays, please call Health Promotion Board, School Dental Centre Call Centre, Tel: 6435 3782.</p>
+<hr />
+<h4><strong>School Bus Services</strong></h4>
+<p dir="ltr">Appointed School Bus Service Provider -<br /><strong>JK59 Transport Pte Ltd</strong></p>
+<p dir="ltr">For enquiries and/or registration, email to student@jk59.com or call 6465 5959</p>
+<p dir="ltr">Please click to download:</p>
+<ul>
+<li dir="ltr"><a href="/files/Request%20for%20School%20Bus%20Services_Fuchun%20Primary.pdf" target="_blank" rel="noopener">Request for School Bus Service Form</a></li>
+<li dir="ltr"><a href="/files/Guidelines%20for%20Safety%20on%20School%20Buses%20updated%2029%20May%202020.pdf" target="_blank" rel="noopener">Guidelines for Safety on School Buses</a></li>
+</ul>
+<p dir="ltr"><strong>Distance up to 2km: <br /></strong>$110 (1 way) / $115 (2 way)<br /><strong>Distance more than 2km and up to 4km: <br /></strong>$120 (1 way) / $125 (2 way)</p>
