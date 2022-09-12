@@ -47,3 +47,24 @@ links:
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-home-skills-prog/home-skills-home
       - title: Homeroom Programme
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/homeroom-home
+  - title: Curriculum
+    url: /curriculum/
+    sublinks:
+      - title: English
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-el-dept/english-dept-home
+      - title: Mathematics
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ma-dept/math-dept-home
+      - title: Science
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-sc-dept/science-dept-home
+      - title: Mother Tongue
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-mt-dept/mother-tongue-dept-home
+      - title: Social Studies
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ss-dept/social-studies-dept-home
+      - title: PE, Art & Music (PAM)
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-pam-dept/pe-art-music-dept-home
+      - title: CCE
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-cce-dept/character-citizenship-education-dept-home
+      - title: ICT
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ict-dept/information-communication-technology-dept-home
+      - title: Assessment Plan
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-assessment-plan/assessment-plan-home
