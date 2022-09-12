@@ -62,3 +62,44 @@ Website:&nbsp;&nbsp;<a href="https://www.ihuntforbooks.com/" target="">https://w
 <li dir="ltr"><a href="/files/Guidelines%20for%20Safety%20on%20School%20Buses%20updated%2029%20May%202020.pdf" target="_blank" rel="noopener">Guidelines for Safety on School Buses</a></li>
 </ul>
 <p dir="ltr"><strong>Distance up to 2km: <br /></strong>$110 (1 way) / $115 (2 way)<br /><strong>Distance more than 2km and up to 4km: <br /></strong>$120 (1 way) / $125 (2 way)</p>
+<hr />
+<h4><strong>School-Based Student Care Centre</strong></h4>
+<p dir="ltr">Operated by<br /><strong>Big Heart Student Care</strong></p>
+<p dir="ltr">Operating Hours during School Term<br />Monday to Friday: 1:30 p.m. to 7:00 p.m.<br />School Holidays: 7:30 a.m. to 7:00 p.m.</p>
+<p dir="ltr"><em>Closed on Sat, Sun, Public Holidays and </em><a href="/files/Big%20Heart%20Centre%20Closure%20Days%202020%20-%20FC-%20updated%2020%20Jan%202020.pdf" target="_blank" rel="noopener"><em>Centre Closure Days</em></a><em>.<br /></em>Tel : 9838 1634 (between 11.00am to 6.45pm on weekdays)</p>
+<p dir="ltr">For enquiries, email to fuchun@shgstudentcare.com.sg</p>
+<p dir="ltr"><strong>Registration form</strong> can be obtained either from the School's General Office, Big Heart Student Care Centre or via the link below:<br /><a href="/files/Registration%20Form%20for%20Big%20Heart%20Student%20Care.pdf" target="_blank" rel="noopener">Registration form for Big Heart Student Care - Fuchun Pri Sch</a></p>
+<p dir="ltr"><strong>Student Care Fee Assistance (SCFA)</strong> can be obtained either from the School General Office, Big Heart Student Care Centre or via the link below:<br /><a href="/files/Student%20Care%20Fee%20Assistance%20SCFA%20form.pdf" target="_blank" rel="noopener">Student Care Fee Assistance (SCFA) form</a></p>
+<p dir="ltr">Please call the student care centre for more information before submitting the forms.</p>
+<p dir="ltr">More information can be found in the following link:<br /><a href="/files/Big%20Heart%20Student%20Care%20-%20Gemeral%20Information.pdf" target="_blank" rel="noopener">Big Heart Student Care - General Information</a></p>
+<hr />
+<h4><strong>Student Insurance</strong></h4>
+<p><strong>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS</strong></p>
+<p dir="ltr">The Group Personal Accident Insurance for Students offers the following:</p>
+<ul>
+<li dir="ltr">Protection against death and permanent disablement.</li>
+<li dir="ltr">Coverage for inpatient and outpatient medical expenses.</li>
+<li dir="ltr">Provides funeral benefit as well as coverage for temporary/permanent mobility aids, prosthesis, and other implants.</li>
+<li dir="ltr">Daily hospitalisation allowance for each day of hospital stay overseas and upon returning to Singapore.</li>
+</ul>
+<p dir="ltr">For more information, please refer to the link below:<br /><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.income.com.sg%2Fgroup-personal-accident-for-students&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3Cw3XtNFsX-dOxyE2UAZB9" target="_blank" rel="noopener">https://www.income.com.sg/group-personal-accident-for-students</a></p>
+<p><strong>ONLINE CLAIM SUBMISSION</strong></p>
+<ol>
+<li dir="ltr">Go to Income&rsquo;s GPA portal at <a href="https://www.google.com/url?q=https%3A%2F%2Fstudentgpa.incomegroupins.com.sg%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3NF1x1NffD-LMwhas0ZKb_" target="_blank" rel="noopener">https://studentgpa.incomegroupins.com.sg</a></li>
+<li dir="ltr">Complete online claim form.</li>
+<li dir="ltr">Upload tax invoice(s), receipts (outpatient/inpatient claims) and required documents.</li>
+<li dir="ltr">Confirmation email will be sent to parents or students, and school administrator.</li>
+</ol>
+<p><strong>REQUIRED DOCUMENTS</strong></p>
+<ol>
+<li dir="ltr">For hospitalisation or day surgery, a copy of Inpatient discharge summary/ Day surgery form/ Attending physician's medical report.</li>
+<li dir="ltr">Police report, if applicable.</li>
+<li dir="ltr">If you have submitted a claim to any third party who has reimbursed your bills (e.g. other insurance policies/ insurers/ your employers), please submit copies of the following documents:
+<ul>
+<li dir="ltr">Reimbursement letter/ claim settlement letter from other source</li>
+<li dir="ltr">Copy of the Shield Plan's settlement letter if there is any payment by Medisave-approved Integrated Shield Plan.</li>
+</ul>
+</li>
+</ol>
+<p dir="ltr">Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.</p>
+<hr>
