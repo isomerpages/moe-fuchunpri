@@ -140,11 +140,11 @@ Website:&nbsp;&nbsp;<a href="https://www.ihuntforbooks.com/" target="">https://w
 </tr>
 </tbody>
 </table>
-<p><br />You may click&nbsp;<strong><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2021_09-MOE_FAS_Pamphlet_2022.pdf" target="_blank" rel="noopener">here</a></strong> for more information on Financial Assistance Scheme (FAS) 2022.</p>
-<p>You may click <strong><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2021%20Other%20Services/TransitLink_Concession%20Pass%20Evoucher_Redemption_Process.pdf" target="_blank" rel="noopener">here</a></strong>&nbsp;for more information on how to redeem the concession pass e-voucher.&nbsp;</p>
+<p>You may click&nbsp;<strong><a href="/files/2021_09-MOE_FAS_Pamphlet_2022.pdf" target="_blank" rel="noopener">here</a></strong> for more information on Financial Assistance Scheme (FAS) 2022.</p>
+<p>You may click <strong><a href="/files/TransitLink_Concession%20Pass%20Evoucher_Redemption_Process.pdf" target="_blank" rel="noopener">here</a></strong>&nbsp;for more information on how to redeem the concession pass e-voucher.&nbsp;</p>
 <p><strong>School-Based Financial Assistance Scheme (SB FAS)</strong></p>
 <p>Needy students who do not meet the eligibility criteria for MOE FAS may also apply for the SB FAS. Approval will be given on a case-by-case basis.</p>
-<p><strong>Application form</strong>&nbsp;(for either MOE FAS or SB FAS) can be obtained either from the School General Office or via the link below:<br /><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/MOE-FAS-application-form_2022Jul27.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></p>
+<p><strong>Application form</strong>&nbsp;(for either MOE FAS or SB FAS) can be obtained either from the School General Office or via the link below:<br /><a href="/files/MOE-FAS-application-form_2022Jul27.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></p>
 <p><strong>NEU PC Plus Programme</strong></p>
 <p>The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to&nbsp;<strong>own a brand new computer</strong>&nbsp;at an affordable price.</p>
 <p>Please refer to the link below for more information and for any latest updates on eligibility criteria and benefits.&nbsp;<strong>Application form</strong>&nbsp;can be obtained either from the School General Office or from the link below. Please call the School General Office to ensure that you download the correct form/s.</p>
