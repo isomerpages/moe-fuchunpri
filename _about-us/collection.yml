@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - Our Services.md
       - Our Learning Spaces.md
