@@ -704,3 +704,123 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>SCHOOL ADMIN TEAM AND SUPPORT STAFF</strong></h4>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>NAME</strong></td>
+<td style="text-align: center;"><strong>DESIGNATION</strong></td>
+<td style="text-align: center;"><strong>EMAIL</strong></td>
+</tr>
+<tr>
+<td>Mdm Yaznita Bte Sallim</td>
+<td>ADMINISTRATION MANAGER</td>
+<td><a href="mailto:yaznita_sallim@schools.gov.sg" target="">yaznita_sallim@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Mohammad Khatib Yus</td>
+<td>OPERATIONS MANAGER 1</td>
+<td><a href="mailto:mohammad_khatib_yus@moe.edu.sg">mohammad_khatib_yus@</a><a href="mailto:yaznita_sallim@schools.gov.sg" target="">schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Tan Gek Par</td>
+<td>OPERATIONS MANAGER 2</td>
+<td><a href="mailto:tan_gek_par@moe.edu.sg">tan_gek_par@</a><a href="mailto:yaznita_sallim@schools.gov.sg" target="">schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Lim Hwee Khee</td>
+<td>ADMINISTRATION EXECUTIVE</td>
+<td><a href="mailto:lim_hwee_khee@schools.gov.sg">lim_hwee_khee@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Muhammad Nur Ridhuan Heinz Hohifeld</td>
+<td>ADMINISTRATION EXECUTIVE</td>
+<td><a href="mailto:muhammad_nur_ridhuan@schools.gov.sg">muhammad_nur_ridhuan@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Hanim Bt Mokhtar</td>
+<td>CORPORATE SUPPORT OFFICER</td>
+<td><a href="mailto:hanim_bt_mokhtar@schools.gov.sg">hanim_bt_mokhtar@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Lai Tham Hoe</td>
+<td>CORPORATE SUPPORT OFFICER</td>
+<td><a href="mailto:lai_tham_hoe@schools.gov.sg" target="">lai_tham_hoe@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Chris Yip</td>
+<td>&nbsp;ICT MANAGER</td>
+<td><a href="mailto:yip_yoke_ping_chris@schools.gov.sg">yip_yoke_ping_chris@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Ee Thiam Mua</td>
+<td>&nbsp;OPERATIONS SUPPORT OFFICER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Maria Magdalene D/O Saminathan</td>
+<td>OPERATIONS SUPPORT OFFICER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Ramlan Bin Sonja</td>
+<td>OPERATIONS SUPPORT OFFICER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Mohd Basir Bin Mohamed Abdul Kadir</td>
+<td>OPERATIONS SUPPORT OFFICER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Peter Kwek</td>
+<td>DESKTOP ENGINEER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Yureez Yusree</td>
+<td>DESKTOP ENGINEER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Suhailah Bte Mohamed Taib</td>
+<td>LIBRARIAN</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>SCHOOL COUNSELLOR AND ALLIED EDUCATORS</strong></h4>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>NAME</strong></td>
+<td style="text-align: center;"><strong>DESIGNATION</strong></td>
+<td style="text-align: center;"><strong>EMAIL</strong></td>
+</tr>
+<tr>
+<td>Ms Preethee J @ Preethee Jayasri</td>
+<td>SCHOOL COUNSELLOR</td>
+<td><a href="mailto:preethee_j_preethee@schools.gov.sg" target="">preethee_j_preethee@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Farhana Binte Hassan</td>
+<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
+<td><a href="mailto:farhana_hassan@schools.gov.sg" target="">farhana_hassan@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Lim Che Ka</td>
+<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
+<td><a href="mailto:lim_che_ka@schools.gov.sg" target="">lim_che_ka@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Winnie Tan Boon Leng</td>
+<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
+<td><a href="mailto:winnie_tan_boon_leng@schools.gov.sg" target="">winnie_tan_boon_leng@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Pang Heng Mui</td>
+<td>ALLIED EDUCATOR/TEACHING &amp; LEARNING</td>
+<td><a href="mailto:pang_heng_mui@schools.gov.sg" target="">pang_heng_mui@schools.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
