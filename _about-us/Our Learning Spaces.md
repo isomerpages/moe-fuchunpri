@@ -15,5 +15,30 @@ description: ""
 <td style="width: 50%;"><img src="/images/ols1.jpg"></td>
 <td style="width: 50%;"><img src="/images/ols2.jpg"></td>
 </tr>
+<tr>
+<td style="width: 50%;">Science Einstein Lab</td>
+<td style="width: 50%;">Mathematics Room</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols3.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">Mother Tongue Lab</td>
+<td style="width: 50%;">Arts Room</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols5.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols6.jpg"></td>
+</tr>
+</tr>
+<tr>
+<td style="width: 50%;">Programme for Active Learning (PAL) Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols7.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
 </tbody>
 </table>
