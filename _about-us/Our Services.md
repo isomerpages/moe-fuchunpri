@@ -103,3 +103,49 @@ Website:&nbsp;&nbsp;<a href="https://www.ihuntforbooks.com/" target="">https://w
 </ol>
 <p dir="ltr">Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.</p>
 <hr>
+<h4><strong>Financial Assistance Scheme</strong></h4>
+<p><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></p>
+<p>The objective of the MOE FAS is to help financially&nbsp;<strong>needy</strong>&nbsp;Singaporean students in Government and Government-aided schools to meet basic schooling expenses.</p>
+<p>Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:<br />a. His or her family&rsquo;s gross household income (GHI) as at the time of application does not exceed $2,750 per month; or<br />b. His or her family&rsquo;s per capita income (PCI) as at the time of application does not exceed $690 per month. PCI = Monthly GHI / No. of members in the household</p>
+<p>Types of benefits provided under MOE FAS (Primary School):</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Benefits</strong></td>
+</tr>
+<tr>
+<td>School Fees</td>
+<td>Not Applicable (Free)</td>
+</tr>
+<tr>
+<td>Standard Miscellaneous Fees</td>
+<td>Full Subsidy of $6.50 per month</td>
+</tr>
+<tr>
+<td>Textbooks</td>
+<td>Free Textbooks</td>
+</tr>
+<tr>
+<td>School Attire</td>
+<td>Free School Attire (2 sets of uniform, 2 sets of PE attire, 1 pair of shoes and 2 pairs of socks)</td>
+</tr>
+<tr>
+<td>School Meal Subsidy</td>
+<td>$2 per meal for 7 meals per school week</td>
+</tr>
+<tr>
+<td>Transport Subsidy<br /><br /><em>*&nbsp;</em>School provides additional subsidy in the form of monthly MRT or Bus concession pass</td>
+<td>60% subsidy of monthly school bus fares for students taking school bus, or<br />*$15 transport subsidy per month from the month of approval, up to a total of $180 transport subsidy per annum for students taking public transport</td>
+</tr>
+</tbody>
+</table>
+<p><br />You may click&nbsp;<strong><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2021_09-MOE_FAS_Pamphlet_2022.pdf" target="_blank" rel="noopener">here</a></strong> for more information on Financial Assistance Scheme (FAS) 2022.</p>
+<p>You may click <strong><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2021%20Other%20Services/TransitLink_Concession%20Pass%20Evoucher_Redemption_Process.pdf" target="_blank" rel="noopener">here</a></strong>&nbsp;for more information on how to redeem the concession pass e-voucher.&nbsp;</p>
+<p><strong>School-Based Financial Assistance Scheme (SB FAS)</strong></p>
+<p>Needy students who do not meet the eligibility criteria for MOE FAS may also apply for the SB FAS. Approval will be given on a case-by-case basis.</p>
+<p><strong>Application form</strong>&nbsp;(for either MOE FAS or SB FAS) can be obtained either from the School General Office or via the link below:<br /><a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/MOE-FAS-application-form_2022Jul27.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></p>
+<p><strong>NEU PC Plus Programme</strong></p>
+<p>The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to&nbsp;<strong>own a brand new computer</strong>&nbsp;at an affordable price.</p>
+<p>Please refer to the link below for more information and for any latest updates on eligibility criteria and benefits.&nbsp;<strong>Application form</strong>&nbsp;can be obtained either from the School General Office or from the link below. Please call the School General Office to ensure that you download the correct form/s.</p>
+<p>Website:&nbsp;<a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus" target="">https://www.imda.gov.sg/programme-listing/neu-pc-plus</a></p>
