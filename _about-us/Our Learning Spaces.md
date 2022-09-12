@@ -80,3 +80,33 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Co-Curricular Learning Spaces</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Music Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols15.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;">Home Skills Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols16.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols17.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">Games and Equipment Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols18.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tr>
+</tbody>
+</table>
