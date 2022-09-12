@@ -50,3 +50,33 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Learning Support Spaces</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Learning Support for English</td>
+<td style="width: 50%;">Learning Support for Mathematics</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols10.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols11.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">Learning and Behavioural Support (LBS) Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols12.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols13.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">Counselling Room</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols14.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tr>
+</tbody>
+</table>
