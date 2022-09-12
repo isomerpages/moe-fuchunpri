@@ -150,3 +150,137 @@ description: ""
 </tbody>
 </table>
 <h4><strong>LEAD AND SENIOR TEACHERS</strong></h4>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>NAME</strong></td>
+<td style="text-align: center;"><strong>DESIGNATION</strong></td>
+<td style="text-align: center;"><strong>EMAIL</strong></td>
+</tr>
+<tr>
+<td>Mdm Hoo Bee Teng</td>
+<td>LEAD TEACHER/CHINESE</td>
+<td><a href="mailto:hoo_bee_teng@schools.gov.sg" target="">hoo_bee_teng@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Tan Kock Boon</td>
+<td>SNR TEACHER/CHINESE</td>
+<td><a href="mailto:tan_kock_boon@schools.gov.sg" target="">tan_kock_boon@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Chen Liangrui</td>
+<td>SNR TEACHER/ENGLISH</td>
+<td><a href="mailto:chen_liangrui@schools.gov.sg" target="">chen_liangrui@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Ang Chia Chia</td>
+<td>SNR TEACHER/MATH</td>
+<td><a href="mailto:ang_chia_chia@schools.gov.sg" target="">ang_chia_chia@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Gan Ping Fong</td>
+<td>SNR TEACHER/MUSIC</td>
+<td><a href="mailto:chai_ping_fong@schools.gov.sg" target="">chai_ping_fong@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Yee Jiong Hwa</td>
+<td>SNR TEACHER/SCIENCE</td>
+<td><a href="mailto:yee_jiong_hwa@schools.gov.sg" target="">yee_jiong_hwa@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Maryanni Bte Surern</td>
+<td>SNR TEACHER/SCIENCE</td>
+<td><a href="mailto:maryanni_surern@schools.gov.sg" target="">maryanni_surern@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Rohani Binte Talib</td>
+<td>SNR TEACHER/SEN</td>
+<td><a href="mailto:rohani_talib@schools.gov.sg" target="">rohani_talib@schools.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>NON-FORM TEACHERS</strong></h4>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>NAME</strong></td>
+<td style="text-align: center;"><strong>DESIGNATION</strong></td>
+<td style="text-align: center;"><strong>EMAIL</strong></td>
+</tr>
+<tr>
+<td>Mdm Goh Sock Cheng</td>
+<td>TEACHER</td>
+<td><a href="mailto:goh_sock_cheng@schools.gov.sg" target="">goh_sock_cheng@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Wu Jianhong</td>
+<td>TEACHER</td>
+<td><a href="mailto:wu_jianhong@schools.gov.sg" target="">wu_jianhong@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Yee Jiong Hwa</td>
+<td>TEACHER</td>
+<td><a href="mailto:yee_jiong_hwa@schools.gov.sg">yee_jiong_hwa@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Brendan Gerard Jeremiah</td>
+<td>TEACHER</td>
+<td><a href="mailto:Brendan_Gerard_Jeremiah@schools.gov.sg" target="">brendan_gerard_jeremiah@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Zelda D/O Mohd Ibrahim</td>
+<td>TEACHER</td>
+<td><a href="mailto:zelda_mohd_ibrahim@schools.gov.sg" target="">zelda_mohd_ibrahim@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Ravin Ragupathi</td>
+<td>TEACHER</td>
+<td><a href="mailto:ravin_ragupathi@schools.gov.sg" target="">ravin_ragupathi@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Kokilavani W/O Vassou</td>
+<td>TEACHER</td>
+<td><a href="mailto:kokilavani_vassou@schools.gov.sg" target="">kokilavani_vassou@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Tan Wei Ching</td>
+<td>TEACHER</td>
+<td><a href="mailto:tan_wei_ching@schools.gov.sg" target="">tan_wei_ching@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Nadrah Binte Anuar</td>
+<td>TEACHER</td>
+<td><a href="mailto:nadrah_anuar@schools.gov.sg" target="">nadrah_anuar@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Yogavathi D/O Packirisamy</td>
+<td>TEACHER&nbsp;</td>
+<td><a href="mailto:yogavathi_packirisamy@schools.gov.sg" target="">yogavathi_packirisamy@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Tee Hwei Yeen</td>
+<td>TEACHER</td>
+<td><a href="mailto:tee_hwei_yeen@schools.gov.sg" target="">tee_hwei_yeen@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Maizathul Akmar Binte Shahul Hameed</td>
+<td>TEACHER</td>
+<td><a href="mailto:maizathul_akmar_shahul_hameed@schools.gov.sg" target="">maizathul_akmar_shahul_hameed@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Quek Yoke Leng&nbsp;</td>
+<td>TEACHER</td>
+<td><a href="mailto:quek_yoke_leng@schools.gov.sg" target="">quek_yoke_leng@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Patricia Lim</td>
+<td>TEACHER</td>
+<td><a href="mailto:lim_lui_yen@schools.gov.sg">lim_lui_yen@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Alice Ng Kim Yen</td>
+<td>TEACHER</td>
+<td><a href="mailto:ng_kim_yen_alice@schools.gov.sg" target="">ng_kim_yen_alice@schools.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
