@@ -1,6 +1,23 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principal-s-message
+    sublinks:
+      - title: Principal’s Message
+        url: /about-us/principal-s-message
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Our Vision, Mission & Values
+        url: /about-us/our-vision-mission-values-n-motto
+      - title: Our Song & Crest
+        url: /about-us/our-song-n-crest
+      - title: Our Rules & Regulations
+        url: /about-us/our-rules-n-regulations
+      - title: Our use of our students’ works
+        url: /about-us/our-use-of-photographs-videos-and-publication-of-students-works
+      - title: Our Staff
+        url: /about-us/our-staff
+      - title: Our Services
+        url: /about-us/our-services
+      - title: Our Learning Spaces
+        url: /about-us/our-learning-spaces
