@@ -31,7 +31,6 @@ description: ""
 <td style="width: 50%;"><img src="/images/ols5.jpg"></td>
 <td style="width: 50%;"><img src="/images/ols6.jpg"></td>
 </tr>
-</tr>
 <tr>
 <td style="width: 50%;">Programme for Active Learning (PAL) Room</td>
 <td style="width: 50%;">&nbsp;</td>
@@ -77,7 +76,6 @@ description: ""
 <td style="width: 50%;"><img src="/images/ols14.jpg"></td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>
-</tr>
 </tbody>
 </table>
 <h4><strong>Co-Curricular Learning Spaces</strong></h4>
@@ -107,6 +105,72 @@ description: ""
 <td style="width: 50%;"><img src="/images/ols18.jpg"></td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Technology Spaces</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Computer Lab Pentium</td>
+<td style="width: 50%;">Computer Lab Cyber Space</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols19.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols20.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">Computer Lab Centrino</td>
+<td style="width: 50%;">IT Resource Room</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols21.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols22.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Mass Learning & Bonding Spaces</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">School Hall</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols23.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;">Parade Square</td>
+<td style="width: 50%;">IT Resource Room</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols24.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols25.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">School Library</td>
+<td style="width: 50%;">School Canteen</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols26.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols27.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Meeting Spaces</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Meeting Rooms</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols28.jpg"></td>
+<td style="width: 50%;"><img src="/images/ols29.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ols30.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
