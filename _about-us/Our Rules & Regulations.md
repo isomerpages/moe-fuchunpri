@@ -93,3 +93,9 @@ description: ""
 <li>All students are not allowed to wear jewellery, cosmetics, and accessories e.g. beads around the wrist, coloured strings and bangles.</li>
 <li>Spectacles worn by students should not become an outstanding feature on their faces. As such the spectacles worn should not be outlandish in color, design or size. Coloured contact lens are not allowed.</li>
 </ol>
+<p><strong><u>Boys</u></strong></p>
+<img style="width: 65%;" src="/images/reg1.jpg" />
+<img style="width: 65%;" src="/images/reg2.jpg" />
+<p><strong><u>Girls</u></strong></p>
+<img style="width: 65%;" src="/images/reg3.jpg" />
+<img style="width: 65%;" src="/images/reg4.jpg" />
