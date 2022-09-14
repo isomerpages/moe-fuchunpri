@@ -5,4 +5,4 @@ date: 2022-01-01
 layout: post
 description: ""
 ---
-<a href="https://sites.google.com/moe.edu.sg/fcps-g-site-letters-to-parents/letters-to-parents-home">External Link</a>
+<p>To access the page, please click <a href="https://sites.google.com/moe.edu.sg/fcps-g-site-letters-to-parents/letters-to-parents-home">here</a>.
