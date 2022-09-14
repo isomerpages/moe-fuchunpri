@@ -20,4 +20,5 @@ sections:
       button: See More
       url: /highlights/
       image: /images/h1.jpg
+      alt: Highlights 1
 ---
