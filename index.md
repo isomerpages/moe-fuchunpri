@@ -13,8 +13,11 @@ sections:
   - resources:
       title: Updates
       button: See More
-  - infobar:
+  - infopic:
       title: Highlights
+      description: It's the September holidays! If you're looking for something to do
+        this week...
       button: See More
       url: /highlights/
+      image: /images/h1.jpg
 ---
