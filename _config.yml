@@ -3,10 +3,10 @@ url: https://fuchunpri.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#2a0075"
-  secondary-color: "#ead550"
+  secondary-color: "#0a0072"
   media-colors:
     - title: media-color-one
-      color: "#000000"
+      color: "#f8e71c"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
