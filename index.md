@@ -8,8 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      button: P1 Virtual Open House
-      url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: Updates
       button: See More
