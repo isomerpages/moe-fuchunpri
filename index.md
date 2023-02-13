@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - resources:
       title: Updates
       button: See More
