@@ -11,9 +11,4 @@ sections:
   - resources:
       title: Updates
       button: See More
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
