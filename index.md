@@ -10,5 +10,4 @@ sections:
       background: /images/banner.gif
   - resources:
       title: Updates
-      button: See More
 ---
