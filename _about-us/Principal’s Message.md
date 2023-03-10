@@ -3,9 +3,9 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
-![](/images/Mrs%20Lim%20w%20P1s.jpg)
 
-Dear Parents/Guardians and Students,
+
+![](/images/Mrs%20Lim%20w%20P1s.jpg) Dear Parents/Guardians and Students,
 
 **Caring for Everyone**
 
