@@ -16,15 +16,12 @@ As we enter 2023 with new dreams and hopes, let us endeavor to seize every oppor
 			Our vision, <i>“A Nurturing, Resilient and Forward-Looking School Community”</i> espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
 		</td>
 	</tr>
-	</table>
-	<table width="100%">
 	<tr>
-		<td> <b>Finding New Ways</b></td>
+		<td colspan="2"> <b>Finding New Ways</b></td>
 	</tr>
 	<tr>
-		<td>
-			To navigate the challenges of the future with confidence, our students need to understand their own strengths and interests and learn the necessary skills and aptitudes that will enable them to collaborate, connect and co-create with others. Our mission, “\_We provide a caring and enabling environment to develop every Fuchunian holistically as future-ready learners, through strong engagement in joyful learning and character building\_” explains our pursuit to find new and varied ways to prepare our students to be future ready.
-			
+		<td colspan="2">
+			To navigate the challenges of the future with confidence, our students need to understand their own strengths and interests and learn the necessary skills and aptitudes that will enable them to collaborate, connect and co-create with others. Our mission, “We provide a caring and enabling environment to develop every Fuchunian holistically as future-ready learners, through strong engagement in joyful learning and character building” explains our pursuit to find new and varied ways to prepare our students to be future ready.
 		</td>
 	</tr>
 	</table>
