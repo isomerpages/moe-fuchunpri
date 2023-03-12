@@ -208,7 +208,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>NON-FORM TEACHERS</strong></h4>
+<h4><strong>NON-FORM TEACHERS</strong</h4>
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -260,6 +260,7 @@ description: ""
 <td>Ms Tee Hwei Yeen</td>
 <td>TEACHER</td>
 <td><a href="mailto:tee_hwei_yeen@schools.gov.sg" target="">tee_hwei_yeen@schools.gov.sg</a></td>
+	</tr>
 </tbody>
 </table>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
