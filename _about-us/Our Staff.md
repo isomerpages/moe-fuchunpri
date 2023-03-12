@@ -354,73 +354,73 @@ description: ""
 </tr>
 <tr>
 <td><strong>P2AM</strong></td>
-<td>Miss Rizwanah Begum Bte Mohamad Yoonus</td>
-<td><a href="mailto:rizwanah_begum_mohamad_yoonus@schools.gov.sg" target="">rizwanah_begum_mohamad_yoonus@schools.gov.sg</a></td>
+<td>Ms Lee Hui Ning</td>
+<td><a href="mailto:lee_hui_ning@schools.gov.sg" target="">lee_hui_ning@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2AM</strong></td>
-<td>Mrs Tan Yit Mei</td>
-<td><a href="mailto:chow_yit_mei@schools.gov.sg" target="">chow_yit_mei@schools.gov.sg</a></td>
+<td>Mdm Noorhana Atiqah Binte Ab Rahman</td>
+<td><a href="mailto:noorhana_atiqah_ab_rahman@schools.gov.sg" target="">noorhana_atiqah_ab_rahman@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2CR</strong></td>
+<td>Mdm Marlini Bte Ismail</td>
+<td><a href="mailto:marlini_ismail@schools.gov.sg" target="">marlini_ismail@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P2CR</strong></td>
+<td>Ms Zhuang Huifen</td>
+<td><a href="mailto:zhuang_huifen@schools.gov.sg" target="">zhuang_huifen@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P2EM</strong></td>
 <td>Mdm Ma Jing</td>
 <td><a href="mailto:ma_jing_a@schools.gov.sg" target="">ma_jing_a@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td><strong>P2CR</strong></td>
-<td>Ms Khairina Binte Khaled</td>
-<td><a href="mailto:khairina_khaled@schools.gov.sg" target="">khairina_khaled@schools.gov.sg</a></td>
-</tr>
-<tr>
 <td><strong>P2EM</strong></td>
-<td>Mr Lee Yuen Hwa</td>
-<td><a href="mailto:lee_yuen_hwa@schools.gov.sg" target="">lee_yuen_hwa@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P2EM</strong></td>
-<td>Mrs Selina Sena</td>
-<td><a href="mailto:brampy_chitra_selina@schools.gov.sg" target="">brampy_chitra_selina@schools.gov.sg</a></td>
+<td>Ms Nur Haslinda Binte Junaidi</td>
+<td><a href="mailto:nur_haslinda_junaidi@schools.gov.sg" target="">nur_haslinda_junaidi@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2JD</strong></td>
-<td>Mdm Siti Norkhatijah&nbsp;Bte Khalid</td>
-<td><a href="mailto:Siti_norkhatijah_khalid@schools.gov.sg" target="">Siti_norkhatijah_khalid@schools.gov.sg</a></td>
+<td>Ms Lee Hui Lun</td>
+<td><a href="mailto:lee_hui_lun@schools.gov.sg" target="">lee_hui_lun@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2JD</strong></td>
-<td>Mdm Wang Ping</td>
-<td><a href="mailto:wang_ping@schools.gov.sg" target="">wang_ping@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P2PL</strong></td>
-<td>Mdm Nithiyah&nbsp;D/O Panirselveam</td>
-<td><a href="mailto:nithiyah_panirselveam@schools.gov.sg" target="">nithiyah_panirselveam@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P2PL</strong></td>
-<td>Ms Xu Cui Ping</td>
-<td><a href="mailto:xu_cuiping@schools.gov.sg" target="">xu_cuiping@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P2RB</strong></td>
 <td>Ms Nur Hasyimah Bte Surnin</td>
 <td><a href="mailto:nur_hasyimah_surnin@schools.gov.sg" target="">nur_hasyimah_surnin@schools.gov.sg</a></td>
 </tr>
 <tr>
+<td><strong>P2PL</strong></td>
+<td>Mrs Selena Sena</td>
+<td><a href="mailto:brampy_chitra_selina@schools.gov.sg" target="">brampy_chitra_selina@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P2PL</strong></td>
+<td>Ms Nur Farzlinda Remie Iskander</td>
+<td><a href="mailto:nur_farzlinda_remie_iskander@schools.gov.sg" target="">nur_farzlinda_remie_iskander@schools.gov.sg</a></td>
+</tr>
+<tr>
 <td><strong>P2RB</strong></td>
-<td>Ms Sakunthala Rajamohan</td>
-<td><a href="mailto:sakunthala_rajamohan@schools.gov.sg" target="">sakunthala_rajamohan@schools.gov.sg</a></td>
+<td>Mdm Fitri Isnawati Bte Yaacob</td>
+<td><a href="mailto:fitri_isnawati_yaacob@schools.gov.sg" target="">fitri_isnawati_yaacob@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P2RB</strong></td>
+<td>Ms Huang Ting</td>
+<td><a href="mailto:huang_ting_b@schools.gov.sg" target="">huang_ting_b@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P2SP</strong></td>
+<td>Mr Chan Wei Hao</td>
+<td><a href="mailto:chan_wei_hao@schools.gov.sg" target="">chan_wei_hao@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2SP</strong></td>
 <td>Mdm Shona Lim</td>
 <td><a href="mailto:lim_bee_eng_shona@schools.gov.sg" target="">lim_bee_eng_shona@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P2SP</strong></td>
-<td>Ms Lee Hui Ning</td>
-<td><a href="mailto:lee_hui_ning@schools.gov.sg" target="">lee_hui_ning@schools.gov.sg</a></td>
 </tr>
 </tbody>
 </table>
