@@ -282,63 +282,65 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1CR</strong></td>
-<td>Mdm Marlini Bte Ismail</td>
-<td><a href="mailto:marlini_ismail@schools.gov.sg" target="">marlini_ismail@schools.gov.sg</a></td>
+<td>Mr Lee Yuen Hwa</td>
+<td><a href="mailto:lee_yuen_hwa@schools.gov.sg" target="">lee_yuen_hwa@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1CR</strong></td>
-<td>Ms Zhuang Huifen</td>
-<td><a href="mailto:zhuang_huifen@schools.gov.sg" target="">zhuang_huifen@schools.gov.sg</a></td>
+<td>Ms Khairina Bte Khaled</td>
+<td><a href="mailto:khairina_khalid@schools.gov.sg" target="">khairina_khalid@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1EM</strong></td>
-<td>Mdm Gunasundari D/O Manian</td>
-<td><a href="mailto:gunasundari_manian@schools.gov.sg" target="">gunasundari_manian@schools.gov.sg</a></td>
+<td>Ms Rasyidah Bte Bajuri</td>
+<td><a href="mailto:rasyidah_bajuri@schools.gov.sg" target="">rasyidah_bajuri@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1EM</strong></td>
-<td>Ms Nur Haslinda Bte Junaidi</td>
-<td><a href="mailto:nur_haslinda_junaidi@schools.gov.sg" target="">nur_haslinda_junaidi@schools.gov.sg</a></td>
+<td>Ms Neo Poh Tin Justina</td>
+<td><a href="mailto:neo_poh_tin_justina@schools.gov.sg" target="">neo_poh_tin_justina@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1JD</strong></td>
-<td>Ms Atikah Adilah Bte Ahmad Affandi</td>
-<td><a href="mailto:atikah_adilah_ahmad_affandi@schools.gov.sg" target="">atikah_adilah_ahmad_affandi@schools.gov.sg</a></td>
+<td>Ms Rizwanah Begum Bte Mohamad Yoonus</td>
+<td><a href="mailto:rizwanah_begum_mohamad_yoonus@schools.gov.sg" target="">rizwanah_begum_mohamad_yoonus@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1JD</strong></td>
-<td>Ms Lee Hui Lun</td>
-<td><a href="mailto:lee_hui_lun@schools.gov.sg" target="">lee_hui_lun@schools.gov.sg</a></td>
+<td>Ms Siti Norkhatijah Bte Khalid</td>
+<td><a href="mailto:siti_norkhatijah_khalid@schools.gov.sg" target="">siti_norkhatijah_khalid@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P1PL (SEMESTER 2)</strong></td>
+<td>Ms Atikah Adilah Binte Ahmad Affandi</td>
+<td><a href="mailto:atikah_adilah_ahmad_affandi@schools.gov.sg">atikah_adilah_ahmad_affandi@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1PL</strong></td>
-<td>Nur Farzlinda Remie Iskander</td>
-<td><a href="mailto:nur_farzlinda_remie_iskander@schools.gov.sg">nur_farzlinda_remie_iskander@schools.gov.sg</a></td>
+<td>Mrs Tan Yit Mei</td>
+<td><a href="mailto:chow_yit_mei@schools.gov.sg" target="">chow_yit_mei@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td><strong>P1PL</strong></td>
-<td>Ms Hee Chuan Whai</td>
-<td><a href="mailto:hee_chuan_whai@schools.gov.sg" target="">hee_chuan_whai@schools.gov.sg</a></td>
+	<tr>
+<td><strong>P1RB</strong></td>
+<td>Ms Hee Chuan Wai</td>
+<td><a href="mailto:hee_chuan_wai@schools.gov.sg" target="">hee_chuan_wai@schools.gov.sg</a></td>
 </tr>
+	
 <tr>
 <td><strong>P1RB</strong></td>
-<td>Mdm Fitri Isnawati Bte Yaacob</td>
-<td><a href="mailto:fitri_isnawati_yaacob@schools.gov.sg" target="">fitri_isnawati_yaacob@schools.gov.sg</a></td>
+<td>Mdm Nithiyah D/O Panirselveam</td>
+<td><a href="mailto:nithiyah_panirselveam@schools.gov.sg" target="">nithiyah_panirselveam@schools.gov.sg</a></td>
 </tr>
+
 <tr>
-<td><strong>P1RB</strong></td>
-<td>Ms Ha Siao Teng</td>
-<td><a href="mailto:ha_siao_teng@schools.gov.sg" target="">ha_siao_teng@schools.gov.sg</a></td>
+<td><strong>P1SP</strong></td>
+<td>Mr Francis Mah Yew Seng</td>
+<td><a href="mailto:francis_mah_yew_seng@schools.gov.sg" target="">francis_mah_yew_seng@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1SP</strong></td>
-<td>Mr Chan Wei Hao</td>
-<td><a href="mailto:chan_wei_haol@schools.gov.sg" target="">chan_wei_hao@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P1SP</strong></td>
-<td>Ms Nur Elmizah Binte Mhd Yassin</td>
-<td><a href="mailto:nur_elmizah_mhd_yassin@schools.gov.sg" target="">nur_elmizah_mhd_yassin@schools.gov.sg</a></td>
+<td>Ms Xu Cuiping</td>
+<td><a href="mailto:xu_cuiping@schools.gov.sg" target="">xu_cuiping@schools.gov.sg</a></td>
 </tr>
 </tbody>
 </table>
