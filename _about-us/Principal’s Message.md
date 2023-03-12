@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
-<table width="100%" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
 		  <td width="30%"><img src="/images/Mrs%20Lim%20w%20P1s.jpg" >
 		</td>
