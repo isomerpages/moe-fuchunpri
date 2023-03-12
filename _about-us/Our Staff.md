@@ -577,23 +577,23 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5AM</strong></td>
-<td>Mr Lee Siu Kee</td>
-<td><a href="mailto:lee_siu_kee@schools.gov.sg" target="">lee_siu_kee@schools.gov.sg</a></td>
+<td>Mr R Prasad</td>
+<td><a href="mailto:r_prasad@schools.gov.sg" target="">r_prasad@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5AM</strong></td>
-<td>Ms Yeo Pei Qi</td>
-<td><a href="mailto:yeo_pei_qi@schools.gov.sg" target="">yeo_pei_qi@schools.gov.sg</a></td>
+<td>Mdm Ang Chia Chia</td>
+<td><a href="mailto:ang_chia_chia@schools.gov.sg" target="">ang_chia_chia@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5CR</strong></td>
-<td>Mdm Julinda Bte Hassan</td>
-<td><a href="mailto:julinda_hassan@schools.gov.sg" target="">julinda_hassan@schools.gov.sg</a></td>
+<td>Ms Lee Yi Wen Evelyn</td>
+<td><a href="mailto:lee_yi_wen@schools.gov.sg" target="">lee_yi_wen@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5CR</strong></td>
-<td>Ms Cheryl Kayla Ng</td>
-<td><a href="mailto:cheryl_kayla_ng@schools.gov.sg" target="">cheryl_kayla_ng@schools.gov.sg</a></td>
+<td>Mrs Michelle Fernandez</td>
+<td><a href="mailto:michelle_edwin_gomez@schools.gov.sg" target="">michelle_edwin_gomez@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5EM</strong></td>
@@ -602,8 +602,8 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5EM</strong></td>
-<td>Ms Chen Liangrui</td>
-<td><a href="mailto:chen_liangrui@schools.gov.sg" target="">chen_liangrui@schools.gov.sg</a></td>
+<td>Mrs Lynn Yap-Ng Wee Sin</td>
+<td><a href="mailto:ng_wee_sin@schools.gov.sg" target="">ng_wee_sin@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5JD</strong></td>
@@ -612,19 +612,31 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5JD</strong></td>
-<td>Ms Tern Hui Kuan Sally</td>
-<td><a href="mailto:tern_hui_kuan@schools.gov.sg" target="">tern_hui_kuan@schools.gov.sg</a></td>
+<td>Mrs Weng-Phua Soo Chin</td>
+<td><a href="mailto:phua_soo_chin@schools.gov.sg" target="">phua_soo_chin@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P5PL</strong></td>
+<td>Ms Lim Shu Xuan Sharon</td>
+<td><a href="mailto:lim_shu_xuan_sharon_a@schools.gov.sg" target="">lim_shu_xuan_sharon_a@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P5PL</strong></td>
+<td>Ms Pang Shimin Germaine</td>
+<td><a href="mailto:germaine_pang_shimin@schools.gov.sg" target="">germaine_pang_shimin@schools.gov.sg</a></td>
+</tr>
+	<tr>
+<td><strong>P5RB</strong></td>
 <td>Mdm Norazilah Hanim Binte Jaafar</td>
 <td><a href="mailto:norazilah_hanim_jaafar@schools.gov.sg" target="">norazilah_hanim_jaafar@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td><strong>P5PL</strong></td>
-<td>Mrs Gan Ping Fong</td>
-<td><a href="mailto:chai_ping_fong@schools.gov.sg" target="">chai_ping_fong@schools.gov.sg</a></td>
+		<tr>
+<td><strong>P5RB</strong></td>
+<td>Mrs Vasanthi Jaya</td>
+<td><a href="mailto:vasanthi_rangayah@schools.gov.sg" target="">vasanthi_rangayah@schools.gov.sg</a></td>
 </tr>
+	
+	
 </tbody>
 </table>
 <h4><strong>PRIMARY 6 FORM TEACHERS</strong></h4>
@@ -642,59 +654,55 @@ description: ""
 </tr>
 <tr>
 <td><strong>P6AM</strong></td>
-<td>Ms Pang Shimin Germaine</td>
-<td><a href="mailto:germaine_pang_shimin@schools.gov.sg" target="">germaine_pang_shimin@schools.gov.sg</a></td>
+<td>Ms Yeo Pei Qi</td>
+<td><a href="mailto:yeo_pei_qi@schools.gov.sg" target="">yeo_pei_qi@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P6CR</strong></td>
-<td>Mdm Lim Bee Suan</td>
-<td><a href="mailto:lim_bee_suan@schools.gov.sg" target="">lim_bee_suan@schools.gov.sg</a></td>
+<td>Mdm Julinda Bte Hassan</td>
+<td><a href="mailto:julinda_hassan@schools.gov.sg" target="">julinda_hassan@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P6CR</strong></td>
-<td>Mrs Lynn Yap-Ng Wee Sin</td>
-<td><a href="mailto:ng_wee_sin@schools.gov.sg" target="">ng_wee_sin@schools.gov.sg</a></td>
+<td>Ms Cheryl Kayla Ng</td>
+<td><a href="mailto:cheryl_kayla_ng@schools.gov.sg" target="">cheryl_kayla_ng@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P6EM</strong></td>
-<td>Mdm Maryanni&nbsp;Bte Surern</td>
-<td><a href="mailto:maryanni_surern@schools.gov.sg" target="">maryanni_surern@schools.gov.sg</a></td>
+<td>Mdm Parameshwari D/O S Kunju</td>
+<td><a href="mailto:parameshwari_skunju@schools.gov.sg" target="">parameshwari_skunju@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P6EM</strong></td>
-<td>Mr R Prasad</td>
-<td><a href="mailto:r_prasad@schools.gov.sg" target="">r_prasad@schools.gov.sg</a></td>
+<td>Ms Chen Liangrui</td>
+<td><a href="mailto:chen_liangru@schools.gov.sg" target="">chen_liangrui@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P6JD</strong></td>
-<td>Mrs Belinda Goh</td>
-<td><a href="mailto:heng_lee_peng_belinda@schools.gov.sg" target="">heng_lee_peng_belinda@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P6JD</strong></td>
-<td>Mrs Michelle&nbsp;Fernandez</td>
-<td><a href="mailto:michelle_edwin_gomez@schools.gov.sg" target="">michelle_edwin_gomez@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P6PL</strong></td>
-<td>Ms Phua Soo Chin</td>
-<td><a href="mailto:phua_soo_chin@schools.gov.sg" target="">phua_soo_chin@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P6PL</strong></td>
-<td>Ms Lee Yi Wen Evelyn</td>
-<td><a href="mailto:ong_king_hong@schools.gov.sg" target="">lee_yi_wen@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P6RB</strong></td>
-<td>Mdm Ang Chia Chia</td>
-<td><a href="mailto:ang_chia_chia@schools.gov.sg" target="">ang_chia_chia@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P6RB</strong></td>
 <td>Mr Tan Kock Boon</td>
 <td><a href="mailto:tan_kock_boon@schools.gov.sg" target="">tan_kock_boon@schools.gov.sg</a></td>
 </tr>
+<tr>
+<td><strong>P6JD</strong></td>
+<td>Ms Tern Hui Kuan Sally</td>
+<td><a href="mailto:tern_hui_kuan@schools.gov.sg" target="">tern_hui_kuan@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P6PL</strong></td>
+<td>Mrs Gan Ping Fong</td>
+<td><a href="mailto:chai_ping_fong@schools.gov.sg" target="">chai_ping_fong@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P6PL (TERM 1)</strong></td>
+<td>Mrs Clare Seah</td>
+<td><a href="mailto:lim_kai_li_clare@schools.gov.sg" target="">lim_kai_li_clare@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P6PL (TERM 2-4)</strong></td>
+<td>Mdm Maryanni Bte Surern</td>
+<td><a href="mailto:maryanni_surern@schools.gov.sg" target="">maryanni_surern@schools.gov.sg</a></td>
+</tr>
+
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM AND SUPPORT STAFF</strong></h4>
