@@ -9,11 +9,22 @@ description: ""
 		</td>
 		<td width="70%"> Dear Parents/Guardians and Students,
 <br><br>
-			<b>**Caring for Everyone**</b>
+			<b>Caring for Everyone</b>
 <br><br>
 As we enter 2023 with new dreams and hopes, let us endeavor to seize every opportunity to grow and learn as a school. The Covid-19 pandemic has taught us the importance of being adaptable and resilient during uncertain and difficult times. During our struggles, we were also thankful for the unceasing care, encouragement, and support from those around us. They really kept us going.
-
-Our vision, _“A Nurturing, Resilient and Forward-Looking School Community”_ espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
+<br><br>
+			Our vision, <i>“A Nurturing, Resilient and Forward-Looking School Community”</i> espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
+		</td>
+	</tr>
+	</table>
+	<table width="100%">
+	<tr>
+		<td> <b>Finding New Ways</b></td>
+	</tr>
+	<tr>
+		<td>
+			To navigate the challenges of the future with confidence, our students need to understand their own strengths and interests and learn the necessary skills and aptitudes that will enable them to collaborate, connect and co-create with others. Our mission, “\_We provide a caring and enabling environment to develop every Fuchunian holistically as future-ready learners, through strong engagement in joyful learning and character building\_” explains our pursuit to find new and varied ways to prepare our students to be future ready.
+			
 		</td>
 	</tr>
 	</table>
