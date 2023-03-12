@@ -5,9 +5,9 @@ description: ""
 ---
 <table width="100%">
 	<tr>
-		  <td width="60%"><img src="/images/Mrs%20Lim%20w%20P1s.jpg" >
+		  <td width="30%"><img src="/images/Mrs%20Lim%20w%20P1s.jpg" >
 		</td>
-		<td width="40%"> Dear Parents/Guardians and Students,
+		<td width="70%"> Dear Parents/Guardians and Students,
 <br><br>
 			<b>**Caring for Everyone**</b>
 <br><br>
