@@ -434,54 +434,76 @@ description: ""
 </tr>
 <tr>
 <td><strong>P3AM</strong></td>
-<td>Mdm Siti Salhah Bte Salam</td>
-<td><a href="mailto:siti_salhah_salam@schools.gov.sg" target="">siti_salhah_salam@schools.gov.sg</a></td>
+<td>Mdm Wang Ping</td>
+<td><a href="mailto:wang_ping@schools.gov.sg" target="">wang_ping@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P3AM</strong></td>
-<td>Ms Lye Jia Yi Adeline</td>
-<td><a href="mailto:lye_jia_yi_adeline@schools.gov.sg" target="">lye_jia_yi_adeline@schools.gov.sg</a></td>
+<td>Mdm Rohani Binte Talib</td>
+<td><a href="mailto:rohani_talib@schools.gov.sg" target="">rohani_talib@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P3CR (SEMESTER 1)</strong></td>
+<td>Ms Ng Mabel</td>
+<td><a href="mailto:ng_mabel@schools.gov.sg" target="">ng_mabel@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P3CR (SEMESTER 2)</strong></td>
+<td>Mrs Belinda Goh</td>
+<td><a href="mailto:heng_lee_peng_belinda@schools.gov.sg" target="">heng_lee_peng_belinda@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P3CR</strong></td>
-<td>Mdm Asmidah Bte Mohd Jailani</td>
-<td><a href="mailto:asmidah_mohd_jailani@schools.gov.sg" target="">asmidah_mohd_jailani@schools.gov.sg</a></td>
-</tr>
+<td>Mdm Lim Bee Suan</td>
+<td><a href="mailto:lim_bee_suan@schools.gov.sg" target="">lim_bee_suan@schools.gov.sg</a></td>
+</tr>	
+	
 <tr>
-<td><strong>P3CR</strong></td>
-<td>Mdm Oh Mee Choo Jenny</td>
-<td><a href="mailto:oh_mee_choo_jenny@schools.gov.sg" target="">oh_mee_choo_jenny@schools.gov.sg</a></td>
+<td><strong>P3EM</strong></td>
+<td>Mr Rohaizad Bin Juri</td>
+<td><a href="mailto:rohaizad_juri@schools.gov.sg" target="">rohaizad_juri@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P3EM</strong></td>
-<td>Mdm Nurul Aini Bte Mohamad Nor</td>
-<td><a href="mailto:nurul_aini_mohamad_nor@schools.gov.sg" target="">nurul_aini_mohamad_nor@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P3EM</strong></td>
-<td>Mr Koh Leong Seng Morris</td>
-<td><a href="mailto:koh_leong_seng_morris@schools.gov.sg" target="">koh_leong_seng_morris@schools.gov.sg</a></td>
+<td>Mrs Zhang-Sng Yi Hui Gerine</td>
+<td><a href="mailto:sng_yi_hui@schools.gov.sg" target="">sng_yi_hui@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P3JD</strong></td>
-<td>Mdm Khamisa&nbsp;Bte Khamis</td>
+<td>Mr Andy Lim Jing Han</td>
+<td><a href="mailto:lim_jing_han@schools.gov.sg" target="">lim_jing_han@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td><strong>P3JD</strong></td>
+<td>Mdm Khamisa Bte Khamis</td>
 <td><a href="mailto:khamisa_khamis@schools.gov.sg" target="">khamisa_khamis@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td><strong>P3JD</strong></td>
-<td>Mrs Wong-Hun Shiew Young</td>
-<td><a href="mailto:hun_shiew_young@schools.gov.sg" target="">hun_shiew_young@schools.gov.sg</a></td>
+<td><strong>P3PL</strong></td>
+<td>Ms Leong Jia Min</td>
+<td><a href="mailto:leong_jia_min@schools.gov.sg" target="">leong_jia_min@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P3PL</strong></td>
-<td>Mr Phua Eng Wee&nbsp;</td>
-<td><a href="mailto:phua_eng_wee@schools.gov.sg" target="">phua_eng_wee@schools.gov.sg</a></td>
+<td>Ms Soh Ming Yue</td>
+<td><a href="mailto:soh_ming_yue@schools.gov.sg">soh_ming_yue@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td><strong>P3PL</strong></td>
-<td>Ms Chua Yan Ni</td>
-<td><a href="mailto:chua_yan_ni@schools.gov.sg">chua_yan_ni@schools.gov.sg</a></td>
+	
+	<tr>
+<td><strong>P3RB</strong></td>
+<td>Mdm Hajjah Marzia Bte Abd Rahman</td>
+<td><a href="mailto:hajjah_marzia@schools.gov.sg">hajjah_marzia@schools.gov.sg</a></td>
 </tr>
+	
+	<tr>
+<td><strong>P3RB</strong></td>
+<td>Ms Valentina Fernandez</td>
+<td><a href="mailto:helen_valentina_fernandez@schools.gov.sg">hajjah_marzia@schools.gov.sg</a></td>
+</tr>	
+	
+	
+	
+	
 </tbody>
 </table>
 <h4><strong>PRIMARY 4 FORM TEACHERS</strong></h4>
@@ -494,64 +516,55 @@ description: ""
 </tr>
 <tr>
 <td><strong>P4AM</strong></td>
-<td>Mdm Rohani&nbsp;Binte Talib</td>
-<td><a href="mailto:rohani_talib@schools.gov.sg" target="">rohani_talib@schools.gov.sg</a></td>
+<td>Mdm Siti Salhah Bte Salam</td>
+<td><a href="mailto:siti_salhah_salam@schools.gov.sg" target="">siti_salhah_salam@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4AM</strong></td>
-<td>Mrs Pang Mei Zhu</td>
-<td><a href="mailto:xu_mei_zhu@schools.gov.sg" target="">xu_mei_zhu@schools.gov.sg</a></td>
+<td>Mrs Yee Jiong Hwa</td>
+<td><a href="mailto:yee_jiong_hwa@schools.gov.sg" target="">yee_jiong_hwa@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4CR</strong></td>
-<td>Mr Zhao Fan</td>
-<td><a href="mailto:zhao_fan@schools.gov.sg" target="">zhao_fan@schools.gov.sg</a></td>
+<td>Mdm Asmidah Bte Mohd Jailani</td>
+<td><a href="mailto:asmidah_mohd_jailani@schools.gov.sg" target="">asmidah_mohd_jailani@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4CR</strong></td>
-<td>Mrs Vasanthi Jaya</td>
-<td><a href="mailto:vasanthi_rangayah@schools.gov.sg" target="">vasanthi_rangayah@schools.gov.sg</a></td>
+<td>Mdm Oh Mee Choo Jenny</td>
+<td><a href="mailto:oh_mee_chu_jenny@schools.gov.sg" target="">oh_mee_chu_jenny@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4EM</strong></td>
-<td>Mr Rohaizad Bin Juri</td>
-<td><a href="mailto:rohaizad_juri@schools.gov.sg" target="">rohaizad_juri@schools.gov.sg</a></td>
+<td>Mdm Gunasundari D/O Manian</td>
+<td><a href="mailto:gunasundari_manian@schools.gov.sg" target="">gunasundari_manian@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4EM</strong></td>
-<td>Ms Mabel Ng</td>
-<td><a href="mailto:ng_mabel@schools.gov.sg" target="">ng_mabel@schools.gov.sg</a></td>
+<td>Mdm Nurul Aini Bte Mohamad Nor</td>
+<td><a href="mailto:nurul_aini_mohamad_nor@schools.gov.sg" target="">nurul_aini_mohamad_nor@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4JD</strong></td>
-<td>Ms Rasyidah Bte Bajuri</td>
-<td><a href="mailto:rasyidah_bajuri@schools.gov.sg" target="">rasyidah_bajuri@schools.gov.sg</a></td>
+<td>Mrs Wong-Hun Shiew Young</td>
+<td><a href="mailto:hun_shiew_young@schools.gov.sg" target="">hun_shiew_young@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4JD</strong></td>
-<td>Ms Soh Ming Yue</td>
-<td><a href="mailto:soh_ming_yue@schools.gov.sg" target="">soh_ming_yue@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P4PL</strong></td>
-<td>Mrs Azlina&nbsp;Shareen</td>
+<td>Mrs Azlina Shareen</td>
 <td><a href="mailto:nor_azlina_bivi@schools.gov.sg" target="">nor_azlina_bivi@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4PL</strong></td>
-<td>Mrs Zhang-Sng Yi Hui Gerine</td>
-<td><a href="mailto:sng_yi_hui@schools.gov.sg" target="">sng_yi_hui@schools.gov.sg</a></td>
+<td>Ms Chua Yan Ni</td>
+<td><a href="mailto:chua_yan_ni@schools.gov.sg" target="">chua_yan_ni@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td><strong>P4RB</strong></td>
-<td>Mdm Hajjah Marzia Bte Abd Rahman</td>
-<td><a href="mailto:hajjah_marzia@moe.edu.sg">hajjah_marzia@</a><a href="mailto:gunasundari_manian@schools.gov.sg" target="">schools.gov</a><a href="mailto:hajjah_marzia@moe.edu.sg">.sg</a></td>
+<td><strong>P4PL</strong></td>
+<td>Mr Phua Eng Wee</td>
+<td><a href="mailto:phua_eng_wee@schools.gov.sg" target="">phua_eng_wee@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td><strong>P4RB</strong></td>
-<td>Ms Valentina Fernandez</td>
-<td><a href="mailto:helen_valentina_fernandez@schools.gov.sg" target="">helen_valentina_fernandez@schools.gov.sg</a></td>
-</tr>
+
 </tbody>
 </table>
 <h4><strong>PRIMARY 5 FORM TEACHERS</strong></h4>
