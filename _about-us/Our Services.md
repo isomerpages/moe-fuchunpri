@@ -43,8 +43,6 @@ Close on School Holidays unless specified.
     
 Website: [https://ihuntforbooks.com/book-appointments/](https://ihuntforbooks.com/book-appointments/)
 
-![HB appointment.png](https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2023%20Booklist/HB%20appointment.png)  
-
 **Operating Hours during School Holiday**  
 
 **Weekdays**  
