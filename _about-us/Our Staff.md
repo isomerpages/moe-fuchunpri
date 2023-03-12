@@ -219,27 +219,7 @@ description: ""
 <tr>
 <td>Mrs Kokilavani W/O Vassou</td>
 <td>TEACHER</td>
-<td><a href="(mailto:kokilavani_vassou@schools.gov.sg)" target="">kokilavani_vassou@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Wu Jianhong</td>
-<td>TEACHER</td>
-<td><a href="mailto:wu_jianhong@schools.gov.sg" target="">wu_jianhong@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mrs Yee Jiong Hwa</td>
-<td>TEACHER</td>
-<td><a href="mailto:yee_jiong_hwa@schools.gov.sg">yee_jiong_hwa@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mr Brendan Gerard Jeremiah</td>
-<td>TEACHER</td>
-<td><a href="mailto:Brendan_Gerard_Jeremiah@schools.gov.sg" target="">brendan_gerard_jeremiah@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Zelda D/O Mohd Ibrahim</td>
-<td>TEACHER</td>
-<td><a href="mailto:zelda_mohd_ibrahim@schools.gov.sg" target="">zelda_mohd_ibrahim@schools.gov.sg</a></td>
+<td><a href="kokilavani_vassou@schools.gov.sg" target="">kokilavani_vassou@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mr Ravin Ragupathi</td>
@@ -247,9 +227,9 @@ description: ""
 <td><a href="mailto:ravin_ragupathi@schools.gov.sg" target="">ravin_ragupathi@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mrs Kokilavani W/O Vassou</td>
+<td>Ms Patricia Lim</td>
 <td>TEACHER</td>
-<td><a href="mailto:kokilavani_vassou@schools.gov.sg" target="">kokilavani_vassou@schools.gov.sg</a></td>
+<td><a href="mailto:lim_lui_yen@schools.gov.sg">lim_lui_yen@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tan Wei Ching</td>
@@ -257,40 +237,29 @@ description: ""
 <td><a href="mailto:tan_wei_ching@schools.gov.sg" target="">tan_wei_ching@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Ms Nadrah Binte Anuar</td>
+<td>Mdm Quek Yoke Leng</td>
 <td>TEACHER</td>
-<td><a href="mailto:nadrah_anuar@schools.gov.sg" target="">nadrah_anuar@schools.gov.sg</a></td>
+<td><a href="mailto:quek_yoke_leng@schools.gov.sg" target="">quek_yoke_leng@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Yogavathi D/O Packirisamy</td>
-<td>TEACHER&nbsp;</td>
-<td><a href="mailto:yogavathi_packirisamy@schools.gov.sg" target="">yogavathi_packirisamy@schools.gov.sg</a></td>
+<td>Mrs Sujatha Prakas</td>
+<td>TEACHER</td>
+<td><a href="mailto:sujatha_prakas_nee_sreedharen@schools.gov.sg" target="">sujatha_prakas_nee_sreedharen@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Ms Candice Lee</td>
+<td>TEACHER</td>
+<td><a href="mailto:candice_lee@schools.gov.sg" target="">candice_lee@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Zarina Bte Abu Bakar</td>
+<td>TEACHER</td>
+<td><a href="mailto:zarina_abu_bakar@schools.gov.sg" target="">zarina_abu_bakar@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tee Hwei Yeen</td>
 <td>TEACHER</td>
 <td><a href="mailto:tee_hwei_yeen@schools.gov.sg" target="">tee_hwei_yeen@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Maizathul Akmar Binte Shahul Hameed</td>
-<td>TEACHER</td>
-<td><a href="mailto:maizathul_akmar_shahul_hameed@schools.gov.sg" target="">maizathul_akmar_shahul_hameed@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Quek Yoke Leng&nbsp;</td>
-<td>TEACHER</td>
-<td><a href="mailto:quek_yoke_leng@schools.gov.sg" target="">quek_yoke_leng@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Ms Patricia Lim</td>
-<td>TEACHER</td>
-<td><a href="mailto:lim_lui_yen@schools.gov.sg">lim_lui_yen@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Ms Alice Ng Kim Yen</td>
-<td>TEACHER</td>
-<td><a href="mailto:ng_kim_yen_alice@schools.gov.sg" target="">ng_kim_yen_alice@schools.gov.sg</a></td>
-</tr>
 </tbody>
 </table>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
@@ -303,13 +272,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1AM</strong></td>
-<td>Mdm Noorhana Atiqah Binte Ab Rahman</td>
-<td><a href="mailto:noorhana_atiqah_ab_rahman@schools.gov.sg" target="">noorhana_atiqah_ab_rahman@schools.gov.sg</a></td>
+<td>Ms Ha Siao Teng</td>
+<td><a href="mailto:ha_siao_teng@schools.gov.sg" target="">ha_siao_teng@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1AM</strong></td>
-<td>Mr Francis Mah Yew Seng</td>
-<td><a href="mailto:francis_mah_yew_seng@schools.gov.sg" target="">francis_mah_yew_seng@schools.gov.sg</a></td>
+<td>Ms Sakunthala Rajamohan</td>
+<td><a href="mailto:sakunthala_rajamohan@schools.gov.sg" target="">sakunthala_rajamohan@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1CR</strong></td>
