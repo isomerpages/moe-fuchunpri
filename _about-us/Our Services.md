@@ -60,11 +60,13 @@ Close on School Holidays unless specified.
 
 **Mode of Purchase during School Holidays**
 
-#### 
+
 
 *   Online purchase via  [https://www.ihuntforbooks.com/](https://www.ihuntforbooks.com/) (available from 21 Nov 2022 to 22 Dec)
 
 ![HB online.png](https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2023%20Booklist/HB%20online.png)
+
+<img src="https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2023%20Booklist/HB%20online.png" width="50" height="50"/>
 
 *     
     
