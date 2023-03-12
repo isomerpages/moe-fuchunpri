@@ -749,9 +749,9 @@ description: ""
 <td><a href="mailto:lai_tham_hoe@schools.gov.sg" target="">lai_tham_hoe@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Ms Chris Yip</td>
-<td>&nbsp;ICT MANAGER</td>
-<td><a href="mailto:yip_yoke_ping_chris@schools.gov.sg">yip_yoke_ping_chris@schools.gov.sg</a></td>
+<td>Mdm Hariati Binte Abdul Muhin</td>
+<td>CORPORATE SUPPORT OFFICER</td>
+<td><a href="mailto:hariati_abdul_muhin@schools.gov.sg">hariati_abdul_muhin@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Ee Thiam Mua</td>
@@ -783,6 +783,12 @@ description: ""
 <td>DESKTOP ENGINEER</td>
 <td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
 </tr>
+	<tr>
+<td>Mr Louis Poh</td>
+<td>ICT TRAINER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+	
 <tr>
 <td>Mdm Suhailah Bte Mohamed Taib</td>
 <td>LIBRARIAN</td>
@@ -803,21 +809,13 @@ description: ""
 <td>SCHOOL COUNSELLOR</td>
 <td><a href="mailto:preethee_j_preethee@schools.gov.sg" target="">preethee_j_preethee@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td>Mdm Farhana Binte Hassan</td>
-<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
-<td><a href="mailto:farhana_hassan@schools.gov.sg" target="">farhana_hassan@schools.gov.sg</a></td>
-</tr>
+
 <tr>
 <td>Ms Lim Che Ka</td>
 <td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
 <td><a href="mailto:lim_che_ka@schools.gov.sg" target="">lim_che_ka@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td>Mdm Winnie Tan Boon Leng</td>
-<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
-<td><a href="mailto:winnie_tan_boon_leng@schools.gov.sg" target="">winnie_tan_boon_leng@schools.gov.sg</a></td>
-</tr>
+
 <tr>
 <td>Mdm Pang Heng Mui</td>
 <td>ALLIED EDUCATOR/TEACHING &amp; LEARNING</td>
