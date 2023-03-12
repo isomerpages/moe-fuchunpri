@@ -105,7 +105,6 @@ For enquiries, please email: [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com)
 *   [P6 Booklist 2023 -Set G 4F.pdf](https://fuchunpri.moe.edu.sg/qql/slot/u158/About%20Us/Our%20Services/2023%20Booklist/P6%20Booklist%202023%20-Set%20G%204F.pdf)
 
 **Notes to Parent/Guardian:**
------------------------------
 
 *   Your child/ward will need earphones for learning when he/she uses the ICT devices in school. Please purchase the earphones if you do not have any at home.
 
@@ -235,8 +234,9 @@ More information can be found in the following link:
 Student Insurance
 -----------------
 
-**GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS**
------------------------------------
+**GROUP PERSONAL ACCIDENT (GPA)**
+
+**INSURANCE FOR STUDENTS**
 
 The Group Personal Accident Insurance for Students offers the following:
 
@@ -250,7 +250,6 @@ For more information, please refer to the link below:
 [https://www.income.com.sg/group-personal-accident-for-students](https://www.google.com/url?q=https%3A%2F%2Fwww.income.com.sg%2Fgroup-personal-accident-for-students&sa=D&sntz=1&usg=AOvVaw3Cw3XtNFsX-dOxyE2UAZB9)
 
 **ONLINE CLAIM SUBMISSION**
-------------------------------------------------------------------------------------------------------------------------------------
 
 1.  Go to Income’s GPA portal at [https://studentgpa.incomegroupins.com.sg](https://www.google.com/url?q=https%3A%2F%2Fstudentgpa.incomegroupins.com.sg%2F&sa=D&sntz=1&usg=AOvVaw3NF1x1NffD-LMwhas0ZKb_)
     
@@ -261,7 +260,6 @@ For more information, please refer to the link below:
 4.  Confirmation email will be sent to parents or students, and school administrator.
 
 **REQUIRED DOCUMENTS*
--------------------------------------------------------------------------------------------------------------------------------
 
 1.  For hospitalisation or day surgery, a copy of Inpatient discharge summary/ Day surgery form/ Attending physician's medical report.
     
@@ -278,8 +276,7 @@ Please note that the list of documents above is not exhaustive. Other documents 
 Financial Assistance Scheme
 ---------------------------
 
-MOE Financial Assistance Scheme (MOE FAS)
------------------------------------------
+**MOE Financial Assistance Scheme (MOE FAS)**
 
 The objective of the MOE FAS is to help financially **needy** Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
@@ -296,22 +293,18 @@ Types of benefits provided under MOE FAS (Primary School):
   
 You may click **[here](https://www.moe.gov.sg/financial-matters/financial-assistance)** for more information on Financial Assistance Scheme (FAS). 
 
-School-Based Financial Assistance Scheme (SB FAS)  
+**School-Based Financial Assistance Scheme (SB FAS)**
 
 Needy students who do not meet the eligibility criteria for MOE FAS may also apply for the SB FAS. Approval will be given on a case-by-case basis.
 
-Online Application for MOE FAS and SB FAS
------------------------------------------
+**Online Application for MOE FAS and SB FAS**
 
-**Click [here](https://go.gov.sg/moe-efas) for online application form** (for either MOE FAS or SB FAS) 
 
-  
+Click [here](https://go.gov.sg/moe-efas) for online application form** (for either MOE FAS or SB FAS) 
 
 Click [**here**](https://www.msf.gov.sg/Comcare) for more information on MSF ComCare     
 
-NEU PC Plus Programme  
-
-------------------------
+**NEU PC Plus Programme**
 
 The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to **own a brand new computer** at an affordable price.
 
