@@ -18,24 +18,26 @@ description: ""
 <td><a href="mailto:eunice_LEE@schools.gov.sg">eunice_lee@schools.gov.sg</a></td>
 </tr>
 <tr>
+<td>Mr Long Tien Ho</td>
+<td>VICE-PRINCIPAL (ADMINISTRATION)</td>
+<td><a href="mailto:LONG_Tien_Ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a></td>
+</tr>	
+	
+<tr>
 <td>Mr Tan Chin Kee</td>
 <td>VICE-PRINCIPAL (ACADEMIC)</td>
 <td><a href="mailto:tan_chin_kee@schools.gov.sg" target="">tan_chin_kee@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td>Mr Long Tien Ho</td>
-<td>VICE-PRINCIPAL (ADMINISTRATION)</td>
-<td><a href="mailto:LONG_Tien_Ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a></td>
-</tr>
+
 <tr>
 <td>Mdm Norazilah Hanim Binte Jaafar</td>
 <td>SCHOOL STAFF DEVELOPER</td>
 <td><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" target="">norazilah_hanim_jaafar@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Zarina Bte Abu Bakar</td>
+<td>Mr Andy Lim Jing Han</td>
 <td>HEAD OF DEPT/CITIZENSHIP &amp; CHARACTER EDUCATION</td>
-<td><a href="mailto:zarina_abu_bakar@moe.edu.sg">zarina_abu_bakar@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:zarina_abu_bakar@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:lim_jing_han@schools.gov.sg">lim_jing_han@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:zarina_abu_bakar@moe.edu.sg">.sg</a></td>
 </tr>
 <tr>
 <td>Mr Tan Boon Leng Vic</td>
@@ -132,6 +134,13 @@ description: ""
 <td>SUBJECT HEAD/STUDENT WELL-BEING</td>
 <td><a href="mailto:yeo_pei_qi@schools.gov.sg" target="">yeo_pei_qi@schools.gov.sg</a></td>
 </tr>
+	<tr>
+<td>Mr Mohamad Imran Bin Mohamad Johar</td>
+<td>SUBJECT HEAD/ART (INTERNAL)</td>
+<td><a href="mailto:mohamad_imran_mohamad_joha@schools.gov.sg" target="">mohamad_imran_mohamad_joha@schools.gov.sg</a></td>
+</tr>
+	
+	
 <tr>
 <td>Mdm Yaznita Bte Sallim</td>
 <td>ADMINISTRATION MANAGER</td>
@@ -208,9 +217,9 @@ description: ""
 <td style="text-align: center;"><strong>EMAIL</strong></td>
 </tr>
 <tr>
-<td>Mdm Goh Sock Cheng</td>
+<td>Mrs Kokilavani W/O Vassou</td>
 <td>TEACHER</td>
-<td><a href="mailto:goh_sock_cheng@schools.gov.sg" target="">goh_sock_cheng@schools.gov.sg</a></td>
+<td><a href="(mailto:kokilavani_vassou@schools.gov.sg)" target="">kokilavani_vassou@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Wu Jianhong</td>
