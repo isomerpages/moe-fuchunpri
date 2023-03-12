@@ -13,9 +13,12 @@ description: ""
 
 As we enter 2023 with new dreams and hopes, let us endeavor to seize every opportunity to grow and learn as a school. The Covid-19 pandemic has taught us the importance of being adaptable and resilient during uncertain and difficult times. During our struggles, we were also thankful for the unceasing care, encouragement, and support from those around us. They really kept us going.
 
-Our vision, _“A Nurturing, Resilient and Forward-Looking School Community”_ espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.</td>
+Our vision, _“A Nurturing, Resilient and Forward-Looking School Community”_ espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
+		</td>
 	</tr>
 	</table>
+	
+	
 ![](/images/Mrs%20Lim%20w%20P1s.jpg)    
 
 Dear Parents/Guardians and Students,
