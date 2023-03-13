@@ -1,15 +1,110 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principal-s-message
+    sublinks:
+      - title: Principal’s Message
+        url: /about-us/principal-s-message
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Our Vision, Mission & Values
+        url: /about-us/our-vision-mission-values-n-motto
+      - title: Our Song & Crest
+        url: /about-us/our-song-n-crest
+      - title: Our Rules & Regulations
+        url: /about-us/our-rules-n-regulations
+      - title: Our use of our students’ works
+        url: /about-us/our-use-of-photographs-videos-and-publication-of-students-works
+      - title: Our Staff
+        url: /about-us/our-staff
+      - title: Our Services
+        url: /about-us/our-services
+      - title: Our Learning Spaces
+        url: /about-us/our-learning-spaces
+  - title: Culture of Care
+    url: /culture-of-care/
+    sublinks:
+      - title: Lower Block Programmes
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-lower-block-progs/lower-block-progs-home
+      - title: Middle Block Programmes
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-middle-block-progs/middle-block-progs-home
+      - title: Upper Block Programmes
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-upper-block-progs/upper-block-progs-home
+      - title: Values in Action (VIA)
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-values-in-action/values-in-action-home
+      - title: Student Leadership
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-student-leadership/student-leadership-home
+      - title: Co-Curricular Activities (CCA)
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-cca/co-curricular-activities-home
+  - title: Uniquely Us
+    url: /uniquely-us/
+    sublinks:
+      - title: Applied Learning Programme
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-speak-up-at-fuchun/speak-up-at-fuchun-home
+      - title: Learning for Life Programme
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-arts/arts-home
+      - title: Home Skills Programme
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-home-skills-prog/home-skills-home
+      - title: Homeroom Programme
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/homeroom-home
+  - title: Curriculum
+    url: /curriculum/
+    sublinks:
+      - title: English
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-el-dept/english-dept-home
+      - title: Mathematics
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ma-dept/math-dept-home
+      - title: Science
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-sc-dept/science-dept-home
+      - title: Mother Tongue
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-mt-dept/mother-tongue-dept-home
+      - title: Social Studies
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ss-dept/social-studies-dept-home
+      - title: PE, Art & Music (PAM)
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-pam-dept/pe-art-music-dept-home
+      - title: CCE
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-cce-dept/character-citizenship-education-dept-home
+      - title: ICT
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-ict-dept/information-communication-technology-dept-home
+      - title: Assessment Plan
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-assessment-plan/assessment-plan-home
+  - title: Partnership
+    url: /partnership/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partnership/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partnership/parent-support-group-psg
+      - title: Positive Parenting Programs
+        url: /partnership/positive-parenting-programs-triple-p
+      - title: Youth Alumni
+        url: /partnership/youth-alumni
+      - title: Health Promotion Board
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-partnership/health-promotion-board-home
+      - title: Big Heart SCC
+        url: /partnership/big-heart-scc
+      - title: Mendaki
+        url: /partnership/mendaki
+  - title: For Parents & Students
+    url: /for-parents-n-students/
+    sublinks:
+      - title: For New P1 2023
+        url: /for-parents-and-students/for-new-p1-2023
+      - title: Parents' Briefing Materials
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-parents-briefing/parents-briefing-home
+      - title: Parents Gateway & Announcement
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-letters-to-parents/letters-to-parents-home
+      - title: Term Calendars
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-term-calendars/term-calendars-home
+      - title: School Assessments
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site/school-assessments-home
+      - title: Bridging Resources
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-bridging-resources/login-to-bridging-resources
+      - title: Submit Referral to Counsellor
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-submit-referral-sc/submit-referral-to-sc-home
+      - title: Home-Based Learning
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-hbl/hbl-home
+      - title: MOE Websites
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-moe-websites/moe-websites-home
+      - title: HPB Resources
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-partnership/health-promotion-board-home

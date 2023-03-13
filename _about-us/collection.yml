@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Our Story.md
+      - Our Vision, Mission, Values & Motto.md
+      - Our Song & Crest.md
+      - Our Rules & Regulations.md
+      - Our use of photographs, videos and publication of students’ works.md
+      - Our Staff.md
+      - Our Services.md
+      - Our Learning Spaces.md

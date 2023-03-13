@@ -2,31 +2,27 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Fuchun Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 23,
+      - Woodlands Avenue 1
+      - Singapore 739063
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Monday to Friday
+        time: 830 1700
+        description: Please avoid dismissal time from 1300 to 1415.
+    maps_link: https://g.page/fuchun-primary-school?share
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6368 3925
+      - email: fcps@moe.edu.sg
+      - other: ""
+    title: Telephone
+  - content:
+      - phone: +65 6367 0117
+      - email: ""
+      - other: ""
+    title: Fax
 ---
