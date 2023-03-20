@@ -376,7 +376,7 @@ description: ""
 <tr>
 <td><strong>P2EM</strong></td>
 <td>Mdm Ma Jing</td>
-<td><a href="mailto:ma_jing_a@schools.gov.sg" target="">ma_jing_a@schools.gov.sg</a></td>
+<td><a href="mailto:ma_jing@schools.gov.sg" target="">ma_jing@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P2EM</strong></td>
