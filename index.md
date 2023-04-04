@@ -21,8 +21,6 @@ sections:
         - title: Our Publications
           description: ""
           url: /new-site-hidden/updates/publications/
-  - resources:
-      title: Updates
   - infobar:
       title: Facebook
       description: <iframe
