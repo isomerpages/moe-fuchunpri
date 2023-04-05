@@ -27,6 +27,8 @@ description: ""
 <p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
 
 <p>2023 Sexuality Education Lessons in CCE 2021</p>
+
+<img src="/images/p5 sexuality ed 2023.jpeg">
 <img src="/images/se1.png">
 <img src="/images/se2.png"><br>
 <img src="/images/se3.png">
@@ -36,7 +38,3 @@ description: ""
 <p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. </p>
 <p>10. Parents can contact the school at 6368 3925&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
 <p>11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.</p>
-
-
-
-
