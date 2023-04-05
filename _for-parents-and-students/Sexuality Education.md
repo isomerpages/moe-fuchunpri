@@ -31,6 +31,6 @@ description: ""
 <img src="/images/se4.png">
 <p><strong>Information for Parents</strong></p>
 <p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/GY_Letter%20To%20Parents_2022.pdf" target="">here</a></u>. The completed opt-out form is to be submitted by 11 Feb 2023.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. </p>
 <p>10. Parents can contact the school at 6368 3925&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
 <p>11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.</p>
