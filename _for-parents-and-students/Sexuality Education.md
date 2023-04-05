@@ -31,8 +31,11 @@ description: ""
 <img src="/images/p5 sexuality ed 2023.jpeg">
 <img src="/images/p6 sexuality ed 2023.jpeg">
 
-<p><strong>Information for Parents</strong></p>
-<p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. </p>
-<p>10. Parents can contact the school at 6368 3925&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
-<p>11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.</p>
+<p> <u>**Please Note:**</u>
+
+	***For <u>2023</u>, the Primary 5 lesson “*Did You Know*?” will also be conducted for the Primary 6 cohort.**
+
+</p><p><strong><u>**Information for Parents**</u></strong></p>
+<p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at a later date. </p>
+<p>10. Parents can contact the school at 6368 3925 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
