@@ -29,10 +29,8 @@ description: ""
 <p>2023 Sexuality Education Lessons in CCE 2021</p>
 
 <img src="/images/p5 sexuality ed 2023.jpeg">
-<img src="/images/se1.png">
-<img src="/images/se2.png"><br>
-<img src="/images/se3.png">
-<img src="/images/se4.png">
+<img src="/images/p6 sexuality ed 2023.jpeg">
+
 <p><strong>Information for Parents</strong></p>
 <p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. </p>
