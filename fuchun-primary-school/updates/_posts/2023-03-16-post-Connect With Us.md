@@ -1,5 +1,5 @@
 ---
-title: Announcements
+title: Connect With Us
 permalink: /fuchun-primary-school/updates/permalink/
 date: 2023-03-16
 layout: post

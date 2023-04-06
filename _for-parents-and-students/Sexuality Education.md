@@ -26,7 +26,7 @@ description: ""
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
 
-<p style="text-align:center;">2023 Sexuality Education Lessons in CCE 2021</p>
+<p style="text-align:center;"><b>2023 Sexuality Education Lessons in CCE 2021</b></p>
 
 <img src="/images/p5 sexuality ed 2023.jpeg">
 <img src="/images/p6 sexuality ed 2023.jpeg">
