@@ -444,20 +444,16 @@ description: ""
 <td><a href="mailto:rohani_talib@schools.gov.sg" target="">rohani_talib@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td><strong>P3CR (SEMESTER 1)</strong></td>
-<td>Ms Ng Mabel</td>
-<td><a href="mailto:ng_mabel@schools.gov.sg" target="">ng_mabel@schools.gov.sg</a></td>
-</tr>
+<td><strong>P3CR</strong></td>
+<td>Mdm Lim Bee Suan</td>
+<td><a href="mailto:lim_bee_suan@schools.gov.sg" target="">lim_bee_suan@schools.gov.sg</a></td>
+</tr>	
 <tr>
 <td><strong>P3CR (SEMESTER 2)</strong></td>
 <td>Mrs Belinda Goh</td>
 <td><a href="mailto:heng_lee_peng_belinda@schools.gov.sg" target="">heng_lee_peng_belinda@schools.gov.sg</a></td>
 </tr>
-<tr>
-<td><strong>P3CR</strong></td>
-<td>Mdm Lim Bee Suan</td>
-<td><a href="mailto:lim_bee_suan@schools.gov.sg" target="">lim_bee_suan@schools.gov.sg</a></td>
-</tr>	
+
 	
 <tr>
 <td><strong>P3EM</strong></td>
@@ -499,7 +495,7 @@ description: ""
 	<tr>
 <td><strong>P3RB</strong></td>
 <td>Ms Valentina Fernandez</td>
-<td><a href="mailto:helen_valentina_fernandez@schools.gov.sg">hajjah_marzia@schools.gov.sg</a></td>
+<td><a href="mailto:valentina_helen_fernandez@schools.gov.sg">valentina_helen_fernandez@schools.gov.sg</a></td>
 </tr>	
 	
 	
@@ -775,12 +771,17 @@ description: ""
 <td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mr Peter Kwek</td>
-<td>DESKTOP ENGINEER</td>
+<td>Mdm Ho Chiew Hwa</td>
+<td>ICT MANAGER</td>
 <td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mr Yureez Yusree</td>
+<td>DESKTOP ENGINEER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mr Fahmi Jinordin</td>
 <td>DESKTOP ENGINEER</td>
 <td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
 </tr>
