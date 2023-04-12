@@ -11,4 +11,4 @@ description: ""
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-moe-websites/moe-websites-home">MOE Websites</a></strong></h4>
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-partnership/health-promotion-board-home">HPB Resources</a></strong></h4>
 <h4 style="text-align: center;"><strong><a href="/for-parents-n-students/sexuality-education">Sexuality Education</a></strong></h4>
-<h4 style="text-align: center;"><strong><a href="/for-parents-n-students/sexuality-education">[https://sites.google.com/moe.edu.sg/fcps-g-site-our-services/our-services-home](https://sites.google.com/moe.edu.sg/fcps-g-site-our-services/our-services-home)</a></strong></h4>
+<h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-our-services/our-services-home">Our Services</a></strong></h4>
