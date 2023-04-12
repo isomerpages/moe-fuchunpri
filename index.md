@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/5mb animated gif hero banners.gif
       key_highlights:
-        - title: Announcements
+        - title: Connect With Us
           description: ""
           url: /fuchun-primary-school/updates/permalink/
         - title: Our Pride
