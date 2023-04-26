@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/updated
-        homepage_banners_2023_animated_smaller_shorter_878x400_4sec updated.gif
       key_highlights:
         - title: Letter To Parents
           description: ""
