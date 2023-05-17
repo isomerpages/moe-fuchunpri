@@ -8,9 +8,9 @@ description: ""
 <h4><strong>SCHOOL LEADERS</strong></h4>
 
 
-|![](/images/mrs%20lim%20photo.jpeg) | ![](/images/mr%20tan%20photo.jpeg) | ![](/images/mr%20long%20photo.jpeg) |
+|![](/images/mrs%20lim%20photo%202.jpeg)| ![](/images/mr%20tan%20photo%202.jpeg) |![](/images/mr%20long%20photo%202.jpeg) |
 | -------- | -------- | -------- |
-| Mrs Eunice Lim PRINCIPAL <a href="mailto:eunice_lee@schools.gov.sg">eunice_lee@schools.gov.sg</a> | Mr Tan Chin Kee VICE-PRINCIPAL (ACADEMIC) <a href="mailto:tan_chin_kee@schools.gov.sg">tan_chin_kee@schools.gov.sg</a>    | Mr Long Tien Ho VICE-PRINCIPAL (ADMINISTRATION) <a href="mailto:long_tien_ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a>|
+| Mrs Eunice Lim <br>PRINCIPAL<br><a href="mailto:eunice_lee@schools.gov.sg">eunice_lee@schools.gov.sg</a> | Mr Tan Chin Kee <br>VICE-PRINCIPAL (ACADEMIC)<br> <a href="mailto:tan_chin_kee@schools.gov.sg">tan_chin_kee@schools.gov.sg</a>    | Mr Long Tien Ho <br> VICE-PRINCIPAL (ADMINISTRATION) <br><a href="mailto:long_tien_ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a>|
 
 
 
