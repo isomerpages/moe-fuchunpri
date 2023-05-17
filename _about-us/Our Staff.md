@@ -3,8 +3,19 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
-<p>Last Updated 13 March 2023</p>
-<h4><strong>SCHOOL LEADERS AND EXECUTIVE COMMITTEE</strong></h4>
+<p>Last Updated 17 May 2023</p>
+
+<h4><strong>SCHOOL LEADERS</strong></h4>
+
+
+|![](/images/mrs%20lim%20photo.jpeg) | ![](/images/mr%20tan%20photo.jpeg) | ![](/images/mr%20long%20photo.jpeg) |
+| -------- | -------- | -------- |
+| Mrs Eunice Lim PRINCIPAL <a href="mailto:eunice_lee@schools.gov.sg">eunice_lee@schools.gov.sg</a> | Mr Tan Chin Kee VICE-PRINCIPAL (ACADEMIC) <a href="mailto:tan_chin_kee@schools.gov.sg">tan_chin_kee@schools.gov.sg</a>    | Mr Long Tien Ho VICE-PRINCIPAL (ADMINISTRATION) <a href="mailto:long_tien_ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a>|
+
+
+
+
+<h4><strong>SCHOOL EXECUTIVE COMMITTEE</strong></h4>
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -12,23 +23,6 @@ description: ""
 <td style="text-align: center;"><strong>DESIGNATION</strong></td>
 <td style="text-align: center;"><strong>EMAIL</strong></td>
 </tr>
-<tr>
-<td>Mrs Eunice Lim</td>
-<td>PRINCIPAL</td>
-<td><a href="mailto:eunice_LEE@schools.gov.sg">eunice_lee@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mr Long Tien Ho</td>
-<td>VICE-PRINCIPAL (ADMINISTRATION)</td>
-<td><a href="mailto:LONG_Tien_Ho@schools.gov.sg">long_tien_ho@schools.gov.sg</a></td>
-</tr>	
-	
-<tr>
-<td>Mr Tan Chin Kee</td>
-<td>VICE-PRINCIPAL (ACADEMIC)</td>
-<td><a href="mailto:tan_chin_kee@schools.gov.sg" target="">tan_chin_kee@schools.gov.sg</a></td>
-</tr>
-
 <tr>
 <td>Mdm Norazilah Hanim Binte Jaafar</td>
 <td>SCHOOL STAFF DEVELOPER</td>
