@@ -811,6 +811,12 @@ description: ""
 <td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
 <td><a href="mailto:lim_che_ka@schools.gov.sg" target="">lim_che_ka@schools.gov.sg</a></td>
 </tr>
+	
+	<tr>
+<td>Mdm Nur Rafizah Binte Mazlan</td>
+<td>ALLIED EDUCATOR/LEARNING &amp; BEHAVIOURAL SUPPORT</td>
+<td><a href="mailto:nur_rafizah_b_mazlan@schools.gov.sg" target="">nur_rafizah_b_mazlan@schools.gov.sg</a></td>
+</tr>
 
 <tr>
 <td>Mdm Pang Heng Mui</td>
