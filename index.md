@@ -20,4 +20,6 @@ sections:
         - title: Our Publications
           description: ""
           url: /new-site-hidden/updates/publications/
+      background: /images/homepage_banners_2023_animated_smaller_shorter_878x400_4sec
+        new ihsan.gif
 ---
