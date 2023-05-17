@@ -317,8 +317,8 @@ description: ""
 </tr>
 	<tr>
 <td><strong>P1RB</strong></td>
-<td>Ms Hee Chuan Wai</td>
-<td><a href="mailto:hee_chuan_wai@schools.gov.sg" target="">hee_chuan_wai@schools.gov.sg</a></td>
+<td>Ms Hee Chuan Whai</td>
+<td><a href="mailto:hee_chuan_whai@schools.gov.sg" target="">hee_chuan_whai@schools.gov.sg</a></td>
 </tr>
 	
 <tr>
