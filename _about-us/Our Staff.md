@@ -283,7 +283,7 @@ description: ""
 <tr>
 <td><strong>P1CR</strong></td>
 <td>Ms Khairina Bte Khaled</td>
-<td><a href="mailto:khairina_khalid@schools.gov.sg" target="">khairina_khalid@schools.gov.sg</a></td>
+<td><a href="mailto:khairina_khaled@schools.gov.sg" target="">khairina_khalid@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1EM</strong></td>
