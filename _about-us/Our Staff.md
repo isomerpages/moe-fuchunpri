@@ -523,7 +523,7 @@ description: ""
 <tr>
 <td><strong>P4CR</strong></td>
 <td>Mdm Oh Mee Choo Jenny</td>
-<td><a href="mailto:oh_mee_chu_jenny@schools.gov.sg" target="">oh_mee_chu_jenny@schools.gov.sg</a></td>
+<td><a href="mailto:oh_mee_choo_jenny@schools.gov.sg" target="">oh_mee_choo_jenny@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P4EM</strong></td>
