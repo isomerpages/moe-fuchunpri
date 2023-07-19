@@ -17,9 +17,9 @@ sections:
         - title: Connect With Us
           description: ""
           url: /fuchun-primary-school/updates/permalink/
-        - title: Our Publications
-          description: ""
-          url: /new-site-hidden/updates/publications/
+        - title: P1 Virtual Open House
+          description: Key Highlight description
+          url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
       background: /images/homepage_banners_2023_animated_smaller_shorter_878x400_4sec
         new ihsan.gif
 ---
