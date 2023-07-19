@@ -74,12 +74,12 @@ description: ""
 <li>All students must participate in the flag-raising and pledge taking ceremony at the start of the day. Students who are Singapore Citizens must sing the National Anthem and take the National Pledge. Students will take the pledge with the right fist placed over the heart.</li>
 </ol>
 <ol start="4">
-<li>Students must attend every sessionof the CCA they have been assigned to. Valid reason(s) must be given for their absence from CCA.</li>
+<li>Students must attend every session of the CCA they have been assigned to. Valid reason(s) must be given for their absence from CCA.</li>
 </ol>
 <h4><strong>School Attire &amp; Appearance</strong></h4>
 <div>There must be uniformity in appearance when students come to school. Please refer to the photos to see how the school uniform and PE attire should be worn.</div>
 <ol>
-<li>Students are to wear the prescribed school uniform for all school activities. Modification to the uniform or PE attire is not allowed.</li>
+<li>Students are to wear the school uniform (PE attire inclusive) and modification to the uniform or PE attire is not allowed.</li>
 <li>Name tags must be sewn onto students’ uniforms and PE T-shirts.</li>
 <li>Only prescribed school PE T-shirts and shorts are allowed during PE lessons and official sports activities.&nbsp;</li>
 <li>All P1 to P4 students are allowed to be in their PE attire throughout the day only on the days they have PE lessons.</li>
