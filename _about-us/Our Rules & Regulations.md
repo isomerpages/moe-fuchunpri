@@ -94,22 +94,22 @@ description: ""
 <p><strong><u>Girls</u></strong></p>
 <img style="width: 65%;" src="/images/reg3.jpg">
 <img style="width: 65%;" src="/images/reg4.jpg">
-<h4><strong>Safety in School</strong></h4>
+<h4><strong>Prohibited Items and Safety in School</strong></h4>
 <ol>
-<li>Students are not allowed to have in their possession any weapon or weapon-like item which is used or intended to be used to cause harm to others. Action will be taken against students who possess these weapons.</li>
+<li>All students are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others. Action will be taken against students who possess these weapons.</li>
 </ol>
 <ol start="2">
-<li>Unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information are not allowed in the school compound regardless of the time of the day. Examples of prohibited items include mobile phones, cameras, tablets and smart wrist watches. The school will not be held responsible for the loss of students’ electronic devices. Unauthorized use of electronic devices will be confiscated and will only be returned to the student’s parent/guardian.</li>
+<li>Unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information are not allowed in the school compound regardless of the time of the day. Examples of prohibited items include mobile phones, cameras, tablets and smart wrist watches. The school will not be held responsible for the loss of students’ electronic devices. Unauthorized use of electronic devices will be confiscated and will only be returned to the student’s parent/guardian. Disciplinary action will be taken against students for irresponsible or inappropriate use of devices.</li>
 </ol>
 <ol start="3">
-<li>Students are not allowed to bring mobile phones to school. If students need to bring their mobile phones due to valid reasons, parents must seek permission from the Form /Co-Form Teacher. The phone must be switched off in school and can only be used after dismissal. The student must be responsible in taking care of his own belongings.</li>
+<li>Students are not allowed to bring mobile phones to school. If students need to bring their mobile phones due to valid reasons, parents must seek permission from the Form Teacher. The mobile phone must be switched off in school and can only be used after they leave the school premises following their dismissal from school. The student must be responsible in taking care of his own belongings.</li>
 </ol>
 <ol start="4">
-<li>If a teacher has authorised the use of electronic devices for educational purposes, students must use them responsibly and in compliance with the school’s anti-bullying and anti-cyberbullying policies. Students must not photograph, video or record students or staff members without permission.</li>
+<li> If a teacher has authorised the use of electronic devices for educational purposes, students must use them responsibly and in compliance with the school’s anti-bullying and anti-cyberbullying policies. Students must not photograph, video or record students or staff members without permission.</li>
 </ol>
 <ol start="5">
-<li>The school has zero tolerance for bullying. Bullying includes physical, psychological and cyber bullying. The school will mediate and counsel students involved in bullying. The school will take serious action against students who repeatedly hurt others despite counselling, mediation and warning.</li>
+<li>The school has zero tolerance for bullying. Bullying includes physical, psychological and cyber in nature. The school will mediate and counsel students involved in bullying. The school will take serious action against students who repeatedly hurt others despite counselling, mediation and warning.</li>
 </ol>
 <ol start="6">
-<li>Students are expected to comply with all safety guidelines.</li>
+<li>Students are expected to follow all safety guidelines.</li>
 </ol></div>
