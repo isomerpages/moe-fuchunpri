@@ -56,16 +56,16 @@ description: ""
 <li>Students must show pride and uphold the good name of the school by ensuring that they are at their best behaviour in school or in public.</li>
 <li>Students must not loiter in public places in their school uniform and should return home directly if they have no more school-based activities.</li>
 <li>As a form of respect, students are to stand up to greet the teacher when he/she enters the room, and thank him/her when he/she has completed the lesson and leaves the room.</li>
-<li>Movement from classroom to classroom or special rooms and along the corridors must be carried out in a quiet and orderly manner.</li>
+<li>Students are expected to walk in a quiet and orderly manner when moving from one location to another.</li>
 <li>Students must be attentive while lessons are being conducted.</li>
 <li>Students are responsible for the cleanliness of their respective classrooms and school at all times. Litter should be disposed of in the receptacles provided.</li>
 <li>Students must queue up when buying food or drinks in the canteen or stationery at the bookshop.</li>
-<li>Students are not allowed to bring any items or materials that will disrupt their learning process or contain any inappropriate content to school. Should any of these items/materials be found in a student’s possession, the school reserves the rights to confiscate them and will only be returned to the student’s parents/guardians.</li>
+<li>Students are not allowed to bring any items or materials that will disrupt their learning process. Items or materials containing any inappropriate content are also disallowed in school. Should any of these items/materials be found in a student’s possession, the school reserves the right to confiscate them and will only be returned to the student’s parents/guardians.</li>
 <li>Students are not allowed to be in any rooms or the school hall unaccompanied by a teacher.</li>
 </ol>
 <h4><strong>Punctuality and Attendance</strong></h4>
 <ol>
-<li>Punctuality is a habit that must be instilled from young. Students must be punctual for school and for all school-related activities. Students should assemble at the respective assembly areas before 7.30 a.m. Flag raising will be conducted at 7.30 a.m. sharp. Any student who arrives later than that will be considered late.</li>
+<li>Punctuality is a habit that must be instilled from young. Students must be punctual for school and for all school-planned activities. Students should assemble at the respective assembly areas before 7.30 a.m. Flag raising will be conducted at 7.30 a.m. sharp. Any student who arrives later than that will be considered late.</li>
 </ol>
 <ol start="2">
 <li>Students are not allowed to leave the school compound during curriculum hours without permission. This includes those who are attending after-school activities in the afternoon (e.g. CCA, Remedial, Supplementary, RRP, SDR). They are not allowed to leave the school premises for lunch unless permission has been sought from the teachers.</li>
