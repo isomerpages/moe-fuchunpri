@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: P1 Virtual Open House
-          description: Key Highlight description
+          description: ""
           url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
         - title: Letter To Parents
           description: ""
