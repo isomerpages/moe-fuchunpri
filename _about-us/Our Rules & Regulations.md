@@ -31,35 +31,30 @@ description: ""
 </ol>
 <ol start="5">
 <li>Visits to the School
-<div>All parents or guardians are to obtain a Visitor Pass from the security guards at the main gate before they proceed to the General Office for assistance. Parents / Guardians are not allowed in any other locations within the school premises without permission.</div>
-<div>&nbsp;If parents would like to speak with the Form/Co-Form/Subject teachers, prior appointment must be made at least 1 day ahead. This is to ensure an uninterrupted and fruitful discussion. Parents can also contact the teachers via phone or email.</div>
+<div>All parents or guardians are to obtain a Visitor Pass from the security guards at the main gate before they proceed to the General Office for assistance. Parents/Guardians are not allowed in any other locations within the school premises without permission.</div>
+<div>&nbsp;If parents would like to speak with the Form/Co-Form/Subject teachers, prior appointment must be made. This is to ensure an uninterrupted and fruitful discussion. Parents can also contact the teachers via phone or email.</div>
 <div>Students are encouraged to act responsibly by taking ownership in packing their bags every day and bringing the required books/materials to school. Parents/domestic helpers are discouraged from delivering any omitted items to our students during school hours.</div>
 </li>
 </ol>
 <ol start="6">
-<li>School Canteen
-<div>Parents and other visitors are not allowed to patronise the school canteen stalls. This is to ensure that the food prepared by the canteen vendors is sufficient for staff and students.</div>
-</li>
-</ol>
-<ol start="7">
 <li>Road Safety
-<div>Parents who are driving into the school compound to drop their child/ward must abide by the school safety rules. Do co-operate with the traffic marshals to ensure an overall safe and smooth traffic flow. Please drop your child/ward only at the designated drop-off points.</div>
+<div>Parents who are driving into the school compound to drop their child/ward must abide by the school safety rules. Do co-operate with the security guard or school personnel to ensure an overall safe and smooth traffic flow. Please drop your child/ward only at the designated drop-off points.</div>
 <div>Do not sound the horn within the school compound.</div>
 <div>Teach your child how to alight from the car as quickly as possible so as not to hold up the flow of traffic into the school.</div>
-<div>If you and your child are cycling to school, please dismount at the school gate to avoid hitting pedestrians who are walking through the gates. Students who need to park their bicycles in school must seek permission from HOD Student Management.</div>
+<div>If you and your child are cycling to school, please dismount at the school gate to avoid hitting pedestrians who are walking through the gates. Students who need to cycle to school must seek permission from HOD Student Management.</div>
 <div>For the safety of our staff and students, the school reserves the right to stop any errant drivers from entering the school premises.</div>
 </li>
 </ol>
-<ol start="8">
+<ol start="7&quot;">
 <li>Facilitating Birthday Celebrations and/or Distribution of gifts to students
-<div>The school is unable to accede to requests from parents to assist in facilitating parties or distributing gifts to celebrate your children’s birthdays. While the school understands that the occasion is special to children, the school would like to seek parents’ understanding in not bringing food or gifts for their children’s classmates. This is for us to be careful about the students’ dietary needs and food tolerance as well as to care for the emotional well-being of students who are unable to have the opportunity of distributing gifts to their school/class mates. The school seeks the parents’ understanding and cooperation on this matter.</div>
+<div>The school is unable to accede to requests from parents to assist in facilitating parties or distributing gifts to celebrate your children’s birthdays. While the school understands that the occasion is special to children, the school would like to seek parents’ understanding in not bringing food or gifts for their children’s classmates. The school needs to be careful about the students’ dietary needs and food tolerance as well as to care for the emotional well-being of students who are unable to have the opportunity of distributing gifts to their school/classmates. The school seeks the parents’ understanding and cooperation on this matter.</div>
 </li>
 </ol>
 <h4><strong>General Expectations for Students</strong></h4>
 <ol>
 <li>Students are expected to be courteous and respectful to all the staff, visitors and their peers at all times.</li>
 <li>Students must show pride and uphold the good name of the school by ensuring that they are at their best behaviour in school or in public.</li>
-<li>Students must not loiter in public places in their school uniform and should return home straight if they have no activities after school.</li>
+<li>Students must not loiter in public places in their school uniform and should return home directly if they have no more school-based activities.</li>
 <li>As a form of respect, students are to stand up to greet the teacher when he/she enters the room, and thank him/her when he/she has completed the lesson and leaves the room.</li>
 <li>Movement from classroom to classroom or special rooms and along the corridors must be carried out in a quiet and orderly manner.</li>
 <li>Students must be attentive while lessons are being conducted.</li>
