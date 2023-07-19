@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: P1 Virtual Open House
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
         - title: Letter To Parents
           description: ""
           url: https://sites.google.com/moe.edu.sg/fcps-g-site-letters-to-parents/letters-to-parents-home
@@ -17,9 +20,6 @@ sections:
         - title: Connect With Us
           description: ""
           url: /fuchun-primary-school/updates/permalink/
-        - title: Our Publications
-          description: ""
-          url: /new-site-hidden/updates/publications/
       background: /images/homepage_banners_2023_animated_smaller_shorter_878x400_4sec
         new ihsan.gif
 ---

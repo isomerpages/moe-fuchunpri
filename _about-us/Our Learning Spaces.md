@@ -3,7 +3,6 @@ title: Our Learning Spaces
 permalink: /about-us/our-learning-spaces/
 description: ""
 ---
-<h3 style="text-align: center;"><strong><em>For A Virtual School Tour, Click&nbsp;<a href="https://fuchunpri.moe.edu.sg/qql/slot/u158/VirtualTour/index.html" target="">HERE</a></em></strong></h3>
 <h4><strong>Curricular Learning Spaces</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -128,7 +127,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Mass Learning & Bonding Spaces</strong></h4>
+<h4><strong>Mass Learning &amp; Bonding Spaces</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>

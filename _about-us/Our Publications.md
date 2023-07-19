@@ -1,10 +1,7 @@
 ---
 title: Our Publications
-permalink: /new-site-hidden/updates/publications/
-date: 2023-03-20
-layout: post
+permalink: /about-us/our-publications/
 description: ""
-image: ""
 ---
 <h4><strong>2021</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
