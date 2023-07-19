@@ -82,11 +82,11 @@ description: ""
 <li>Students are to wear the school uniform (PE attire inclusive) and modification to the uniform or PE attire is not allowed.</li>
 <li>Name tags must be sewn onto students’ uniforms and PE T-shirts.</li>
 <li>Only prescribed school PE T-shirts and shorts are allowed during PE lessons and official sports activities.&nbsp;</li>
-<li>All P1 to P4 students are allowed to be in their PE attire throughout the day only on the days they have PE lessons.</li>
-<li>All P5 and P6 students are to change into their school uniform during recess after their PE lessons. If their PE lessons take place after their recess, they are to come in their school uniform and change into their PE attire during recess.</li>
+<li>All P1 to P6 boys and P1 to P4 girls are allowed to be in their PE attire throughout the day only on the days they have PE lessons.</li>
+<li>For P5 and P6 girls, they are to be in their PE T-shirts with their school skirts before and after their PE lessons.</li>
 <li>Coloured track shoes are only allowed for official sports activities.</li>
 <li>All students are not allowed to wear jewellery, cosmetics, and accessories e.g. beads around the wrist, coloured strings and bangles.</li>
-<li>Spectacles worn by students should not become an outstanding feature on their faces. As such the spectacles worn should not be outlandish in color, design or size. Coloured contact lens are not allowed.</li>
+<li>Spectacles worn by students should not become an outstanding feature on their face. As such the spectacles worn should not be outlandish in color, design or size. Coloured contact lens are not allowed.</li>
 </ol>
 <p><strong><u>Boys</u></strong></p>
 <img style="width: 65%;" src="/images/reg1.jpg">
