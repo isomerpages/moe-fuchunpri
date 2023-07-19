@@ -90,10 +90,10 @@ description: ""
 </ol>
 <p><strong><u>Boys</u></strong></p>
 <img style="width: 65%;" src="/images/boys_1.jpg">
-<img style="width: 65%;" src="/images/boys_2.jpg)">
+<img style="width: 65%;" src="/images/boys_2.jpg">
 <p><strong><u>Girls</u></strong></p>
-<img style="width: 65%;" src="/images/girls_1.jpg)">
-	<img style="width: 65%;" src="/images/girls_2.jpg)">
+<img style="width: 65%;" src="/images/girls_1.jpg">
+	<img style="width: 65%;" src="/images/girls_2.jpg">
 <h4><strong>Prohibited Items and Safety in School</strong></h4>
 <ol>
 <li>All students are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others. Action will be taken against students who possess these weapons.</li>
