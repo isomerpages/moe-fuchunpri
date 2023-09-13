@@ -458,7 +458,7 @@ description: ""
 <td><a href="mailto:lim_bee_suan@schools.gov.sg" target="">lim_bee_suan@schools.gov.sg</a></td>
 </tr>	
 <tr>
-<td><strong>P3CR (SEMESTER 2)</strong></td>
+<td><strong>P3CR</strong></td>
 <td>Mrs Belinda Goh</td>
 <td><a href="mailto:heng_lee_peng_belinda@schools.gov.sg" target="">heng_lee_peng_belinda@schools.gov.sg</a></td>
 </tr>
