@@ -3,7 +3,7 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
-<p>Last Updated 17 May 2023</p>
+<p>Last Updated 13 September 2023</p>
 
 <h4><strong>SCHOOL LEADERS</strong></h4>
 
