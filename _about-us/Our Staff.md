@@ -26,12 +26,12 @@ description: ""
 <tr>
 <td>Mdm Norazilah Hanim Binte Jaafar</td>
 <td>SCHOOL STAFF DEVELOPER</td>
-<td><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" target="">norazilah_hanim_jaafar@schools.gov.sg</a></td>
+<td><a href="mailto:norazilah_hanim_jaafar@schools.gov.sg" target="">norazilah_hanim_jaafar@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mr Andy Lim Jing Han</td>
 <td>HEAD OF DEPT/CITIZENSHIP &amp; CHARACTER EDUCATION</td>
-<td><a href="mailto:lim_jing_han@schools.gov.sg">lim_jing_han@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:zarina_abu_bakar@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:lim_jing_han@schools.gov.sg">lim_jing_han@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mr Tan Boon Leng Vic</td>
@@ -41,32 +41,37 @@ description: ""
 <tr>
 <td>Mrs Belinda Goh</td>
 <td>HEAD OF DEPT/MATH</td>
-<td><a href="mailto:heng_lee_peng_belinda@moe.edu.sg">heng_lee_peng_belinda@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:heng_lee_peng_belinda@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:heng_lee_peng_belinda@schools.gov.sg">heng_lee_peng_belinda@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mrs Clare Seah</td>
 <td>HEAD OF DEPT/ENGLISH</td>
-<td><a href="mailto:lim_kai_li_clare@moe.edu.sg">lim_kai_li_clare@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:lim_kai_li_clare@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:lim_kai_li_clare@schools.gov.sg">lim_kai_li_clare@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Phua Soo Chin</td>
 <td>HEAD OF DEPT/INFOCOM TECHNOLOGY</td>
-<td><a href="mailto:phua_soo_chin@moe.edu.sg">phua_soo_chin@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:phua_soo_chin@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:phua_soo_chin@schools.gov.sg">phua_soo_chin@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tern Hui Kuan Sally</td>
 <td>HEAD OF DEPT/SCIENCE</td>
-<td><a href="mailto:tern_hui_kuan@moe.edu.sg">tern_hui_kuan@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:tern_hui_kuan@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:tern_hui_kuan@moe.edu.sg">tern_hui_kuan@schools.gov.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Lee Shi Ren</td>
+<td>HEAD OF DEPT/PAM &amp; CCA</td>
+<td><a href="mailto:lee_shi_ren@schools.gov.sg">lee_shi_ren@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mrs Wong-Ng Shok Chin</td>
 <td>YEAR HEAD (P1 &amp; P2)</td>
-<td><a href="mailto:wong-ng_shok_chin@moe.edu.sg">wong-ng_shok_chin@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:wong-ng_shok_chin@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:wong-ng_shok_chin@moe.edu.sg">wong-ng_shok_chin@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mrs Fiona Tan Li Hwa</td>
 <td>YEAR HEAD (P3 &amp; P4)</td>
-<td><a href="mailto:tan_li_hwa@moe.edu.sg">tan_li_hwa@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:tan_li_hwa@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:tan_li_hwa@schools.gov.sg">tan_li_hwa@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mrs Pang Mei Zhu</td>
@@ -76,7 +81,7 @@ description: ""
 <tr>
 <td>Mdm Nur Azah Binte Roslan</td>
 <td>YEAR HEAD&nbsp;(P5 &amp; P6)</td>
-<td><a href="mailto:nur_azah_roslan@moe.edu.sg">nur_azah_roslan@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:nur_azah_roslan@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:nur_azah_roslan@schools.gov.sg">nur_azah_roslan@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Cheryl Kayla Ng</td>
@@ -86,12 +91,12 @@ description: ""
 <tr>
 <td>Mdm Lim Bee Suan</td>
 <td>LEVEL HEAD/CHINESE LANGUAGE</td>
-<td><a href="mailto:lim_bee_suan@moe.edu.sg">lim_bee_suan@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:lim_bee_suan@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:lim_bee_suan@schools.gov.sg">lim_bee_suan@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Neo Poh Tin Justina</td>
 <td>LEVEL HEAD/MATH</td>
-<td><a href="mailto:yap_dai_jee@schools.gov.sg">neo_poh_tin_justina@schools.gov.sg</a></td>
+<td><a href="mailto:neo_poh_tin_justina@schools.gov.sg">neo_poh_tin_justina@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Valentina Helen Fernandez</td>
@@ -106,7 +111,7 @@ description: ""
 <tr>
 <td>Mdm Hajjah Marzia Bte Abd Rahman</td>
 <td>SUBJECT HEAD/MALAY LANGUAGE</td>
-<td><a href="mailto:hajjah_marzia@moe.edu.sg">hajjah_marzia@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:hajjah_marzia@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:hajjah_marzia@schools.gov.sg">hajjah_marzia@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Marlini Bte Ismail</td>
@@ -116,12 +121,12 @@ description: ""
 <tr>
 <td>Mdm Parameshwari D/O S Kunju</td>
 <td>SUBJECT HEAD/CITIZENSHIP &amp; CHARACTER EDUCATION</td>
-<td><a href="mailto:parameshwari_skunju@moe.edu.sg">parameshwari_skunju@</a><a href="mailto:eunice_LEE@schools.gov.sg">schools.gov</a><a href="mailto:parameshwari_skunju@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:parameshwari_skunju@schools.gov.sg">parameshwari_skunju@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mr Chan Wei Hao</td>
 <td>SUBJECT HEAD/PHYSICAL EDUCATION</td>
-<td><a href="mailto:chan_wei_hao@moe.edu.sg" target="">chan_wei_hao@</a><a href="mailto:eunice_LEE@schools.gov.sg" target="">schools.gov</a><a href="mailto:francis_mah_yew_seng@moe.edu.sg">.sg</a></td>
+<td><a href="mailto:chan_wei_hao@schools.gov.sg" target="">chan_wei_hao@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Ms Yeo Pei Qi</td>
@@ -146,9 +151,9 @@ description: ""
 <td><a href="mailto:mohammad_khatib_yus@schools.gov.sg" target="">mohammad_khatib_yus@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mr Tan Gek Par</td>
+<td>Mr Edwin Leong Yoke Heng</td>
 <td>OPERATIONS MANAGER 2</td>
-<td><a href="mailto:tan_gek_par@schools.gov.sg" target="">tan_gek_par@schools.gov.sg</a></td>
+<td><a href="mailto:edwin_leong_yoke_heng@schools.gov.sg" target="">edwin_leong_yoke_heng@schools.gov.sg</a></td>
 </tr>
 </tbody>
 </table>
@@ -255,6 +260,16 @@ description: ""
 <td>TEACHER</td>
 <td><a href="mailto:tee_hwei_yeen@schools.gov.sg" target="">tee_hwei_yeen@schools.gov.sg</a></td>
 	</tr>
+	<tr>
+<td>Ms Ha Siao Teng</td>
+<td>TEACHER</td>
+<td><a href="mailto:ha_siao_teng@schools.gov.sg" target="">ha_siao_teng@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Asmidah Bte Mohd Jailani</td>
+<td>TEACHER</td>
+<td><a href="mailto:asmidah_mohd_jailani@schools.gov.sg" target="">asmidah_mohd_jailani@schools.gov.sg</a></td>
+</tr>
 </tbody>
 </table>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
@@ -267,13 +282,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1AM</strong></td>
-<td>Ms Ha Siao Teng</td>
-<td><a href="mailto:ha_siao_teng@schools.gov.sg" target="">ha_siao_teng@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P1AM</strong></td>
 <td>Ms Sakunthala Rajamohan</td>
 <td><a href="mailto:sakunthala_rajamohan@schools.gov.sg" target="">sakunthala_rajamohan@schools.gov.sg</a></td>
+</tr>
+	<tr>
+<td><strong>P1AM</strong></td>
+<td>Ms Lau Thenk Yet</td>
+<td><a href="mailto:lau_thenk_yet@schools.gov.sg" target="">lau_thenk_yet@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td><strong>P1CR</strong></td>
@@ -306,7 +321,7 @@ description: ""
 <td><a href="mailto:siti_norkhatijah_khalid@schools.gov.sg" target="">siti_norkhatijah_khalid@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td><strong>P1PL (SEMESTER 2)</strong></td>
+<td><strong>P1PL</strong></td>
 <td>Ms Atikah Adilah Binte Ahmad Affandi</td>
 <td><a href="mailto:atikah_adilah_ahmad_affandi@schools.gov.sg">atikah_adilah_ahmad_affandi@schools.gov.sg</a></td>
 </tr>
@@ -608,18 +623,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5PL</strong></td>
-<td>Ms Lim Shu Xuan Sharon</td>
-<td><a href="mailto:lim_shu_xuan_sharon_a@schools.gov.sg" target="">lim_shu_xuan_sharon_a@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td><strong>P5PL</strong></td>
 <td>Ms Pang Shimin Germaine</td>
 <td><a href="mailto:germaine_pang_shimin@schools.gov.sg" target="">germaine_pang_shimin@schools.gov.sg</a></td>
 </tr>
 	<tr>
 <td><strong>P5RB</strong></td>
-<td>Mdm Norazilah Hanim Binte Jaafar</td>
-<td><a href="mailto:norazilah_hanim_jaafar@schools.gov.sg" target="">norazilah_hanim_jaafar@schools.gov.sg</a></td>
+<td>Mr Lee Shi Ren</td>
+<td><a href="mailto:lee_shi_ren@schools.gov.sg" target="">lee_shi_ren@schools.gov.sg</a></td>
 </tr>
 		<tr>
 <td><strong>P5RB</strong></td>
@@ -712,22 +722,17 @@ description: ""
 <tr>
 <td>Mr Mohammad Khatib Yus</td>
 <td>OPERATIONS MANAGER 1</td>
-<td><a href="mailto:mohammad_khatib_yus@moe.edu.sg">mohammad_khatib_yus@</a><a href="mailto:yaznita_sallim@schools.gov.sg" target="">schools.gov.sg</a></td>
+<td><a href="mailto:mohammad_khatib_yus@schools.gov.sg">mohammad_khatib_yus@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mr Tan Gek Par</td>
+<td>Mr Edwin Leong Yoke Heng</td>
 <td>OPERATIONS MANAGER 2</td>
-<td><a href="mailto:tan_gek_par@moe.edu.sg">tan_gek_par@</a><a href="mailto:yaznita_sallim@schools.gov.sg" target="">schools.gov.sg</a></td>
+<td><a href="mailto:edwin_leong_yoke_heng@schools.gov.sg">edwin_leong_yoke_heng@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Lim Hwee Khee</td>
 <td>ADMINISTRATION EXECUTIVE</td>
 <td><a href="mailto:lim_hwee_khee@schools.gov.sg">lim_hwee_khee@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td>Mr Muhammad Nur Ridhuan Heinz Hohifeld</td>
-<td>ADMINISTRATION EXECUTIVE</td>
-<td><a href="mailto:muhammad_nur_ridhuan@schools.gov.sg">muhammad_nur_ridhuan@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Hanim Bt Mokhtar</td>
@@ -761,6 +766,11 @@ description: ""
 </tr>
 <tr>
 <td>Mr Mohd Basir Bin Mohamed Abdul Kadir</td>
+<td>OPERATIONS SUPPORT OFFICER</td>
+<td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Hazali Bin Hassan</td>
 <td>OPERATIONS SUPPORT OFFICER</td>
 <td><a href="mailto:fcps@schools.gov.sg" target="">fcps@schools.gov.sg</a></td>
 </tr>
