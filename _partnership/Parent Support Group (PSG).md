@@ -4,8 +4,6 @@ permalink: /partnership/parent-support-group-psg/
 description: ""
 variant: markdown
 ---
-
-<img style="width: 40%;" src="/images/psg1.png">
 <h4><strong>PACES Chairperson's Message</strong></h4>
 <p> Dear Parents/Guardian,</p>
 <p align="justify">The past few years have been tough as the pandemic affected us in different way, such as the cancellation of many school activities and restrictions that prevented us from being physically involved in whatever school activities left. With school life heading back to normalcy, it is time for us parents to help the school and our children transition efficiently back into their school schedule and activities.</p>
@@ -46,7 +44,7 @@ Some of the school activities that the PSG has actively participated and support
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day and many more
 
 Come join us to embark on this fulfilling journey with your children!<p></p>
-<p><br>Yours sincerely,<br>Mdm Agna Koh<br>P.A.C.E.S Chairperson</p>
+<p><br>Yours sincerely,<br>Mdm Agna Koh<br>PSG Chairperson</p>
 <img style="width: 85%;" src="/images/PSG_EXCO_Team_2023.jfif">
 <p style="text-align: center;"><em>From left:&nbsp; Mdm Subramani Vijayalakshmi (Member),&nbsp;Mdm Celia Ong (Secretary),&nbsp;Mdm Vimalraj Lakshmi (Vice-Chairperson),&nbsp;Mdm Agna Koh (Chairperson),&nbsp;Mdm Fiona Ho (Vice-Chairperson),&nbsp;Mdm Kelly Lim (Member) and Mr Terry Maung Myo (Member).</em></p>
 
