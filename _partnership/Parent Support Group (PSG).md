@@ -2,19 +2,52 @@
 title: Parent Support Group (PSG)
 permalink: /partnership/parent-support-group-psg/
 description: ""
+variant: markdown
 ---
+
+<img style="width: 40%;" src="/images/psg1.png">
 <h4><strong>PACES Chairperson's Message</strong></h4>
-<img style="width: 40%;" src="/images/psg1.png" />
-<h4><strong>PACES Chairperson's Message</strong></h4>
-<p>A very warm welcome to P.A.C.E.S, an acronym we coined for Parents Assisting Children&rsquo;s Education in School.&nbsp;</p>
-<p>P.A.C.E.S committee members meet up with the Principal and its school representatives on a termly basis to provide bottom-up feedback, propose suggestions, and also share its concerns and deployment plans. Through the same platform, the committee is kept abreast of impending school programmes and plans. Annually, get-together sessions for the committee such as learning journeys are organised where, along with the Principal and its school representatives, the team visits places of interest and engages in informal interactions to heighten bonding.&nbsp;</p>
-<p>Parents play a vital role in their children's development and education. Hence, as the school continuously communicates with parents and reviews its programmes to improve teaching and learning, we as parents too can extend our support by engaging the school through our suggestions and involving ourselves in the school&rsquo;s programmes by partaking in both its activities and special events.&nbsp;</p>
-<p>Our parent volunteers have been supporting the school in its numerous activities and programmes such as Learning Journeys and Kidsread which is a programme initiated by the National Library Board.&nbsp;</p>
-<p>Our parents also assist in the school&rsquo;s unique Home Skills Programme which is tailored to Fuchunians at different levels. The lessons integrate the learning of English, Mathematics and Science as well as display of values. During the Home Skills lessons, pupils engage in activities such as sandwich-making, basic cooking, baking and also simple sewing techniques.&nbsp;</p>
-<p>Opportunities for parents to be involved in the above mentioned programmes provide a win-win partnership for both parents and the school. Whilst the school gets to enhance the safety of its pupils, parents can better understand their children&rsquo;s development as they exhibit keen interest in their learning.&nbsp;</p>
-<p>Come join us! We look forward to more parents joining our P.A.C.E.S family. Let us work hand-in-hand in strengthening this parents-school partnership as we strive towards a common goal to nurture our young Fuchunians to be A Concerned Leader, A Lifelong Learner!&nbsp;</p>
-<p><br />Yours sincerely,<br />Mdm Mazni Senain<br />P.A.C.E.S Chairperson</p>
-<img style="width: 85%;" src="/images/psg2.jpg" />
-<p style="text-align: center;"><em>From left:&nbsp;Mdm Subramani Vijayalakshmi,&nbsp;Mdm Celia Ong,&nbsp;Mdm Cyndy Zhao,&nbsp;Mdm Mazni Senain,&nbsp;Mdm Kelly Ng,&nbsp;Mdm Sivaraman Jayanthi and Mr Terry Maung Myo.</em></p>
-<p><u>PACES Committee<br /></u>Mdm Mazni Senain (Chairperson)<br />Mdm Cyndy Zhao (Vice-Chairperson)<br />Mdm Celia Ong (Secretary)<br />Mdm Subramani Vijayalakshmi (Member)<br />Mdm Kelly Ng (Member)<br />Mdm Sivaraman Jayanthi (Member)<br />Mr Terry Maung Myo (Member)</p>
+<p> Dear Parents/Guardian,</p>
+<p align="justifycenter">The past few years have been tough as the pandemic affected us in different way, such as the cancellation of many school activities and restrictions that prevented us from being physically involved in whatever school activities left. With school life heading back to normalcy, it is time for us parents to help the school and our children transition efficiently back into their school schedule and activities.</p>
+
+At Fuchun Primary School, our Parent Support Group (PSG) is passionate in working closely with the school to support existing school&nbsp;programmes and activities. We, as parents, strongly believe and encourage parents’ active participation in school activities. So as to better create a positive environment to nurture and benefit the development of Fuchunians, and to build stronger family ties.
+
+Our Mission:
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To align with the school’s missions, objectives and strategies in order to better support our children in their learning journey.
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Providing an avenue for school-home partnership, act as a communication channel between the school and the parents, so as to assist the students in adopting a positive attitude towards learning.
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide opportunities for parents to participate in school activities and events to foster closer relationships.
+Some of the school activities that the PSG has actively participated and supported this year include:
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Skills Lessons
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Day Quiz Booth
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 &amp; P2 ICT Lessons
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Library Story Telling
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Racial Harmony Day
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fuchun Play Day
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fuchun Health Week
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Swim Safer
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recess Play
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teacher’s Day
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day and many more
+
+Come join us to embark on this fulfilling journey with your children!<p></p>
+<p><br>Yours sincerely,<br>Mdm Agna Koh<br>P.A.C.E.S Chairperson</p>
+<img style="width: 85%;" src="/images/psg2.jpg">
+<p style="text-align: center;"><em>From left:&nbsp; Mdm Subramani Vijayalakshmi (Member),&nbsp;Mdm Celia Ong (Secretary),&nbsp;Mdm Vimalraj Lakshmi (Vice-Chairperson),&nbsp;Mdm Agna Koh (Chairperson),&nbsp;Mdm Fiona Ho (Vice-Chairperson),&nbsp;Mdm Kelly Lim (Member) and Mr Terry Maung Myo (Member).</em></p>
+
 <p>Please click <a href="/files/Parent%20Volunteer%20Registration%20Form.pdf" target="_blank" rel="noopener">here</a>&nbsp;to download the Parent Support Group (PSG) Application Form.</p>
