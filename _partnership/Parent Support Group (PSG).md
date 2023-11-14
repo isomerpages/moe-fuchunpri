@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 
-	<img style="width: 40%;" src="/images/PSG3">
+<img style="width: 40%;" src="/images/psg1.png">
 <h4><strong>PACES Chairperson's Message</strong></h4>
 <p> Dear Parents/Guardian,</p>
 <p align="justify">The past few years have been tough as the pandemic affected us in different way, such as the cancellation of many school activities and restrictions that prevented us from being physically involved in whatever school activities left. With school life heading back to normalcy, it is time for us parents to help the school and our children transition efficiently back into their school schedule and activities.</p>
