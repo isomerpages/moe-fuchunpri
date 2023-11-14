@@ -8,9 +8,9 @@ variant: markdown
 	<img style="width: 40%;" src="/images/PSG3">
 <h4><strong>PACES Chairperson's Message</strong></h4>
 <p> Dear Parents/Guardian,</p>
-<p>The past few years have been tough as the pandemic affected us in different way, such as the cancellation of many school activities and restrictions that prevented us from being physically involved in whatever school activities left. With school life heading back to normalcy, it is time for us parents to help the school and our children transition efficiently back into their school schedule and activities.</p>
+<p align="justify">The past few years have been tough as the pandemic affected us in different way, such as the cancellation of many school activities and restrictions that prevented us from being physically involved in whatever school activities left. With school life heading back to normalcy, it is time for us parents to help the school and our children transition efficiently back into their school schedule and activities.</p>
 
-At Fuchun Primary School, our Parent Support Group (PSG) is passionate in working closely with the school to support existing school&nbsp;programmes and activities. We, as parents, strongly believe and encourage parents’ active participation in school activities. So as to better create a positive environment to nurture and benefit the development of Fuchunians, and to build stronger family ties.
+<p align="justify">At Fuchun Primary School, our Parent Support Group (PSG) is passionate in working closely with the school to support existing school&nbsp;programmes and activities. We, as parents, strongly believe and encourage parents’ active participation in school activities. So as to better create a positive environment to nurture and benefit the development of Fuchunians, and to build stronger family ties.</p>
 
 Our Mission:
 
