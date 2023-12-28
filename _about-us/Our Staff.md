@@ -9,7 +9,7 @@ variant: markdown
 <h4><strong>SCHOOL LEADERS</strong></h4>
 
 
-|![](/images/mr%20tan%20chin%20kee%20photo%206.jpg)| ![](/images/mrs%20eunice%20lim%20photo%206.jpg)|![](/images/mr%20long%20tien%20ho%20photo%206.jpg) |
+|![](/images/mr%20tan%20chin%20kee%20photo%206.jpg)| ![](/images/mrs%20eunice%20lim%20photo%206.jpg)|![](/images/Sudhesh_Vasu_Dash.jpeg)
 | -------- | -------- | -------- |
 | Mr Tan Chin Kee<br>VICE-PRINCIPAL (ADMIN)<br><a href="mailto:tan_chin_kee@schools.gov.sg">tan_chin_kee@schools.gov.sg </a>| Mrs Eunice Lim<br>PRINCIPAL<br> <a href="mailto:eunice_lee@schools.gov.sg">eunice_lee@schools.gov.sg</a>  | Mr Sudhesh Vasu Dash <br> VICE-PRINCIPAL <br><a href="mailto:sudhesh_vasu_dash@schools.gov.sg">sudhesh_vasu_dash@schools.gov.sg</a>|
 
