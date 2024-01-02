@@ -2,10 +2,11 @@
 title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
+variant: markdown
 ---
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		  <td width="30%"><img src="/images/Mrs%20Lim%20w%20P1s.jpg" >
+	<tbody><tr>
+		  <td width="30%"><img src="/images/Mrs%20Lim%20w%20P1s.jpg">
 		</td>
 		<td width="70%"> Dear Parents/Guardians and Students,
 <br><br>
@@ -13,7 +14,7 @@ description: ""
 <br><br>
 As we enter 2023 with new dreams and hopes, let us endeavor to seize every opportunity to grow and learn as a school. The Covid-19 pandemic has taught us the importance of being adaptable and resilient during uncertain and difficult times. During our struggles, we were also thankful for the unceasing care, encouragement, and support from those around us. They really kept us going.
 <br><br>
-			Our vision, <i>“A Nurturing, Resilient and Forward-Looking School Community”</i> espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
+			Our vision,&nbsp;<i>“A Nurturing, Resilient and Forward-Looking School Community”</i>&nbsp;espouses the idea of growing stronger together. The success story of every Fuchunian is not merely an outcome, but it speaks of a journey of learning, growing, and excelling together as a school community. It is about having a growth mindset to see beyond current realities, with each of us doing our part to bring out the best in our students and staff.
 		</td>
 	</tr>
 	<tr>
@@ -40,4 +41,4 @@ As we enter 2023 with new dreams and hopes, let us endeavor to seize every oppor
 			Mrs Eunice Lim
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
