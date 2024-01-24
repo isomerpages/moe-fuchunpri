@@ -1,0 +1,11 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - School Advisory Committee (SAC).md
+      - Parent Support Group (PSG).md
+      - Positive Parenting Programs (Triple P).md
+      - Youth Alumni.md
+      - Health Promotion Board.md
+      - Big Heart SCC.md
+      - Mendaki.md
