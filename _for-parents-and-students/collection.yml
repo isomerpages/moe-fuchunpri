@@ -2,6 +2,5 @@ collections:
   for-parents-and-students:
     output: true
     order:
-      - For New P1 2023.md
       - For Parents & Students.md
       - Sexuality Education.md
