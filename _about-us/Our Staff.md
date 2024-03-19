@@ -75,7 +75,7 @@ variant: tiptap
 <p>SCHOOL STAFF DEVELOPER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">norazilah_hanim_jaafar@</a>
+<p><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">norazilah_hanim_jaafar@</a> 
 <a href="http://moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
@@ -594,7 +594,7 @@ variant: tiptap
 <p>TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ha_siao_teng@</a>
+<p><a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ha_siao_teng@</a> 
 <a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
@@ -865,7 +865,7 @@ variant: tiptap
 <p>Mr Lee YH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yuen_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yuen_hwa@</a>
+<p><a href="mailto:lee_yuen_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yuen_hwa@</a> 
 <a href="mailto:lee_yuen_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
@@ -1542,7 +1542,7 @@ variant: tiptap
 <p>Mdm Hanim J</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">norazilah_hanim_jaafar@</a>
+<p><a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">norazilah_hanim_jaafar@</a> 
 <a href="mailto:norazilah_hanim_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
