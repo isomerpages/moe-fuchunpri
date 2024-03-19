@@ -2,6 +2,7 @@
 title: For Parents & Students
 permalink: /for-parents-n-students/
 description: ""
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-term-calendars/term-calendars-home">Term Calendars</a></strong></h4>
 
@@ -10,8 +11,6 @@ description: ""
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-our-services/our-services-home">Our Services</a></strong></h4>
 
 <h4 style="text-align: center;"><strong><a href="https://www.fuchunpri.moe.edu.sg/for-parents-n-students/sexuality-education/">Sexuality Education</a></strong></h4>
-
-<h4 style="text-align: center;"><strong><a href="https://www.fuchunpri.moe.edu.sg/for-parents-and-students/for-new-p1-2023/">For New P1 2023</a></strong></h4>
 
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-parents-briefing/parents-briefing-home">Parents' Briefing Materials</a></strong></h4>
 
