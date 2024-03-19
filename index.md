@@ -20,6 +20,5 @@ sections:
         - title: Connect With Us
           description: ""
           url: /fuchun-primary-school/updates/permalink/
-      background: /images/homepage_banners_2023_animated_smaller_shorter_878x400_4sec
-        new ihsan.gif
+      background: /images/FCPS_WEBSITE_ANIMATED_BANNER_2024_1400x638_FINAL.gif
 ---
