@@ -13,7 +13,6 @@ find out more information about BHSCC or read their <strong>2023 Newsletter </st
 <a href="/files/FC___Annual_Report_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Big Heart SCC Newsletter 2023.pdf</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_SCC_Image.png">
 </div>
