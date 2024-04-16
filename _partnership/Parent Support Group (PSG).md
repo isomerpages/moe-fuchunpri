@@ -49,7 +49,7 @@ supported this year include:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2024.jpg">
 </div>
-<p><em>From left: Mr Faisal Zahid Sayed (Member), Mr Michael Soe (Member), Mdm Vimarlraj Lakshmi (Co-Chairperson), Mdm Agna Koh (Chairperson), Mdm Fiona Ho (Co-Chairperson), Mdm Donnabell Datingaling (Interm Secretary)</em>
+<p><em>From left: Mr Faisal Zahid Sayed (Member), Mr Michael Soe (Member), Mr Terry Myo (Member), Mdm Vimarlraj Lakshmi (Co-Chairperson), Mdm Agna Koh (Chairperson), Mdm Fiona Ho (Co-Chairperson), Mdm Donnabell Datingaling (Interm Secretary)</em>
 </p>
 <p>Please click <a href="/files/Parent%20Volunteer%20Registration%20Form.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
 download the Parent Support Group (PSG) Application Form.</p>
