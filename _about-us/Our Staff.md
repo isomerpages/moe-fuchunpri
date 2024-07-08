@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <p>Last Updated 19 March 2024</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,7 +56,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>SCHOOL EXECUTIVE COMMITTEE</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -359,7 +369,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>LEAD AND SENIOR TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -474,7 +489,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>NON-FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -540,18 +560,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek YL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_yoke_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">quek_yoke_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Prakas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -559,18 +567,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sujatha_prakas_nee_sreedharen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sujatha_prakas_nee_sreedharen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zarina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zarina_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zarina_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -626,7 +622,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -801,7 +802,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 2 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1005,7 +1011,12 @@ variant: tiptap
 <h4><strong>PRIMARY 3 FORM TEACHERS</strong></h4>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1154,7 +1165,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 4 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1289,19 +1305,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4PL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee YW</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yi_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yi_wen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>P4RB</strong>
 </p>
 </td>
@@ -1329,7 +1332,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 5 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1504,7 +1512,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 6 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1680,7 +1693,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM AND SUPPORT STAFF</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1878,18 +1896,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Louis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT TRAINER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fcps@schools.gov.sg" rel="noopener noreferrer nofollow" target="">fcps@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Su</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1928,7 +1934,12 @@ variant: tiptap
 </table>
 <h4><strong>SCHOOL COUNSELLOR AND ALLIED EDUCATORS</strong></h4>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
