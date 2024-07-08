@@ -1740,6 +1740,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS MANAGER 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chandrasekaran_k_ayyapan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chandrasekaran_k_ayyapan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ho CH</p>
 </td>
 <td rowspan="1" colspan="1">
