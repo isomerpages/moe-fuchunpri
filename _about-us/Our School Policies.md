@@ -68,7 +68,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://fuchunpri.moe.edu.sg/homework-policy/" rel="noopener nofollow" target="_blank">Homework Policy </a>
+<p><a href="https://fuchunpri.moe.edu.sg/homework-policy/" rel="noopener nofollow" target="_blank">Homework Policy</a>
 </p>
 </li>
 </ul>
