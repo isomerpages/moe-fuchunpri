@@ -13,7 +13,8 @@ description: ""
 <p>School Rules and Regulations</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Student Conduct</p>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-fuchunpri/editPage/Student%20Conduct.md" rel="noopener nofollow" target="_blank">Student Conduct</a>
+</p>
 </li>
 <li>
 <p>Active Citizenry</p>
