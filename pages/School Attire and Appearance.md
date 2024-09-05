@@ -24,3 +24,28 @@ frames should not be fanciful or outlandish in design, colour and size.
 Coloured contact lenses are not allowed.</p>
 <p>f) Students are not allowed to wear jewellery, cosmetics, and accessories
 e.g. beads around the wrist, coloured strings and bangles.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Attire_and_Appearance_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Attire_and_Appearance_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Attire_and_Appearance_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Attire_and_Appearance_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Sch_Uniform_Boys.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Sch_Uniform_Girls.png">
+</div>
+<p></p>
