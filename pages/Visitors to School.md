@@ -25,4 +25,13 @@ by school staff/security guard.</p>
 teachers, prior arrangements must be made. This is to ensure an uninterrupted
 and fruitful discussion. Parents/Guardians are also contact the teachers
 via phone or email. Parents may also email any feedback to the school.</p>
+<p>g) The school car park has limited parking lots. Visitors to school are
+kindly requested to park at the public car parks in the vicinity of the
+school.</p>
+<p>In view of the morning peak hours (7.00 am to 7.30 am), parents are allowed
+to drive into the school compound for the purpose of dropping off their
+children. The speed limit within the school is 15 km/h.</p>
+<p>The security guards are stationed at the main gate and at the drop-off
+point (outside General Office) to ensure smooth flow of traffic and safety
+of the students.</p>
 <p></p>
