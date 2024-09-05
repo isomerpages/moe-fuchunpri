@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Policies.md
       - Principal’s Message.md
       - Our Story.md
       - Our Vision, Mission, Values & Motto.md
@@ -12,3 +11,4 @@ collections:
       - Our Learning Spaces.md
       - Our Publications.md
       - Our use of photographs, videos and publication of students’ works.md
+      - Our School Policies.md
