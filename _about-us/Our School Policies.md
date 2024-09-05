@@ -6,14 +6,14 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-fuchunpri/editPage/Discipline%20Policy.md" rel="noopener nofollow" target="_blank">Discipline Policy</a>
+<p><a href="https://www.fuchunpri.moe.edu.sg/discipline-policy" rel="noopener nofollow" target="_blank">Discipline Policy</a>
 </p>
 </li>
 <li>
 <p>School Rules and Regulations</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-fuchunpri/editPage/Student%20Conduct.md" rel="noopener nofollow" target="_blank">Student Conduct</a>
+<p><a href="https://fuchunpri.moe.edu.sg/student-conduct/" rel="noopener nofollow" target="_blank">Student Conduct</a>
 </p>
 </li>
 <li>
