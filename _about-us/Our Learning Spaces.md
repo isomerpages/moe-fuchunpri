@@ -407,13 +407,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Performing Arts Studio</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_161502.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Band Room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_161844.jpg">
 </div>
@@ -421,13 +421,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Band Room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_161934.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Music Room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_162205.jpg">
 </div>
@@ -435,40 +435,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Indoor Sports Hall (ISH)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_162706.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sheltered Basketball Court</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230802_162840.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
