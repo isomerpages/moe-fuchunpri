@@ -6,7 +6,8 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>Discipline Policy</p>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-fuchunpri/editPage/Discipline%20Policy.md" rel="noopener nofollow" target="_blank">Discipline Policy</a>
+</p>
 </li>
 <li>
 <p>School Rules and Regulations</p>
