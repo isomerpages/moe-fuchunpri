@@ -16,7 +16,7 @@ find out more information about BHSCC or read their <strong>2023 Newsletter </st
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_SCC_Image.png">
 </div>
 <p></p>
-<h4><strong>Student Care Registration 2024</strong></h4>
+<h4><strong>Student Care Registration </strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vQKoE2luc20?si=xZUzdVxz2XmZ2Qny"></iframe>
 </div>
