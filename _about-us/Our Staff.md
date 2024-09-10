@@ -560,18 +560,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan WC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_wei_ching@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Prakas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1896,7 +1884,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zain</p>
+<p>Ms Anjitha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DESKTOP ENGINEER</p>
