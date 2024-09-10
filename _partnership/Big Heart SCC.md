@@ -17,3 +17,7 @@ find out more information about BHSCC or read their <strong>2023 Newsletter </st
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_SCC_Image.png">
 </div>
 <p></p>
+<p><a href="https://www.youtube.com/watch?v=vQKoE2luc20&amp;ab_channel=BigHeartStudentCare" rel="noopener nofollow" target="_blank">BHSC Corporate Video 2024</a>
+</p>
+<p><a href="/files/Big_Heart_Cover_Letter_P1_2025.pdf" rel="noopener nofollow" target="_blank">Big Heart Cover Letter P1 2025</a>
+</p>
