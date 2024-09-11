@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: tiptap
 ---
-<p>Last Updated 19 March 2024</p>
+<p>Last Updated 11 September 2024</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -524,18 +524,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Vassou</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kokilavani_vassou@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kokilavani_vassou@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ravin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -579,19 +567,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tee_hwei_yeen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tee_hwei_yeen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ha ST</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ha_siao_teng@</a> 
-<a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -766,10 +741,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sena</p>
+<p>Mrs Vassou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:brampy_chitra_selina@moe.edu.sg" rel="noopener noreferrer nofollow" target="">brampy_chitra_selina@moe.edu.sg</a>
+<p><a href="kokilavani_vassou@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kokilavani_vassou@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1PL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ha ST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ha_siao_teng@</a> 
+<a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
 </tr>
