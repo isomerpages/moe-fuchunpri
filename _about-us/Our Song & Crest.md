@@ -25,7 +25,6 @@ variant: tiptap
 <br>Miss Lily Stephens
 <br>Music Teacher of Fuchun Primary School 1985</p>
 <h4><strong>Our Crest</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo.png">
 </div>
