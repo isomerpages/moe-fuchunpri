@@ -27,7 +27,7 @@ variant: tiptap
 <h4><strong>Our Crest</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Song &amp; Crest/logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo.png">
 </div>
 <p>The school emblem is created through the fusion of F, C, P &amp; S which
 stands for Fuchun Primary School.</p>
