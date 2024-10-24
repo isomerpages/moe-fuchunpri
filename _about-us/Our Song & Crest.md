@@ -26,7 +26,7 @@ variant: tiptap
 <br>Music Teacher of Fuchun Primary School 1985</p>
 <h4><strong>Our Crest</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 264.875px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" src="https://www.fuchunpri.moe.edu.sg/images/crest.png">
+<img style="width: 50%;" height="auto" width="100%" src="https://www.fuchunpri.moe.edu.sg/images/crest.png">
 </div>
 <p>The school emblem is created through the fusion of F, C, P &amp; S which
 stands for Fuchun Primary School.</p>
