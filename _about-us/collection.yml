@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Safety Policy.md
       - Principal’s Message.md
       - Our Story.md
       - Our Vision, Mission, Values & Motto.md
