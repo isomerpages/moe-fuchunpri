@@ -32,16 +32,16 @@ give one’s best in embracing and improving safety</p>
 community is committed towards achieving our safety vision:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish clear safety procedures, processes and rules for practice and/or
-compliance</p>
+<p>Establish <strong>clear safety procedures, processes and rules</strong> for
+practice and/or compliance</p>
 </li>
 <li>
-<p>Effectively communicate good safety practices to the school population</p>
+<p>Effectively <strong>communicate good safety practices</strong> to the school
+population</p>
 </li>
 <li>
-<p>Develop&nbsp; and&nbsp; maintain&nbsp; a&nbsp; strong&nbsp; safety&nbsp;
-culture&nbsp; that&nbsp; is&nbsp; pervasive&nbsp; in&nbsp; the&nbsp; whole&nbsp;
-school</p>
+<p>Develop&nbsp; and&nbsp; <strong>maintain&nbsp; a&nbsp; strong&nbsp; safety&nbsp; culture&nbsp;</strong> that&nbsp;
+is&nbsp; pervasive&nbsp; in&nbsp; the&nbsp; whole&nbsp; school</p>
 </li>
 </ol>
 <p>&nbsp;</p>
