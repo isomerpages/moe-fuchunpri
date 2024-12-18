@@ -4,4 +4,57 @@ permalink: /about-us/principal-s-message/
 description: ""
 variant: tiptap
 ---
-<p>Dear Fuchun Family,</p><p></p><p>As we embark on the journey of the new school year in 2024, I extend warm wishes to all for a year filled with positivity, growth opportunities, and self-discovery.</p><p></p><p>Reflecting on the accomplishments of 2023, I was heartened by how our students had embraced the ethos of becoming “Successful Fuchunians” in multiple domains. This educational philosophy redefines the notion of success as being consistent in displaying school values, a growth mindset, making good choices, and fostering positive relationships. They demonstrated remarkable progress, receiving recognition during the year-end “Celebrate Us” ceremony for embodying values, holistic development, and contribution to school.</p><p></p><p>Looking forward to 2024, we introduce five Superheroes as part of our Values Education Programme – Professor (Passion for Learning), Iron Heart (Integrity), Empath (Empathy), Ref (Respect) and Rock (Resilience). With their powers combined, these Superheroes aim to help our students internalize and demonstrate school values, character strengths and positive learning dispositions, empowering them to become superheroes of their lives and peers.</p><p></p><p>Responding to the evolving educational landscape, we proudly unveil innovative learning spaces designed to equip our students with critical thinking, creativity, and collaboration skills necessary for success in the 21st century. These include an outdoor vertical farm and hydroponics pavilion for enhancing learning on food sustainability; an interactive soundscape fostering free play with musical instruments; and collaborative art and music galleries. These spaces encourage multisensory exploration and providing versatile settings for lessons and interdisciplinary activities.</p><p>In today’s technology-driven world, conducive online learning environments are also crucial to prepare our students as future-ready learners. This year, we invite parents to partner with us in championing a safe digital space for students. Our Fuchun CyberWellness Toolkit for Parents, available on the school website, offers tips and advice on children’s digital device usage and navigating the online world. Our newly minted “Family Friday” homeroom lessons, which aim to promote family education, will leverage this toolkit in empowering parents to engage in Cyber Wellness discussions with their children at home.</p><p></p><p>To our students, embrace 2024 with confidence, relish in the joy of learning through exciting school programmes lined up for you, and remember that possibilities for your development are limitless!</p><p></p><p>Here's to a meaningful and successful 2024!</p><p>Warm Regards,</p><p>Mrs Eunice Lim</p><p>Principal</p>
+<p>Dear Fuchun Family,</p>
+<p>Happy New Year! As we step into 2025, my heart swells with pride and excitement.
+This year marks our 40th anniversary, and what a journey it has been!</p>
+<p>For four decades, we've been nurturing bright minds and building a community
+that shines with warmth and brilliance. Our theme, "FCP40: A Treasure of
+Gems Shining Together", perfectly captures the essence of our school. Remember,
+"Every Gem Matters, Every Shine Counts" - this is more than just a tagline;
+it's our promise to each of you.</p>
+<p>This year, we're rolling out an exciting line-up of events and activities
+that will showcase:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Our School</strong>: You'll be amazed by our transformed learning
+spaces. They're not just new; they're designed to spark your curiosity
+and creativity!</p>
+</li>
+<li>
+<p><strong>Our People</strong>: From our youngest learners to our most experienced
+staff, we'll celebrate the unique talents that make our Fuchun family special.</p>
+</li>
+<li>
+<p><strong>Our Unique Cultures</strong>: Get ready to experience our signature
+programmes that foster care, learning, and innovation.</p>
+</li>
+</ul>
+<p><strong>Here’s a shout-out:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>To our students:</strong> You are the heart of Fuchun. Your energy,
+your ideas, your laughter - they make our school come alive. This year,
+I challenge you to shine even brighter. Try something new, help a friend,
+dream big!</p>
+</li>
+<li>
+<p><strong>To our staff:</strong> Your dedication is the backbone of our success.
+Thank you for nurturing our gems with such care and passion.</p>
+</li>
+<li>
+<p><strong>To our parents and alumni:</strong> Your support and trust in us
+have been invaluable. Let's continue this partnership as we shape the future
+of Fuchun together.</p>
+</li>
+</ul>
+<p>As we celebrate 40 years of excellence, let's also look forward to the
+exciting future we're building. Each of you - student, teacher, parent,
+or alumnus - is a precious gem in our Fuchun treasure chest. Together,
+we create a dazzling light that guides us towards even greater heights.</p>
+<p>Here's to 40 years of shining bright, and to a future that's even brighter!
+Let's make this our most brilliant year yet!</p>
+<p>&nbsp;</p>
+<p>With warmth and excitement,</p>
+<p>Mrs Eunice Lim</p>
+<p>Principal</p>
