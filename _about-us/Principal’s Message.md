@@ -54,6 +54,8 @@ or alumnus - is a precious gem in our Fuchun treasure chest. Together,
 we create a dazzling light that guides us towards even greater heights.</p>
 <p>Here's to 40 years of shining bright, and to a future that's even brighter!
 Let's make this our most brilliant year yet!</p>
+<p></p>
 <p>With warmth and excitement,</p>
 <p>Mrs Eunice Lim</p>
 <p>Principal</p>
+<p></p>
