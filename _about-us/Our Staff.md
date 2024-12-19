@@ -131,7 +131,7 @@ variant: tiptap
 <p>Mdm Tan YL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HEAD OF DEPT/MT</p>
+<p>HEAD OF DEPT/MOTHER TONGUE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yi_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ling@moe.edu.sg</a>
