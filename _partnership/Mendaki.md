@@ -70,5 +70,6 @@ registered students)</p>
 <p><strong>Time:</strong> 2.15pm to 3.45pm</p>
 <p><strong>Commencement date:</strong>
 </p>
-<p>P5 &amp; P6: 21 Feb 2024</p>
+<p>P4: 26 Mar 2025</p>
+<p>P5&amp;6: 5 Feb 2025</p>
 <p>P4: 13 Mar 2024</p>
