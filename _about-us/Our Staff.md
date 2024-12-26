@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: tiptap
 ---
-<p>Last Updated 23 December 2024</p>
+<p>Last Updated 26 December 2024</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -897,7 +897,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Evangeline Gong</p>
+<p>Mrs Evangeline Choong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Gong_Hsien_Ci_Evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gong_hsien_ci_evangeline@schools.gov.sg</a>
