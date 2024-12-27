@@ -900,7 +900,7 @@ variant: tiptap
 <p>Mrs Evangeline Choong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gong_Hsien_Ci_Evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gong_hsien_ci_evangeline@schools.gov.sg</a>
+<p><a href="mailto:Gong_Hsien_Ci_Evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gong_hsien_ci_evangeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
