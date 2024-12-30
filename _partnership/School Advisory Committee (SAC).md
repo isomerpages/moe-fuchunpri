@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p>Fuchun Primary School is pleased to present our School Advisory Committee.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership/SAC/SAC_Org_Chart_18Dec23_17Dec25.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
