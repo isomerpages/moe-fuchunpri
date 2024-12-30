@@ -236,6 +236,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Marlini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEVEL HEAD/ENGLISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:marlini_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="">marlini_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,18 +279,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hajjah_marzia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajjah_marzia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marlini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUBJECT HEAD/ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:marlini_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="">marlini_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
