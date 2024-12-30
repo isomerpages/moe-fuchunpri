@@ -236,6 +236,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Marlini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEVEL HEAD/ENGLISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:marlini_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="">marlini_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,18 +279,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hajjah_marzia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajjah_marzia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marlini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUBJECT HEAD/ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:marlini_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="">marlini_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -692,7 +692,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P1AM</strong>
+<p><strong>G1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -714,7 +714,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P1CR</strong>
+<p><strong>G2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,7 +736,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P1EM</strong>
+<p><strong>G3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -759,7 +759,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P1JD</strong>
+<p><strong>G4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -781,7 +781,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P1PL</strong>
+<p><strong>G5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -900,7 +900,7 @@ variant: tiptap
 <p>Mrs Evangeline Choong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gong_Hsien_Ci_Evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gong_hsien_ci_evangeline@schools.gov.sg</a>
+<p><a href="mailto:Gong_Hsien_Ci_Evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gong_hsien_ci_evangeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
