@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edumund Lau Jia Hao</p>
+<p>Mr Edmund Lau Jia Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sherry Chin</p>
+<p>Ms Sherry Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
