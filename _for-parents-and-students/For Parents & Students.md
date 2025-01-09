@@ -4,7 +4,7 @@ permalink: /for-parents-n-students/
 description: ""
 variant: markdown
 ---
-<h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-term-calendars/term-calendars-home">Term Calendars</a></strong></h4>
+<h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site-term-calendars/term-calendars-home">School Calendar</a></strong></h4>
 
 <h4 style="text-align: center;"><strong><a href="https://sites.google.com/moe.edu.sg/fcps-g-site/school-assessments-home">School Assessments</a></strong></h4>
 
