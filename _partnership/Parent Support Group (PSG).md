@@ -53,3 +53,13 @@ supported this year include:</p>
 </p>
 <p>Please click <a href="/files/Parent%20Volunteer%20Registration%20Form.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
 download the Parent Support Group (PSG) Application Form.</p>
+<p></p>
+<h3>Our Recent Activities</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HoFaG9hUBP8?si=2qRtwHm4L8zgZG_V"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lIRuCwSSiHA?si=lbRHdA6ic3mMkrob"></iframe>
+</div>
+<p></p>
