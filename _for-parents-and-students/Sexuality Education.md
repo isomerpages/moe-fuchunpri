@@ -69,6 +69,7 @@ and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
+<p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
