@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: tiptap
 ---
-<p>Last Updated 26 December 2024</p>
+<p>Last Updated 27 January 2025</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -534,6 +534,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNR TEACHER/ENGLISH (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michelle_edwin_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="">michelle_edwin_gomez@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>NON-FORM TEACHERS</strong></h4>
@@ -651,18 +663,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_seow_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_seow_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Asmidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:asmidah_mohd_jailani@moe.edu.sg" rel="noopener noreferrer nofollow" target="">asmidah_mohd_jailani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
