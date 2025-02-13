@@ -12,6 +12,8 @@ December 2022.</p>
 find out more information about BHSCC or read their <strong>2023 Newsletter </strong>
 <a href="/files/FC___Annual_Report_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Big Heart SCC Newsletter 2023.pdf</a>
 </p>
+<p>You can also view the Big Heart Student Care Centre's <a href="https://drive.google.com/file/d/17qTvFoAv8xQOqlm_-lTVtux46zmjEFfA/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Annual Report</a> to
+learn about our enriching programmes and student achievements.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_SCC_Image.png">
 </div>
