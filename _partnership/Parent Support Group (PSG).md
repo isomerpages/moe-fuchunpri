@@ -110,8 +110,20 @@ download the Parent Support Group (PSG) Application Form.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xD8qDsa5rHA?si=ZoQuyp9-Ot5YhaC1"></iframe>
 </div>
-<h3>Fuchun Health Week </h3>
+<h3>Fuchun Health Week</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dmuGjwl7sfQ?si=g4_Oc3nHiGVRUiOo"></iframe>
+</div>
+<h3>Total Defence Day</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt5KJxgFBvU?si=CiHpM1Dr_vxqDAVB"></iframe>
+</div>
+<h3>P2 Homeskills</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6rWmK0vg6pU?si=ShishBSH8e5d_K5_"></iframe>
+</div>
+<h3>P6 Learning Journey</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mMPRzdv-u2g?si=gPcHHXtxyXhixeLq"></iframe>
 </div>
 <p></p>
