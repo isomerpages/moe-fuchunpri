@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: tiptap
 ---
-<p>Last Updated 27 January 2025</p>
+<p>Last Updated 14 April 2025</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -666,6 +666,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rudy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEACHER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">erfan_ameerudy_ramlee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
@@ -1009,10 +1021,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khatijah</p>
+<p>Ms Sindhu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_norkhatijah_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_norkhatijah_khalid@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sindhuja_suresh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
