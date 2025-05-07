@@ -5,46 +5,77 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>PSG Chairperson's Message</strong></h4>
-<p>Dear Parents/Guardian,</p>
-<p>The past few years have been tough as the pandemic affected us in different
-way, such as the cancellation of many school activities and restrictions
-that prevented us from being physically involved in whatever school activities
-left. With school life heading back to normalcy, it is time for us parents
-to help the school and our children transition efficiently back into their
-school schedule and activities.</p>
-<p>At Fuchun Primary School, our Parent Support Group (PSG) is passionate
-in working closely with the school to support existing school&nbsp;programmes
-and activities. We, as parents, strongly believe and encourage parents’
-active participation in school activities. So as to better create a positive
-environment to nurture and benefit the development of Fuchunians, and to
-build stronger family ties.</p>
-<p>Our Mission:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To align with the school’s missions, objectives
-and strategies in order to better support our children in their learning
-journey.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Providing an avenue for school-home partnership,
-act as a communication channel between the school and the parents, so as
-to assist the students in adopting a positive attitude towards learning.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide opportunities for parents
-to participate in school activities and events to foster closer relationships.
-Some of the school activities that the PSG has actively participated and
-supported this year include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Skills Lessons</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Day Quiz Booth</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 &amp; P2 ICT Lessons</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Library Story Telling</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Racial Harmony Day</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fuchun Play Day</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fuchun Health Week</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Swim Safer</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recess Play</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teacher’s Day</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day and many more</p>
-<p>Come join us to embark on this fulfilling journey with your children!</p>
-<p>Yours sincerely,
-<br>Mdm Agna Koh
-<br>PSG Chairperson</p>
+<p>Dear Parents and Guardians,</p>
+<p>A warm and heartfelt welcome to all our Fuchun families!</p>
+<p>I’m truly excited to begin this journey with you as the Chairperson of
+the Parent Support Group (PSG). It’s a joy to work alongside such a caring
+group of parents. Together, let’s create meaningful memories and build
+strong support for our children as they grow and learn.</p>
+<p>At Fuchun, we believe that when parents and schools work closely together,
+amazing things happen. The PSG is made up of wonderful parent volunteers
+who give their time and energy to enrich school life for all students.
+Whether lending a hand during events or helping behind the scenes, every
+contribution makes a big difference.</p>
+<p>When children see their parents involved in school, it helps build their
+confidence, pride, and sense of belonging. Your presence not only encourages
+them but also strengthens our school community, creating a welcoming and
+supportive environment for everyone.</p>
+<p>This year, the PSG has been involved in many meaningful activities, including:</p>
+<ul>
+<li>
+<p>Happy Pongal 2025</p>
+</li>
+<li>
+<p>Primary 4 SwimSafer 2.0 Programme</p>
+</li>
+<li>
+<p>Fuchun Health Week</p>
+</li>
+<li>
+<p>Recess Play</p>
+</li>
+<li>
+<p>Learning Journeys (P3–P6)</p>
+</li>
+<li>
+<p>Total Defence Day Quiz &amp; Police Booth</p>
+</li>
+<li>
+<p>Homeskills Lessons (P1–P3)</p>
+</li>
+<li>
+<p>Primary 4 E2K Science Programme</p>
+</li>
+<li>
+<p>International Students Programme</p>
+</li>
+<li>
+<p>Pesta Bahasa</p>
+</li>
+<li>
+<p>Wonder Lab</p>
+</li>
+<li>
+<p>…and many more joyful moments with the students</p>
+</li>
+</ul>
+<p>2025 is a special year as we celebrate Fuchun Primary School’s 40th anniversary.
+As we reflect on the school’s rich history, the PSG looks forward to continuing
+our support for the school and walking with our children on the journey
+ahead.</p>
+<p>We warmly invite you to join us on this meaningful journey. If you’d like
+to know more or are considering joining the PSG, feel free to visit the
+school website or reach out to us directly. We would love to welcome you
+into our PSG family.</p>
+<p>Looking forward to meeting you at our upcoming events and working together
+to make this year truly special for our children.</p>
+<p>Warmest regards,
+<br>Madam Fiona Ho
+<br>PSG Chairperson
+<br>Fuchun Primary School</p>
+<p>
+<br>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2024.jpg">
