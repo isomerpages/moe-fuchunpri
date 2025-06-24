@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: tiptap
 ---
-<p>Last Updated 14 April 2025</p>
+<p>Last Updated 24 June 2025</p>
 <h4><strong>SCHOOL LEADERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
