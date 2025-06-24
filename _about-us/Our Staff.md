@@ -311,7 +311,7 @@ variant: tiptap
 <p>Ms Soh MY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUBJECT HEAD/21CC (INTERNAL)</p>
+<p>SUBJECT HEAD/21CC &amp; PW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_ming_yue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_ming_yue@moe.edu.sg</a>
