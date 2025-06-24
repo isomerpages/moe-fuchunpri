@@ -887,10 +887,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Minjit</p>
+<p>Mdm Malani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fcps@schools.gov.sg" rel="noopener noreferrer nofollow" target="">fcps@schools.gov.sg</a>
+<p><a href="mailto:malani_selvaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="">malani_selvaraj@moe.edu.sg</a>
 </p>
 </td>
 </tr>
