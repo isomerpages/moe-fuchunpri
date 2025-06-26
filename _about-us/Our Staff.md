@@ -1101,7 +1101,7 @@ variant: tiptap
 <p>Mr Imran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_imran_mohamad_johar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mohamad_imran_mohamad_johar@moe.edu.sg</a>
+<p><a href="mailto:mohamad_imran_mohamad_johar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mohamad_imran_mohamad_joha@moe.edu.sg</a>
 </p>
 </td>
 </tr>
