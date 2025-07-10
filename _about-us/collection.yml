@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Primary 1 Form Teachers.md
-      - Our People/Our Staff.md
-      - Our People/.keep
       - Principal’s Message.md
       - Fuchun Story.md
       - Our Vision, Mission, Values & Motto.md
       - Our School Safety Policy.md
       - Our Song & Crest.md
+      - Our People/.keep
+      - Our People/Primary 1 Form Teachers.md
+      - Our People/Our Staff.md
       - Our Rules & Regulations.md
       - Our Learning Spaces.md
       - Our Publications.md
