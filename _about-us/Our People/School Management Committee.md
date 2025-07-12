@@ -15,15 +15,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -75,15 +75,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -196,15 +196,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -256,15 +256,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -412,15 +412,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -460,15 +460,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -520,15 +520,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DESIGNATION</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
