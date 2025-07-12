@@ -35,4 +35,31 @@ throughout the debate. Well done, Fuchun debaters!</p>
 </tr>
 </tbody>
 </table>
+<h4>Ngee Ann National Students' Calligraphy Competition</h4>
+<p>We are proud to share that Sun Duo (P6) received the <em>Rising Star Award</em> in
+the Primary School Category at the 2025 Ngee Ann National Students' Calligraphy
+Competition.</p>
+<p>Well done, Sun Duo — your dedication and creativity have made us proud!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/WhatsApp_Image_2025_05_13_at_2_47_16_PM.jpg">
+</div>
+<h4>National School Games</h4>
+<p>We are proud to celebrate our students’ sporting achievements at this
+year’s National School Games!</p>
+<p>Our <strong>Senior Girls Basketball Team</strong> placed <strong>3rd in the league</strong>,
+showcasing impressive determination and teamwork on the court.</p>
+<p>Our <strong>Senior Boys Badminton Team</strong> emerged as <strong>League Champions</strong>,
+demonstrating focus, resilience, and strong team spirit throughout the
+competition.</p>
+<p>Well done to all our athletes! Your hard work, grit, and sportsmanship
+have made Fuchun proud.</p>
+<p></p>
+<h4>Kinball Junior Championship</h4>
+<p>We are proud to celebrate the achievements of our Health &amp; Fitness
+students at the Kinball Junior Championship.</p>
+<p>The Girls Team emerged as Champions, with Naima (P6) receiving the Most
+Valuable Player (Girls) award.</p>
+<p>Their teamwork, discipline, and dedication were clearly evident on the
+court. Congratulations to all students involved — you have done Fuchun
+proud!</p>
 <p></p>
