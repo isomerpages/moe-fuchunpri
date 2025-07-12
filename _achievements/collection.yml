@@ -2,5 +2,5 @@ collections:
   achievements:
     output: true
     order:
-      - Students/.keep
+      - Student Achievements/.keep
       - Staff Achievements/.keep
