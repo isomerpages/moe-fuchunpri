@@ -62,7 +62,7 @@ on when experiencing difficulties&nbsp;</p>
 <p></p>
 <h4>Our Crest</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/crest.png">
 </div>
 <p>The school emblem is created through the fusion of <strong>F, C, P &amp; S</strong> which
 stands for <strong>Fuchun Primary School</strong>.</p>
