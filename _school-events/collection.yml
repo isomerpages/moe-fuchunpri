@@ -2,4 +2,5 @@ collections:
   school-events:
     output: true
     order:
+      - Highlights/2025.md
       - Highlights/.keep
