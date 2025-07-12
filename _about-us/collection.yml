@@ -2,12 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Contact/Location.md
-      - Contact/.keep
       - Principal’s Message.md
       - Fuchun Story.md
       - Vision, Mission, Values, Motto & Crest.md
-      - Our School Safety Policy.md
       - Our People/.keep
       - Our People/School Advisory Committee (SAC).md
       - Our People/School Management Committee.md
@@ -20,8 +17,11 @@ collections:
       - Our People/Other Teachers.md
       - Our People/Allied Educators.md
       - Our People/School Admin and Operations Staff.md
+      - Parent Support Group (PSG).md
+      - Contact/.keep
+      - Contact/Location.md
+      - Our School Safety Policy.md
       - Our Rules & Regulations.md
       - Our Learning Spaces.md
-      - Our Publications.md
       - Our School Policies.md
-      - Parent Support Group (PSG).md
+      - Our Publications.md
