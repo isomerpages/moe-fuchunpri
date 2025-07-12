@@ -28,8 +28,10 @@ links:
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-home-skills-prog/home-skills-home
       - title: Homeroom Programme
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/homeroom-home
-      - title: test
-        url: /folders/about-fuchun
+      - title: A Heart for Every Child
+        url: /permalink
+      - title: New submenu
+        url: https://cms.isomer.gov.sg/sites/moe-fuchunpri/folders/uniquely-fuchun/subfolders/A%20Heart%20for%20Every%20Child
   - title: Curriculum
     url: /curriculum/
     sublinks:
