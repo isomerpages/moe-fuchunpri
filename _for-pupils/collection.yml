@@ -2,4 +2,5 @@ collections:
   for-pupils:
     output: true
     order:
+      - Our School Safety Policy.md
       - Our Rules & Regulations.md
