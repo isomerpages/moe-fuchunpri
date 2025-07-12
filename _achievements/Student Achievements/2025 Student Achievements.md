@@ -78,7 +78,6 @@ Valuable Player (Girls) award.</p>
 <p>Their teamwork, discipline, and dedication were clearly evident on the
 court. Congratulations to all students involved — you have done Fuchun
 proud!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Picture3.png">
 </div>
