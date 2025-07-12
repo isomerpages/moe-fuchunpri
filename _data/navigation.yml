@@ -1,28 +1,7 @@
 logo: /images/About Us/nav_bar_ver_5_cropped.png
 links:
-  - title: About Us
-    url: /about-us/principal-s-message
-    sublinks:
-      - title: Principal’s Message
-        url: /about-us/principal-s-message
-      - title: Fuchun Story
-        url: /about-us/fuchun-story
-      - title: Our Vision, Mission & Values
-        url: /about-us/our-vision-mission-values-n-motto
-      - title: Our School Safety Policy
-        url: https://www.fuchunpri.moe.edu.sg/our-school-safety-policy/
-      - title: Our Song & Crest
-        url: /about-us/our-song-n-crest
-      - title: Our Rules & Regulations
-        url: /about-us/our-rules-n-regulations
-      - title: Our Staff
-        url: /about-us/our-staff
-      - title: Our Learning Spaces
-        url: /about-us/our-learning-spaces
-      - title: Our Publications
-        url: /about-us/our-publications
-      - title: Our School Policies
-        url: https://www.fuchunpri.moe.edu.sg/our-school-policies/
+  - title: About Fuchun
+    collection: about-us
   - title: Culture of Care
     url: /culture-of-care/
     sublinks:
