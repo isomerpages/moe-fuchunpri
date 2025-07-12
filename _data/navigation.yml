@@ -82,4 +82,14 @@ links:
         url: https://go.gov.sg/homewellfcps
   - title: For Pupils
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Rules and Regulations
+        url: /our-rules-n-regulations/
+      - title: Edtec One-stop Hub
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-hbl/edtech-guide
+      - title: Safety Policy
+        url: /our-school-safety-policy/
+      - title: Bridging Resources
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-bridging-resources/login-to-bridging-resources
+      - title: Youth Alumni
+        url: /youth-alumni/
