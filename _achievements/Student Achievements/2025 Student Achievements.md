@@ -53,7 +53,23 @@ demonstrating focus, resilience, and strong team spirit throughout the
 competition.</p>
 <p>Well done to all our athletes! Your hard work, grit, and sportsmanship
 have made Fuchun proud.</p>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Picture1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Picture2.png">
+</div>
 <h4>Kinball Junior Championship</h4>
 <p>We are proud to celebrate the achievements of our Health &amp; Fitness
 students at the Kinball Junior Championship.</p>
@@ -62,4 +78,8 @@ Valuable Player (Girls) award.</p>
 <p>Their teamwork, discipline, and dedication were clearly evident on the
 court. Congratulations to all students involved — you have done Fuchun
 proud!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Picture3.png">
+</div>
 <p></p>
