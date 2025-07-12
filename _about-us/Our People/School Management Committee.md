@@ -285,7 +285,7 @@ third_nav_title: Our People
 <p>Ms Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Mathematics (Internal)</p>
+<p>SH/Mathematics (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">germaine_pang_shimin@moe.edu.sg</a>
