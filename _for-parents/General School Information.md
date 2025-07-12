@@ -4,7 +4,7 @@ permalink: /general-school-information/
 variant: tiptap
 description: ""
 ---
-<h4>1. School Hours  </h4>
+<h4>1. School Hours</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,7 +181,7 @@ of their recess.</p>
 <p>Closed on Sat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Open to students only</strong> 
+<p><strong>Open to students only</strong>
 </p>
 <p>Mon to Fri: 8.30 a.m. – 3.00 p.m.</p>
 </td>
