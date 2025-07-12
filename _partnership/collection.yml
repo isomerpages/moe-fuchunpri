@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - Positive Parenting Programs (Triple P).md
       - Youth Alumni.md
       - Health Promotion Board.md
