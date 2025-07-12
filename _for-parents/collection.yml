@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Mendaki.md
       - General School Information.md
