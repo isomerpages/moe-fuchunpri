@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact.md
       - Principal’s Message.md
       - Fuchun Story.md
       - Vision, Mission, Values, Motto & Crest.md
