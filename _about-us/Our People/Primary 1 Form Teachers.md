@@ -16,7 +16,8 @@ third_nav_title: Our People
 <p>Year Head (Primary 1&amp;2)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -40,15 +41,15 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CLASS</strong>
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NAME</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EMAIL</strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
