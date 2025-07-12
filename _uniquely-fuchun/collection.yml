@@ -2,4 +2,5 @@ collections:
   uniquely-fuchun:
     output: true
     order:
+      - A Heart for Every Child.md
       - Uniquely Us.md
