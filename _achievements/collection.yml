@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Staff Achievements/.keep
+      - Student Achievements/2025 Student Achievements.md
       - Student Achievements/.keep
