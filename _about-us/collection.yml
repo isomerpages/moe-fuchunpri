@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact/Location.md
       - Contact/.keep
       - Principal’s Message.md
       - Fuchun Story.md
