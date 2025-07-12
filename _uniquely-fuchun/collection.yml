@@ -1,4 +1,5 @@
 collections:
   uniquely-fuchun:
     output: true
-    order: []
+    order:
+      - Uniquely Us.md
