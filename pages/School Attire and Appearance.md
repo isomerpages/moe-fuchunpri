@@ -25,12 +25,11 @@ Coloured contact lenses are not allowed.</p>
 <p>f) Students are not allowed to wear jewellery, cosmetics, and accessories
 e.g. beads around the wrist, coloured strings and bangles.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Rules &amp; Regulations/2025_boys.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys_full.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Rules &amp; Regulations/2025_girls.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls_full.png">
 </div>
 <p></p>
