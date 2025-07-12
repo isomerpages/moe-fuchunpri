@@ -2,21 +2,6 @@ logo: /images/Website logos/nav_bar_ver_5_cropped.png
 links:
   - title: About Fuchun
     collection: about-fuchun
-  - title: Culture of Care
-    url: /culture-of-care/
-    sublinks:
-      - title: Lower Block Programmes
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-lower-block-progs/lower-block-progs-home
-      - title: Middle Block Programmes
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-middle-block-progs/middle-block-progs-home
-      - title: Upper Block Programmes
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-upper-block-progs/upper-block-progs-home
-      - title: Values in Action (VIA)
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-values-in-action/values-in-action-home
-      - title: Student Leadership
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-student-leadership/student-leadership-home
-      - title: Co-Curricular Activities (CCA)
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site-cca/co-curricular-activities-home
   - title: Uniquely Fuchun
     url: /uniquely-fuchun/
     sublinks:
@@ -29,9 +14,7 @@ links:
       - title: Homeroom Programme
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/homeroom-home
       - title: A Heart for Every Child
-        url: /permalink
-      - title: New submenu
-        url: https://cms.isomer.gov.sg/sites/moe-fuchunpri/folders/uniquely-fuchun/subfolders/A%20Heart%20for%20Every%20Child
+        url: /a-heart-for-every-child/
   - title: Curriculum
     url: /curriculum/
     sublinks:
