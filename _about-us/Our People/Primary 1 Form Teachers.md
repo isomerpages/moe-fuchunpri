@@ -13,7 +13,7 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>Year Head (Primary 1&amp;2)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
