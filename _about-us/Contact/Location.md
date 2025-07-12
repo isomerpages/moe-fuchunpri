@@ -10,8 +10,7 @@ third_nav_title: Contact
 <br>Address: 23, Woodlands Avenue 1, Singapore 739063
 <br>Telephone: <a href="tel:+6563683925" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6368 3925</u></a>
 <br>Email: <a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
-</p>
-<p>Fax: <a href="tel:+6563670117" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6367 0117</u></a>
+<br>Fax: <a href="tel:+6563670117" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6367 0117</u></a>
 <br>School Website: <a href="https://www.fuchunpri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.fuchunpri.moe.edu.sg/</a>
 </p>
 <h5><strong>Operating Hours</strong></h5>
