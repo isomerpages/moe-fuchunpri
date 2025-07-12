@@ -2,5 +2,6 @@ collections:
   hidden:
     output: true
     order:
+      - Our Song & Crest.md
       - Our Staff.md
       - Big Heart SCC.md
