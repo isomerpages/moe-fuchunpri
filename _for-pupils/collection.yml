@@ -2,5 +2,6 @@ collections:
   for-pupils:
     output: true
     order:
+      - Youth Alumni.md
       - Our School Safety Policy.md
       - Our Rules & Regulations.md
