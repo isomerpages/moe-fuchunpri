@@ -1,25 +1,18 @@
 ---
 title: Location
 permalink: /location/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Contact
 ---
 <h4>Where to Find Us</h4>
-<p>Fuchun Primary School&nbsp;(School Code: 1208)</p>
-<p>Address: 23, Woodlands Avenue 1, Singapore 739063</p>
-<p>Telephone</p>
-<p><a href="tel:+6563683925" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6368 3925</u></a>
+<p>Fuchun Primary School&nbsp;(School Code: 1208)
+<br>Address: 23, Woodlands Avenue 1, Singapore 739063
+<br>Telephone: <a href="tel:+6563683925" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6368 3925</u></a>
+<br>Email: <a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
 </p>
-<p><a href="tel:+6563683925" rel="noopener noreferrer nofollow" target="_blank"><u>fcps@moe.edu.sg</u></a>
-</p>
-<p></p>
-<p>Fax</p>
-<p><a href="tel:+6563670117" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6367 0117</u></a>
-</p>
-<p>Email: <a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
-</p>
-<p>School Website: <a href="https://www.fuchunpri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.fuchunpri.moe.edu.sg/</a>
+<p>Fax: <a href="tel:+6563670117" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6367 0117</u></a>
+<br>School Website: <a href="https://www.fuchunpri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.fuchunpri.moe.edu.sg/</a>
 </p>
 <h5><strong>Operating Hours</strong></h5>
 <p><strong>Monday to Friday</strong>:&nbsp;830 1700
