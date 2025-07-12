@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Uniquely Us.md
       - Our Publications.md
       - Our School Policies.md
       - Our Learning Spaces.md
