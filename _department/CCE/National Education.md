@@ -11,7 +11,7 @@ third_nav_title: CCE
 <p>To nurture students into informed, concerned and participative citizens
 through inquiry and authentic learning experiences</p>
 <div class="isomer-image-wrapper">
-<img style="border: 0px; box-sizing: border-box; display: block; width: 166.51px;" height="auto" width="100%" src="https://lh4.googleusercontent.com/LMkLBAJbmC_ggh5jf0YJ8SAufkfhJJyNEHVFNpxau1ethPkpspDKEJFRnKyLdeUPjcT8MduPzXF-9I23Km7O_aXG-fxerzy6Dxb-521cFRq0ASmem8v7b0HVglhcv-GN4x1sn5U0Izl-ByRmrVeM6T7SO9WOEnHq_iFY5nDh5CCgjILZdozW=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/NE.png">
 </div>
 <h4>Our Approach</h4>
 <p>Aligned to the Singapore Social Studies (SS) curriculum, we hope to prepare
