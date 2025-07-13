@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - CCE/Integration of International Students (ISP).md
       - CCE/Sexuality Education.md
       - CCE/Form Teacher Guidance Period (FTGP).md
       - CCE/National Education.md
