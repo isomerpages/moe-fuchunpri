@@ -2,8 +2,8 @@ collections:
   for-pupils:
     output: true
     order:
-      - Bridging Resources.md
       - Our Rules & Regulations.md
       - Edtech One Stop Hub.md
       - Our School Safety Policy.md
+      - Bridging Resources.md
       - Youth Alumni.md
