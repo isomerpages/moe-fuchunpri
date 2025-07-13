@@ -25,6 +25,6 @@ sections:
       id: infopic
       button: Click here
       url: /2025/
-      image: /images/Homepage/IMG_20250529_WA0107.jpg
-      alt: Eco Enzyme Outreach Event
+      image: /images/Homepage/cl alp.jpg
+      alt: P2 CL ALP
 ---
