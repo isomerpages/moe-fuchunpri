@@ -2,5 +2,6 @@ collections:
   department:
     output: true
     order:
+      - CCE/Values Education.md
       - CCE/Mission & Vision.md
       - CCE/.keep
