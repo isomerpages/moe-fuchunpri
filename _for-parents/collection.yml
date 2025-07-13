@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Useful Links.md
       - General School Information.md
       - Positive Parenting Programs (Triple P).md
       - Mendaki.md
