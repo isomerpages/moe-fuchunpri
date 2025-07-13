@@ -20,4 +20,10 @@ sections:
       id: infobar
       button: Click here
       url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
+  - infopic:
+      title: Highlights of Fuchun 2025
+      id: infopic
+      button: Click here
+      url: /2025/
+      image: /images/Homepage/IMG_20250529_WA0107.jpg
 ---
