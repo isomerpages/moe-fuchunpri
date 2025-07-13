@@ -26,4 +26,5 @@ sections:
       button: Click here
       url: /2025/
       image: /images/Homepage/IMG_20250529_WA0107.jpg
+      alt: Eco Enzyme Outreach Event
 ---
