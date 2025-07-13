@@ -2,4 +2,5 @@ collections:
   uniquely-fuchun:
     output: true
     order:
+      - Applied Learning Programme.md
       - A Heart for Every Child.md
