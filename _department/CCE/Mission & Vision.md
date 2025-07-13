@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h4>Vision: </h4>
+<h4>Vision:</h4>
 <p>Concerned Leaders with Sound Character</p>
-<h4>Mission: </h4>
+<h4>Mission:</h4>
 <p>To nurture every child to be a responsible citizen of good character,
 with resilience to meet the challenges of a borderless world, through values
 education.</p>
@@ -49,13 +49,13 @@ for our nation.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Hand</h4>
+<p>Hand</p>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Heart</h4>
+<p>Heart</p>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Head</h4>
+<p>Head</p>
 </th>
 </tr>
 <tr>
@@ -75,11 +75,10 @@ through explicit teaching and experiential programmes.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>CCE Programmes</h4>
 <p>The following provides an overview of the CCE programmes to inculcate
 values and social emotional competencies in our students:&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="border: 0px; box-sizing: border-box; display: block; width: 1145.96px; margin: 0px;" height="auto" width="100%" src="https://lh3.googleusercontent.com/6VR_MEFTngaiSj0dGJcfoH9cdc__SEQ6GMwkiaiydefW8KkZtMlK5fPMTN_edAcf7A5VvJ2xaez_M2kjsn4wXFmiM3_pRc9t5rZNEfiwNkhBF3b1VkyIoK6KbIav6jDC6sK54jsl1zt0-k68tjEim42XIcblH0JHM-bYCg8f_1JuF_i__6bM=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/cce prog.png">
 </div>
 <p></p>
