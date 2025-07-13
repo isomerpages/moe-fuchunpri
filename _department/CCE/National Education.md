@@ -5,14 +5,28 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Our Vision</h4>
 <p>Every Fuchunian, a Concerned Citizen</p>
-<h4>Our Mission</h4>
-<p>To nurture students into informed, concerned and participative citizens
-through inquiry and authentic learning experiences</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/NE.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Mission</h4>
+<p>To nurture students into informed, concerned and participative citizens
+through inquiry and authentic learning experiences</p>
 <h4>Our Approach</h4>
 <p>Aligned to the Singapore Social Studies (SS) curriculum, we hope to prepare
 our students to be citizens of tomorrow through a better understanding
