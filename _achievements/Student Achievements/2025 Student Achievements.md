@@ -40,6 +40,7 @@ throughout the debate. Well done, Fuchun debaters!</p>
 the Primary School Category at the 2025 Ngee Ann National Students' Calligraphy
 Competition.</p>
 <p>Well done, Sun Duo — your dedication and creativity have made us proud!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/WhatsApp_Image_2025_05_13_at_2_47_16_PM.jpg">
 </div>
