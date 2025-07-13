@@ -37,8 +37,9 @@ purposely to take on future challenges;</p>
 strong national identity and sense of belonging to the nation,&nbsp; while
 having the will to act on improving lives of others and building a future
 for our nation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="border: 0px; box-sizing: border-box; display: block; width: 558.292px;" height="auto" width="100%" src="https://lh5.googleusercontent.com/-AYEc8XBHBH3s000NywrL3_GcOhWdM6LIdqoaQ4kp3B5rn0jJtqDyOQPYMmD4anXNGEVrE4mhSbfSEQoTyOJReCbLCcSVyBm7n3Z7av-wmnyoKZo_etTerWdxe2VmP9QD9_selNwuV3cgCecajDrSYK408iI-y4zuaxZKwpdvY5Rh9m3C9kCEg=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE2021_Framework.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
