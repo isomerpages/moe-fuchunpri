@@ -2,7 +2,7 @@ collections:
   for-pupils:
     output: true
     order:
-      - Edtech One Stop Hub.md
       - Our Rules & Regulations.md
+      - Edtech One Stop Hub.md
       - Our School Safety Policy.md
       - Youth Alumni.md
