@@ -2,10 +2,10 @@ collections:
   uniquely-fuchun:
     output: true
     order:
-      - Homewell@FCPS.md
-      - A Heart for Every Child/A Heart for Every Child.md
-      - A Heart for Every Child/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Home Skills Programme.md
       - Homeroom Programme.md
+      - A Heart for Every Child/.keep
+      - A Heart for Every Child/A Heart for Every Child.md
+      - Homewell@FCPS.md
