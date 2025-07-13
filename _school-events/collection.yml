@@ -2,7 +2,7 @@ collections:
   school-events:
     output: true
     order:
-      - School Assessments.md
-      - School Calendar.md
-      - Highlights/2025.md
       - Highlights/.keep
+      - Highlights/2025.md
+      - School Calendar.md
+      - School Assessments.md
