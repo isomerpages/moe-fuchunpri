@@ -15,4 +15,9 @@ sections:
           description: ""
           url: /fuchun-primary-school/updates/permalink/
       background: /images/FCPS_WEBSITE_ANIMATED_BANNER_2024_1260px_x_574px__Canva_com__4_5_sec__5mb_.gif
+  - infobar:
+      title: P1 Virtual Open House
+      id: infobar
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/fuchunprimaryschoolg-site/p1-virtual-open-house
 ---
