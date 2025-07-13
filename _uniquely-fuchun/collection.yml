@@ -2,6 +2,7 @@ collections:
   uniquely-fuchun:
     output: true
     order:
+      - Homeroom Programme.md
       - Home Skills Programme.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
