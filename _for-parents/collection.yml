@@ -1,0 +1,10 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - General School Information.md
+      - Useful Links.md
+      - School Counsellor Referral.md
+      - Positive Parenting Programs (Triple P).md
+      - Mendaki.md
+      - Parents' Briefing Materials.md

@@ -1,0 +1,10 @@
+collections:
+  uniquely-fuchun:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Home Skills Programme.md
+      - Homeroom Programme.md
+      - A Heart for Every Child.md
+      - Homewell@FCPS.md

@@ -1,0 +1,8 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Staff Achievements/2025 Staff Achievements.md
+      - Staff Achievements/.keep
+      - Student Achievements/2025 Student Achievements.md
+      - Student Achievements/.keep
