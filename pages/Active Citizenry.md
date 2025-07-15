@@ -1,7 +1,7 @@
 ---
 title: Active Citizenry
 permalink: /active-citizenry/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>a) Students who are Singapore citizens must sing the National Anthem and
