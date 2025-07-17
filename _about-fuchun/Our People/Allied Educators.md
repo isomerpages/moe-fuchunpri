@@ -31,7 +31,7 @@ third_nav_title: Our People
 <p>Ms Preethee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SCHOOL COUNSELLOR</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:preethee_j_preethee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">preethee_j_preethee@schools.gov.sg</a>
