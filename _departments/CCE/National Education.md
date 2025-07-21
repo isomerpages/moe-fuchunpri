@@ -121,3 +121,77 @@ efforts that have shaped our nation.</p>
 </tbody>
 </table>
 <p></p>
+<p>Celebrating World Music Day in conjunction with International Friendship
+Day</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS8.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>P5 NE Show</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS11.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>In tandem with these events, our school also celebrates various cultural
+festivals such as Chinese New Year, Hari Raya Aidilfitri, Deepavali, and
+more, which provide students with immersive opportunities to appreciate
+Singapore’s rich multicultural heritage. Through these experiences, students
+develop a deeper respect for the diverse traditions, beliefs, and practices
+that make up the social fabric of Singapore, nurturing in them empathy,
+harmony, and a shared sense of identity.</p>
+<p></p>
+<p>Chinese New Year Celebrations&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS12.png">
+</div>
+<p></p>
+<p>Celebrating Pongal the harvest festival&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS13.jpg">
+</div>
+<p></p>
+<p>Our Hari Raya Concert</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS14.jpg">
+</div>
+<p></p>
+<p></p>
