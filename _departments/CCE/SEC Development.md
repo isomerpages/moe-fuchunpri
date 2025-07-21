@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h4>Social Emotional Development  </h4>
+<h4>Social Emotional Development</h4>
 <p>We aim to develop our students with a strong core and equipped with the
 5 Social Emotional (SE) Competencies so that they can manage themselves,
 build quality relationships with others and make responsible decisions.</p>
@@ -35,15 +35,16 @@ deeper conversations with your child during the June holidays.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC_V2__3_.jpg">
 </div>
 <p><strong>Providing parents with personalized activities and conversations to work with their children to improve on their Social Emotional skills</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC_V2__4_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SEC_V2__1_.jpg">
 </div>
 <p></p>
