@@ -40,22 +40,15 @@ Competence of our Students</p>
 </li>
 </ol>
 <h4>Our Values (P.I.E.RR)</h4>
-<p><strong><em>P</em></strong><em>assion for Learning<br></em>Character Strength
-&gt;&nbsp;Participates actively in class discussions and activities &gt;&gt;
-Asks / answers questions to deepen learning &gt;&gt;&gt; Extends one’s
-learning through different ways&nbsp;eg.&nbsp;research,&nbsp;reading</p>
-<p><strong><em>I</em></strong><em>ntegrity<br></em> Character Strength&nbsp;&gt;
-Knows right from wrong &gt;&gt; Admits mistakes &gt;&gt;&gt; Makes amends</p>
-<p><strong><em>E</em></strong><em>mpathy<br></em>Character Strength&nbsp;&gt;
-Knows that everyone is different &gt;&gt; Understands differences in others
-&gt;&gt;&gt; Understands and accepts differences in others</p>
-<p><strong><em>R</em></strong><em>espect<br></em>Character Strength&nbsp;&gt;
-Uses kind words &gt;&gt; Uses the right tone and body language to respond
-appropriately &gt;&gt;&gt; Communicates responsibly</p>
-<p><strong><em>R</em></strong><em>esilience<br></em>Character Strength &gt;
-Is willing to try difficult / challenging tasks &gt;&gt; Continues to try
-despite experiencing difficulties &gt;&gt;&gt; Encourages others to press
-on when experiencing difficulties&nbsp;</p>
+<p>Our five core values — <strong>Respect, Resilience, Passion for Learning, Integrity, and Empathy</strong> —
+are brought to life through our vibrant Fuchun Champions. These superhero
+role models inspire our students to embody these values and become heroes
+in their own journey.</p>
+<p>Visit our <a href="/values-education/" rel="noopener nofollow" target="_blank">CCE Values Education page</a> page
+to learn more!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/VMV, Motto, Crest/VMV_fuchun_champions.png">
+</div>
 <h4>Our Motto</h4>
 <p><strong><em>Ever Onward!</em></strong>
 </p>
