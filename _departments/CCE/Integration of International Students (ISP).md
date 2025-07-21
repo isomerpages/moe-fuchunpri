@@ -12,7 +12,7 @@ to life in Singapore and building strong connections with their peers.</p>
 form friendships, and feel a sense of belonging. By creating an inclusive
 environment, we hope to make their learning journey in Fuchun a joyful
 and enriching one.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Taking part in fun cultural activities and playing of traditional games</strong>
 </p>
 <table style="minWidth: 50px">
