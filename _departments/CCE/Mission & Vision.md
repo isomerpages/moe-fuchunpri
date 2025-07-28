@@ -11,16 +11,6 @@ third_nav_title: CCE
 <p>To nurture every child to be a responsible citizen of good character,
 with resilience to meet the challenges of a borderless world, through values
 education.</p>
-<h4>Our Belief and Approach:</h4>
-<p>Character and Citizenship Education is an integral part of the students’
-holistic development.</p>
-<p>The school believes in creating a <strong>C.A.R.I.N.G community of Fuchunians</strong>.
-The CCE programmes are planned and designed using the Head, Heart and Hand
-approach with the intent that every Fuchunian will be a pupil of <strong>C</strong>haracter,
-grounded in values and given opportunities to excel in the area of <strong>A</strong>esthetics.
-We also help pupils to <strong>R</strong>each their fullest potential, be
-an <strong>I</strong>ndependent learner, contribute towards <strong>N</strong>ation
-building, and <strong>G</strong>iving to society.</p>
 <h4>CCE Curriculum Framework</h4>
 <p>The CCE Curriculum Framework articulates our key goals to develop students
 with:</p>
