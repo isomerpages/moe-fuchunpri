@@ -52,9 +52,6 @@ and enriching one.</p>
 <p>&nbsp;</p>
 <p>&nbsp;<strong>Visit to Singapore Discovery Centre</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ISP5.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -74,6 +71,16 @@ and enriching one.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ISP7.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ISP5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
