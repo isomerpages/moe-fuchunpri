@@ -9,13 +9,27 @@ third_nav_title: CCE
 <p>At Fuchun Primary School, we believe that character forms the foundation
 of success. These values are not just taught; they are experienced through
 our lessons – within and beyond the classroom.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/values_ed_2.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/values_ed_1.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Our five core values — <strong>Respect</strong>, <strong>Resilience</strong>, <strong>Passion for Learning</strong>, <strong>Integrity</strong>,
 and <strong>Empathy</strong> — guide our students in their daily actions,
 interactions, and decisions.</p>
@@ -26,23 +40,51 @@ each day.</p>
 <p>Together, we strive towards our vision:
 <br><strong>“Every Student, a Successful Fuchunian!”</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/VE1.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/VE2.png">
 </div>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/VE3.png">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/VE4.png">
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/VE5.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
