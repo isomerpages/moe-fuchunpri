@@ -84,7 +84,3 @@ each day.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
