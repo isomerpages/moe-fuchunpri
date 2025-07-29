@@ -179,19 +179,41 @@ develop a deeper respect for the diverse traditions, beliefs, and practices
 that make up the social fabric of Singapore, nurturing in them empathy,
 harmony, and a shared sense of identity.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese New Year Celebrations&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS12.png">
 </div>
-<p></p>
-<p>Celebrating Pongal the harvest festival&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS13.jpg">
-</div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Our Hari Raya Concert</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS14.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebrating Pongal the harvest festival&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/SS13.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
