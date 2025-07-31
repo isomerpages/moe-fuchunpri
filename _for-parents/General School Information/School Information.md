@@ -238,7 +238,6 @@ to parents/guardians fetching students during school hours because of illness,
 injury or for any other urgent matters.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valid identification
 must be presented upon request by school staff or security personnel</p>
-<p>&nbsp;</p>
 <p><strong>b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting Arrangements:</strong>
 </p>
 <p>- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All parent-teacher consultations
@@ -248,7 +247,6 @@ contact teachers through email or telephone</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General feedback to
 the school may be submitted via email to <a rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
 <p><strong>c )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fetching Students during School Hours</strong>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians who
