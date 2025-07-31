@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General School Information/School Dental Services.md
       - General School Information/School Based Student Care Centre.md
       - General School Information/School Bookshop Services.md
       - General School Information/School Bus Services.md
