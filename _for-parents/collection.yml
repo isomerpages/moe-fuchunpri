@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General School Information/.keep
-      - General School Information.md
       - Useful Links.md
       - School Counsellor Referral.md
       - Positive Parenting Programs (Triple P).md
