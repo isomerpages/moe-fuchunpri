@@ -2,16 +2,16 @@ collections:
   for-parents:
     output: true
     order:
-      - General School Information/School Dental Services.md
-      - General School Information/School Based Student Care Centre.md
-      - General School Information/School Bookshop Services.md
-      - General School Information/School Bus Services.md
-      - General School Information/School Uniform Services.md
-      - General School Information/Student Illness and Injury Protocol.md
-      - General School Information/Payment via Edusave.md
-      - General School Information/Payment via GIRO.md
-      - General School Information/School Information.md
       - General School Information/.keep
+      - General School Information/School Information.md
+      - General School Information/Payment via GIRO.md
+      - General School Information/Payment via Edusave.md
+      - General School Information/Student Illness and Injury Protocol.md
+      - General School Information/School Uniform Services.md
+      - General School Information/School Bus Services.md
+      - General School Information/School Bookshop Services.md
+      - General School Information/School Based Student Care Centre.md
+      - General School Information/School Dental Services.md
       - Useful Links.md
       - School Counsellor Referral.md
       - Positive Parenting Programs (Triple P).md
