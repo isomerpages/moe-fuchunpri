@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General School Information/School Bus Services.md
       - General School Information/School Uniform Services.md
       - General School Information/Student Illness and Injury Protocol.md
       - General School Information/Payment via Edusave.md
