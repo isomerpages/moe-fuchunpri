@@ -33,19 +33,33 @@ must provide and maintain updated:</p>
 <p>o&nbsp;&nbsp; Home addresses</p>
 <p>o&nbsp;&nbsp; Student medical records</p>
 <p>e)&nbsp;&nbsp;&nbsp; Insurance Claims</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All student accident
-claims must be submitted electronically</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For detailed information
-about the GPA Insurance Plan:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit Income's
-website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.sg/studentgpa</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>All student accident claims must be submitted electronically</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>For detailed information about the GPA Insurance Plan:</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit Income's website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.sg/studentgpa</a>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Refer to <a href="/files/4b__GP_Insurance_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2025</a>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Refer to <a href="/files/4b__GP_Insurance_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2025</a>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit claims
-online at: <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit claims online at: <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p></p>
+</li>
+</ul>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
