@@ -14,7 +14,6 @@ third_nav_title: General School Information
 <p>The bookshop is closed during the school holidays, except for the End
 of Year School Holiday Sales. The dates and timings will be listed on the
 booklist.</p>
-<p></p>
 <p><strong>Book List for Year 2025:</strong>
 </p>
 <p>Click on the titles below to download the booklist.</p>
@@ -43,7 +42,6 @@ booklist.</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Important Notes for Parents/Guardians: &nbsp;</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICT Devices &amp; Earphones</p>
@@ -65,8 +63,6 @@ for FAS, please DO NOT purchase any books and stationery.</p>
 the outcome of your application.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school cannot
 provide refunds for items purchased.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4>Order for Name Tags</h4>
 <p>Name tags must be sewn above the school crest on school uniforms and PE
 T-shirts.&nbsp; They are supplied by the School Bookshop.</p>
