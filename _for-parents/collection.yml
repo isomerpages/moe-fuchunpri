@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General School Information/General School Information.md
       - General School Information/.keep
       - Useful Links.md
       - School Counsellor Referral.md
