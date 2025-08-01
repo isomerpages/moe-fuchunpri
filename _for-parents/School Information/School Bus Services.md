@@ -3,7 +3,7 @@ title: School Bus Services
 permalink: /school-bus-services/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>School Bus Transport</h4>
 <p>Appointed School Bus Service Provider -<strong>JK59 Transport Pte Ltd</strong>

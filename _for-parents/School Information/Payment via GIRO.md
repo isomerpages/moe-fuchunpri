@@ -3,7 +3,7 @@ title: Payment via GIRO
 permalink: /payment-via-giro/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>Apply for GIRO Standing Order</h4>
 <p>You are strongly encouraged to apply for your child's school and miscellaneous

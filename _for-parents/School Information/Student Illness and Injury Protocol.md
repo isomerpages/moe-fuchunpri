@@ -3,7 +3,7 @@ title: Student Illness and Injury Protocol
 permalink: /student-illness-and-injury-protocol/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4><strong>Student Illness and Injury Protocol</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp; Minor Incidents</p>

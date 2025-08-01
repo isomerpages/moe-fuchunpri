@@ -3,7 +3,7 @@ title: Payment via Edusave
 permalink: /payment-via-edusave/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>Apply for Edusave Standing Order</h4>
 <p>All Singapore Citizen students will have an Edusave account and receive

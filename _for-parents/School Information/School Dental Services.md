@@ -3,7 +3,7 @@ title: School Dental Services
 permalink: /school-dental-services/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>School Dental Services</h4>
 <p><strong>Operating Hours during School Term (Strictly by appointment only)</strong>

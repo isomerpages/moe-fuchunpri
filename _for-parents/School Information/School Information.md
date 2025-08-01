@@ -3,7 +3,7 @@ title: School Information
 permalink: /school-information/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>1. School Hours</h4>
 <table style="minWidth: 50px">

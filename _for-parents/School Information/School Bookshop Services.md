@@ -3,7 +3,7 @@ title: School Bookshop Services
 permalink: /school-bookshop-services/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>School Bookshop Services</h4>
 <p>HB Book Centre</p>

@@ -3,7 +3,7 @@ title: School Uniform Services
 permalink: /school-uniform-services/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>School Uniform Purchase Options<strong>&nbsp;</strong></h4>
 <p><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bookshop</strong>

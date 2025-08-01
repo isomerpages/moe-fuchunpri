@@ -3,7 +3,7 @@ title: School Based Student Care Centre
 permalink: /school-based-student-care-centre/
 variant: tiptap
 description: ""
-third_nav_title: General School Information
+third_nav_title: School Information
 ---
 <h4>School-based Student Care Centre</h4>
 <p><strong>Big Heart Student Care</strong>
