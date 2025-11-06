@@ -45,7 +45,7 @@ must provide and maintain updated:</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit Income's website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.sg/studentgpa</a>
+<p>Visit Income's website: <a href="https://www.income.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.sg/studentgpa</a>
 </p>
 </li>
 </ul>
@@ -57,7 +57,7 @@ must provide and maintain updated:</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit claims online at: <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Submit claims online at: <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p></p>
 </li>
