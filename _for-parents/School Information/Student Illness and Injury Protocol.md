@@ -45,12 +45,6 @@ must provide and maintain updated:</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit Income's website: <a href="https://www.income.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.sg/studentgpa</a>
-</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
 <p>Refer to <a href="/files/4b__GP_Insurance_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2025</a>
 </p>
 </li>
