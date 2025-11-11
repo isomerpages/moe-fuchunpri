@@ -52,16 +52,6 @@ meaningfully for 1.5h.&nbsp;&nbsp;</p>
 <p>Chinese students - MHI $4,800 &amp;/or PCI $1,400 and below</p>
 <p>Eurasian students - PCI $1,200 and below</p>
 <p>Indian students - no eligibility criteria</p>
-<p></p>
-<p>The tuition fees have been reduced to a <strong>one-time $10 registration fee per student per year</strong>,
-to make it more affordable and accessible to all. This $10 fee is applicable
-to:</p>
-<p>All Malay/Muslim students</p>
-<p>Chinese students with gross MHI of $4,800 and below and/or gross PCI of
-$1,400 and below</p>
-<p>All Indian students with PCI $1,000 and above</p>
-<p>Note: Eurasian students with gross PCI of $1,200 and below need not pay
-any fees.</p>
 <p>&nbsp;</p>
 <p><strong>The details are as follows:</strong>
 </p>
