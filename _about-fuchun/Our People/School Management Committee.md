@@ -29,10 +29,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eunice Lim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eunice_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_lee@schools.gov.sg</a>
@@ -65,6 +65,53 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/Mrs_Lim.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Eunice Lim</p>
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Head Of Departments</h4>
 <table style="minWidth: 75px">
 <colgroup>
