@@ -15,103 +15,43 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/VPA_Mr_Tan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eunice_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_lee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sudhesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sudhesh_vasu_dash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sudhesh_vasu_dash@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan CK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_kee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/Mrs_Lim.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Eunice Lim</p>
-<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sudhesh_Vasu_Dash_1.jpeg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan CK
+<br>Vice-Principal (Admin)
+<br><a href="mailto:tan_chin_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_kee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Eunice Lim
+<br>Principal
+<br><a href="mailto:eunice_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_lee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sudhesh
+<br>Vice-Principal
+<br><a href="mailto:sudhesh_vasu_dash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sudhesh_vasu_dash@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Head Of Departments</h4>
 <table style="minWidth: 75px">
 <colgroup>
