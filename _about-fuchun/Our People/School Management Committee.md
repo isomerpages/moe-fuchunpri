@@ -26,7 +26,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/mr_sudhesh_resized_2.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/mr_sudhesh.jpg">
 </div>
 </td>
 </tr>
