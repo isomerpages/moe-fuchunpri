@@ -16,17 +16,17 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/VPA_Mr_Tan.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/VPA_Mr_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/Mrs_Lim.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/Mrs_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sudhesh_Vasu_Dash_1.jpeg">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Staff/mr_sudhesh_resized_2.jpg">
 </div>
 </td>
 </tr>
