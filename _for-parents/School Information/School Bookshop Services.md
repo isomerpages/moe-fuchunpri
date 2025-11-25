@@ -36,7 +36,6 @@ booklist.</p>
 </li>
 <li>
 <p><a href="/files/Primary_5_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 5 Booklist</u></a>
-<a href="/files/Primary_5_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </li>
 <li>
