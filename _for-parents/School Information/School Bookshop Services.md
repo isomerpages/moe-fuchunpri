@@ -19,26 +19,28 @@ booklist.</p>
 <p>Click on the titles below to download the booklist.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1priGs5CpKMP4PSjSWDBeZJSXa9_9rDiz/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 1 Booklist</u></a>
+<p><a href="/files/Primary_1_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 1 Booklist</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1iuKYGMca559TZ-Wj2pZnfB_CLadjawTr/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 2 Booklist</u></a>
+<p><a href="/files/Primary_2_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 2 Booklist</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/19pRk_1kKNdV1ud0aT-2vnRvPBeAv0nYq/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 3 Booklist</u></a>
+<p><a href="/files/Primary_3_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 3 Booklist</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1sJgbkNc5OU4jLzLSTlGTuC-SpoP0xdk7/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 4 Booklist</u></a>
+<p><a href="/files/Primary_4_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 4 Booklist</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1VChzPvquIhlV_B-r7BCcS03awdRZgL6U/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 5 Booklist</u></a>&nbsp;</p>
+<p><a href="/files/Primary_5_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 5 Booklist</u></a>
+<a href="/files/Primary_5_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1kemAi3YSgvPZqW1CaLk_PaWd5GVZRd3x/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 6 Booklist</u></a>
+<p><a href="/files/Primary_6_Booklist.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 6 Booklist</u></a>
 </p>
 </li>
 </ul>
