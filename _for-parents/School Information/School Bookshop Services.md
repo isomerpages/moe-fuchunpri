@@ -14,7 +14,7 @@ third_nav_title: School Information
 <p>The bookshop is closed during the school holidays, except for the End
 of Year School Holiday Sales. The dates and timings will be listed on the
 booklist.</p>
-<p><strong>Book List for Year 2025:</strong>
+<p><strong>Book List for Year 2026:</strong>
 </p>
 <p>Click on the titles below to download the booklist.</p>
 <ul data-tight="true" class="tight">
