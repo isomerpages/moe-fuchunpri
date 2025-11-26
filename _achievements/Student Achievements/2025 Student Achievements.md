@@ -5,6 +5,38 @@ variant: tiptap
 description: ""
 third_nav_title: Student Achievements
 ---
+<h4>National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</h4>
+<p>We are proud to share that Kai Qin (P4) and Liu Yue (P6) clinched the
+Merit Award, while Hailey (P6) secured Third Prize in their respective
+categories at the National Primary Schools On-the-Spot Chinese Creative
+Essay Writing Competition. A big well done to all our awardees for putting
+in their best and embracing the joy of learning!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/WhatsApp_Image_2025_11_17_at_10_06_03_AM__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/WhatsApp_Image_2025_11_17_at_10_06_03_AM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/WhatsApp_Image_2025_11_17_at_10_06_03_AM__2_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>Wits &amp; Words Competition</h4>
 <p>Our Fuchun Debate Team made a strong debut in this year’s Wits &amp; Words
 competition, achieving their first inter-school victory during the preliminary
