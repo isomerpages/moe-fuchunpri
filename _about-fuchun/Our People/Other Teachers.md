@@ -32,15 +32,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lui_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lui_yen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Prakas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,28 +68,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang LY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_lian_yi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lian_yi_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Li SL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_seow_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_seow_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rudy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">erfan_ameerudy_ramlee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
