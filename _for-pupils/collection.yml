@@ -2,8 +2,8 @@ collections:
   for-pupils:
     output: true
     order:
-      - Acceptable Use Policy (AUP).md
       - Our Rules & Regulations.md
+      - Acceptable Use Policy (AUP).md
       - Edtech One Stop Hub.md
       - Our School Safety Policy.md
       - Bridging Resources.md
