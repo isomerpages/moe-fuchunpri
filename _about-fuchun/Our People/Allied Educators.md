@@ -28,18 +28,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Preethee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:preethee_j_preethee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">preethee_j_preethee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lim CK</p>
 </td>
 <td rowspan="1" colspan="1">
