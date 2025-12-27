@@ -329,18 +329,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua YN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Art (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_yan_ni@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Paramesh</p>
 </td>
 <td rowspan="1" colspan="1">
