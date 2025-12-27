@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Primary 1 Form Teachers.md
       - School Calendar.md
       - Health Promotion Board.md
       - Uniquely Us.md
