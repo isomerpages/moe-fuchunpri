@@ -87,7 +87,7 @@ to make this year truly special for our children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership/PSG/PSG_group_photo_3.jpg">
 </div>
-<p>Please click <a href="/files/Parent%20Volunteer%20Registration%20Form.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
+<p>Please click <a href="https://drive.google.com/file/d/16GtHe6300qM32Zu9rNWndl75_Q1nNRpx/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a> to
 download the Parent Support Group (PSG) Application Form.</p>
 <p></p>
 <h2>Our Recent Activities</h2>
