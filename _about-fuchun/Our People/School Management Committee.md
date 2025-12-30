@@ -95,7 +95,7 @@ third_nav_title: Our People
 <p>HOD/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lalitha_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_ramalingam@moe.edu.sg</a> 
+<p><a href="mailto:lalitha_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_ramalingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -516,18 +516,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hoo BT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT/Chinese&nbsp;Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hoo_bee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_bee_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
