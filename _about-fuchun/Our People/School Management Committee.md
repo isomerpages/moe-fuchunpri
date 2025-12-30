@@ -329,18 +329,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Paramesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">parameshwari_skunju@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Soh MY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,6 +384,18 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Paramesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH/Primary 1&amp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">parameshwari_skunju@moe.edu.sg</a>
 </p>
 </td>
 </tr>
