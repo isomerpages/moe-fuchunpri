@@ -89,7 +89,7 @@ third_nav_title: Our People
 <p>Ms Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:atikah_adilah_ahmad_affandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">atikah_adilah_ahmad_affandi@moe.edu.sg</a> 
+<p><a href="mailto:atikah_adilah_ahmad_affandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">atikah_adilah_ahmad_affandi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,10 +99,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sathya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lalitha_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_ramalingam@moe.edu.sg</a> 
+<p><a href="mailto:lalitha_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_ramalingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
