@@ -629,5 +629,4 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
