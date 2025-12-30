@@ -89,6 +89,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Sathya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lalitha_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_ramalingam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -329,18 +341,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Paramesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">parameshwari_skunju@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Soh MY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,6 +396,18 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Paramesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH/Primary 1&amp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">parameshwari_skunju@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -509,18 +521,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoo BT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT/Chinese&nbsp;Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hoo_bee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_bee_teng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Yee JH</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -629,5 +629,4 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>

@@ -23,6 +23,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chia_chia@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ravin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,15 +59,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruth Zheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Zheng_Xinfang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zheng_Xinfang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Vassou</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +72,42 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_seow_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_seow_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Low SF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kho SP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rozali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yuslin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
