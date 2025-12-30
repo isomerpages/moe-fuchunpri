@@ -70,7 +70,7 @@ third_nav_title: Our People
 <p>AED/Learning &amp; Behavioural Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwok_jean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_jean@moe.edu.sg</a> 
+<p><a href="mailto:kwok_jean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_jean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ third_nav_title: Our People
 <p>AED/Admin Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_heng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_heng_mui@moe.edu.sg</a> 
+<p><a href="mailto:pang_heng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_heng_mui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
