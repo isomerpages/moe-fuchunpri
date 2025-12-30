@@ -77,19 +77,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim JH</p>
+<p>Mr Phua EW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jing_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_jing_han@moe.edu.sg</a>
+<p><a href="mailto:phua_eng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">phua_eng_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong JM</p>
+<p>Ms Chua YN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_jia_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jia_min@moe.edu.sg</a>
+<p><a href="mailto:chua_yan_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_yan_ni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,19 +99,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sindhu</p>
+<p>Ms Lee HL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sindhuja_suresh@moe.edu.sg</a>
+<p><a href="mailto:lee_hui_lun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_hui_lun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhuang</p>
+<p>Ms Rasyidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhuang_huifen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zhuang_huifen@moe.edu.sg</a>
+<p><a href="mailto:rasyidah_bajuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">rasyidah_bajuri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -121,21 +121,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh</p>
+<p>Mdm Jenny Oh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_lee_peng_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">heng_lee_peng_belinda@moe.edu.sg</a>
+<p><a href="mailto:oh_mee_choo_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="">oh_mee_choo_jenny@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ha ST</p>
+<p>Mdm Siti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target=""><u>ha_siao_teng@</u></a> 
-<a href="mailto:ha_siao_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe.edu.sg</u>
-</a>
+<p><a href="mailto:siti_salhah_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_salhah_salam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -145,19 +143,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xu CP</p>
+<p>Mdm Aini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_cuiping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">xu_cuiping@moe.edu.sg</a>
+<p><a href="mailto:nurul_aini_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nurul_aini_mohamad_nor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Prasad</p>
+<p>Mdm Para</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:r_prasad@moe.edu.sg" rel="noopener noreferrer nofollow" target="">r_prasad@moe.edu.sg</a>
+<p><a href="parameswari_balasupramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_balasupramaniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -167,19 +165,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Zhang</p>
+<p>Mrs Shareen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_yi_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sng_yi_hui@moe.edu.sg</a>
+<p><a href="mailto:nor_azlina_bivi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nor_azlina_bivi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Imran</p>
+<p>Ms Lau TY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_imran_mohamad_johar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mohamad_imran_mohamad_joha@moe.edu.sg</a>
+<p><a href="mailto:lau_thenk_yet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_thenk_yet@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
