@@ -80,7 +80,8 @@ third_nav_title: Our People
 <p>Ms Kho SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
+<p><a href="mailto:sylvia_kho_shu_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_kho_shu_pei@moe.edu.sg</a>
+<a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
