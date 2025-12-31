@@ -23,15 +23,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chia_chia@moe.edu.sg</a> 
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ravin</p>
 </td>
 <td rowspan="1" colspan="1">
