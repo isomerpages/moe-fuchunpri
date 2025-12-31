@@ -81,7 +81,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sylvia_kho_shu_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_kho_shu_pei@moe.edu.sg</a>
-<a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
