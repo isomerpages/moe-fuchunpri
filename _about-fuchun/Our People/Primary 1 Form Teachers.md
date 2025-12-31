@@ -80,7 +80,7 @@ third_nav_title: Our People
 <p>Mdm Marlini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chow_yit_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chow_yit_mei@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">marlini_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
