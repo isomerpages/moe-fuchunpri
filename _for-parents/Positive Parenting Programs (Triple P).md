@@ -24,31 +24,6 @@ lying, parent-child relationship, homework, emotional behaviours, etc.</p>
 <p>They have lined up a series of on-line seminars throughout the year. Registration
 details will be shared in Parents Gateway in due time.</p>
 <p></p>
-<p>For a start, do mark your calendar for the following seminar series. Registration
-details will be shared via Parents Gateway closer to the seminars.</p>
-<p><strong>Triple P Seminar Series- Fridays, 7.30pm to 9pm</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>5 April 2024 – The Power of Positive Parenting</p>
-</li>
-<li>
-<p>19 April 2024 – Raising Confident, Competent Children</p>
-</li>
-<li>
-<p>26 April 2024 – Raising Resilient Children</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PPP_ad.png">
-</div>
-<p><strong>Parenting Survey 2024</strong>
-</p>
-<p>They wish to understand how you are doing as a parent so that they can
-better support you. To help them to do that, please complete the Parenting
-Survey via this link: <a href="https://go.gov.sg/cc-pns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cc-pns</a>
-</p>
-<p></p>
 <p>For more information about their programmes and services, please contact
 Ms Novi, at <a href="mailto:ffl@carecorner.org.sg" rel="noopener noreferrer nofollow" target="_blank">ffl@carecorner.org.sg</a> or
 69784090.</p>
