@@ -6,10 +6,6 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <p>Fuchun Primary School is pleased to present our School Advisory Committee.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership/SAC/SAC_Org_Chart_18Dec23_17Dec25.jpg">
-</div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,19 +13,21 @@ third_nav_title: Our People
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Role</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Chai Tun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Chairman</p>
 </td>
 </tr>
 <tr>
@@ -42,39 +40,39 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Huang Jia Corwin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Loyce Chan Ren Tze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lin Juan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Lau Jia Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sherry Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Loyce Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Corwin Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Siew Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fannie Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
