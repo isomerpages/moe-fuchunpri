@@ -191,6 +191,69 @@ the Prefectorial Board, Class Committees and in CCAs.</p>
 </tr>
 </tbody>
 </table>
+<p>In 2025, Fuchun Primary School celebrated <strong>FCP40</strong>, marking
+40 years of growth and service to the community since our founding in 1985.
+This milestone brought together students, staff, parents and alumni to
+reflect on our shared journey and achievements. The celebrations included
+the <strong>FCP40 Arts Fiesta concert</strong>, an exhibition and the launch
+of the Fuchun Heritage Gallery, allowing the Fuchun community to honour
+its heritage while looking ahead to the future.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6914.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6803.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6855.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6737.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6169.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6169.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/heritage1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Fuchun/Our Story/MC1_6438.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Quotes from our Ex-Teachers, Students and Parent Volunteers</h4>
 <table style="minWidth: 50px">
 <colgroup>
