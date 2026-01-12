@@ -40,7 +40,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong><u>Overview of Fuchun Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</u></strong>
+<p><strong><u>Overview of Fuchun Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2026</u></strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
@@ -68,10 +68,10 @@ at Primary 5 and 6. In SEd, students learn to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
 and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Fuchun Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
