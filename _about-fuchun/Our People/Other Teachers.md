@@ -71,7 +71,7 @@ third_nav_title: Our People
 <p>Mdm Low SF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
+<p><a href="mailto:low_siew_fong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_siew_fong_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
