@@ -37,6 +37,8 @@ links:
     sublinks:
       - title: School Information
         url: /school-information/
+      - title: School Assessments
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site/school-assessments-home
       - title: Useful Links
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-moe-websites/useful-links
       - title: School Counsellor Referral
@@ -54,8 +56,6 @@ links:
     sublinks:
       - title: Highlights
         url: /2025
-      - title: School Assessments
-        url: https://sites.google.com/moe.edu.sg/fcps-g-site/school-assessments-home
   - title: Departments
     url: /english/
     sublinks:
