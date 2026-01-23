@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Assessments.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Payment via GIRO.md
@@ -13,6 +12,7 @@ collections:
       - School Information/School Bookshop Services.md
       - School Information/School Based Student Care Centre.md
       - School Information/School Dental Services.md
+      - School Assessments.md
       - Useful Links.md
       - School Counsellor Referral.md
       - Positive Parenting Programs (Triple P).md
