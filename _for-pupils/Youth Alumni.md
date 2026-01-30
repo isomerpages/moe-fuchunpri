@@ -31,14 +31,29 @@ download the Fuchun Youth Alumni Registration Form.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Pupils/Youth Alumni/MC1_6639.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Pupils/Youth Alumni/WhatsApp_Image_2026_01_29_at_4_54_09_PM.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p>Alumni helping out with school events</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Pupils/Youth Alumni/WhatsApp_Image_2026_01_29_at_4_54_10_PM__1_.jpg">
+</div>
+<p>P6 Transition Dialogue/Sharing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Pupils/Youth Alumni/WhatsApp_Image_2026_01_29_at_4_54_10_PM.jpg">
+</div>
+<p>Class of 2011, pioneers of the Fuchun Youth Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
