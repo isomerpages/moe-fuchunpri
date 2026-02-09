@@ -6,73 +6,48 @@ variant: tiptap
 ---
 <h4><strong>PSG Chairperson's Message</strong></h4>
 <p>Dear Parents and Guardians,</p>
-<p>A warm and heartfelt welcome to all our Fuchun families!</p>
-<p>I’m truly excited to begin this journey with you as the Chairperson of
-the Parent Support Group (PSG). It’s a joy to work alongside such a caring
-group of parents. Together, let’s create meaningful memories and build
-strong support for our children as they grow and learn.</p>
-<p>At Fuchun, we believe that when parents and schools work closely together,
-amazing things happen. The PSG is made up of wonderful parent volunteers
-who give their time and energy to enrich school life for all students.
-Whether lending a hand during events or helping behind the scenes, every
-contribution makes a big difference.</p>
-<p>When children see their parents involved in school, it helps build their
-confidence, pride, and sense of belonging. Your presence not only encourages
-them but also strengthens our school community, creating a welcoming and
-supportive environment for everyone.</p>
-<p>This year, the PSG has been involved in many meaningful activities, including:</p>
-<ul>
-<li>
-<p>Happy Pongal 2025</p>
-</li>
-<li>
-<p>Primary 4 SwimSafer 2.0 Programme</p>
-</li>
-<li>
-<p>Fuchun Health Week</p>
-</li>
-<li>
-<p>Recess Play</p>
-</li>
-<li>
-<p>Learning Journeys (P3–P6)</p>
-</li>
-<li>
-<p>Total Defence Day Quiz &amp; Police Booth</p>
-</li>
-<li>
-<p>Homeskills Lessons (P1–P3)</p>
-</li>
-<li>
-<p>Primary 4 E2K Science Programme</p>
-</li>
-<li>
-<p>International Students Programme</p>
-</li>
-<li>
-<p>Pesta Bahasa</p>
-</li>
-<li>
-<p>Wonder Lab</p>
-</li>
-<li>
-<p>…and many more joyful moments with the students</p>
-</li>
-</ul>
-<p>2025 is a special year as we celebrate Fuchun Primary School’s 40th anniversary.
-As we reflect on the school’s rich history, the PSG looks forward to continuing
-our support for the school and walking with our children on the journey
-ahead.</p>
-<p>We warmly invite you to join us on this meaningful journey. If you’d like
-to know more or are considering joining the PSG, feel free to visit the
-school website or reach out to us directly. We would love to welcome you
-into our PSG family.</p>
-<p>Looking forward to meeting you at our upcoming events and working together
-to make this year truly special for our children.</p>
-<p>Warmest regards,
-<br>Madam Fiona Ho
-<br>PSG Chairperson
-<br>Fuchun Primary School</p>
+<p>&nbsp;A warm welcome to all our Fuchun families!</p>
+<p>It is a joy to continue serving as the Chairperson of the Parent Support
+Group (PSG). I am thankful for the trust and support from our parents,
+and for the opportunity to work alongside a caring team of parent volunteers
+who are committed to supporting our children and the school.</p>
+<p>&nbsp;At Fuchun Primary School, we believe that children thrive when parents
+and the school work closely together. The PSG brings parents together to
+support school programmes and create meaningful learning experiences for
+our students. Be it supporting school events, assisting in lessons and
+activities, or helping behind the scenes, every contribution makes a difference.</p>
+<p>&nbsp;When children see their parents involved in school life, they feel
+encouraged and confident. This strong partnership helps build a positive
+and welcoming school environment, where students develop a sense of belonging.</p>
+<p>&nbsp;Over the past year, the PSG has been involved in many meaningful
+activities, including the Pongal Celebration, Total Defence Day activities,
+the SwimSafer Programme, Recess Play, Homeskills lessons for Primary 1
+to 3, Learning Journeys for Primary 3 to 6 students, the International
+Students Programme, Racial Harmony Day, National Day celebrations, Teachers’
+Day and Children’s Day, as well as various engagement, bonding, and appreciation
+sessions. These experiences are made possible through the strong partnership
+between parents, teachers, and the school.</p>
+<p>&nbsp;This year, the PSG is also pleased to support a meaningful eco-initiative
+through the planting of a PSG Ji Tree (吉树) at the Eco Garden. The Ji Tree
+symbolizes positivity, growth, and continuity, reflecting our hope for
+a strong and nurturing school community. Beyond its symbolic meaning, the
+tree will serve as a learning resource for students, supporting lessons
+on plant life cycles and environmental awareness, and encouraging learning
+beyond the classroom.</p>
+<p>&nbsp;As we move forward, the PSG remains committed to supporting the
+school and walking alongside our children as they grow, learn, and discover
+their strengths. We warmly welcome parents who are interested to join us,
+whether as volunteers or as part of the PSG team. Every effort, big or
+small, is truly appreciated.</p>
+<p>&nbsp;If you would like to find out more about the PSG or get involved,
+please feel free to reach out to us or visit the school website. We look
+forward to working together to make this a meaningful and enriching year
+for our children.</p>
+<p>&nbsp;</p>
+<p>Warmest regards,</p>
+<p>Madam Fiona Ho</p>
+<p>PSG Chairperson</p>
+<p>Fuchun Primary School</p>
 <p>
 <br>
 </p>
@@ -93,15 +68,15 @@ download the Parent Support Group (PSG) Application Form.</p>
 <h2>Our Recent Activities</h2>
 <h3>Pongal Celebration</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HoFaG9hUBP8?si=2qRtwHm4L8zgZG_V"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HoFaG9hUBP8?si=2qRtwHm4L8zgZG_V"></iframe>
 </div>
 <h3>P1-3 PV Engagement Session</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vGuKVddT1-U?si=FArXQsO61TRcLECm"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vGuKVddT1-U?si=FArXQsO61TRcLECm"></iframe>
 </div>
 <h3>P4-6 PV Engagement Session</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lIRuCwSSiHA?si=lbRHdA6ic3mMkrob"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lIRuCwSSiHA?si=lbRHdA6ic3mMkrob"></iframe>
 </div>
 <p></p>
 <h3>PSG Engagement Session</h3>
@@ -144,30 +119,30 @@ download the Parent Support Group (PSG) Application Form.</p>
 <p></p>
 <h3>Swimsafer</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xD8qDsa5rHA?si=ZoQuyp9-Ot5YhaC1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xD8qDsa5rHA?si=ZoQuyp9-Ot5YhaC1"></iframe>
 </div>
 <h3>Fuchun Health Week</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dmuGjwl7sfQ?si=g4_Oc3nHiGVRUiOo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dmuGjwl7sfQ?si=g4_Oc3nHiGVRUiOo"></iframe>
 </div>
 <h3>Total Defence Day</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt5KJxgFBvU?si=CiHpM1Dr_vxqDAVB"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt5KJxgFBvU?si=CiHpM1Dr_vxqDAVB"></iframe>
 </div>
 <h3>P2 Homeskills</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6rWmK0vg6pU?si=ShishBSH8e5d_K5_"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6rWmK0vg6pU?si=ShishBSH8e5d_K5_"></iframe>
 </div>
 <h3>P6 Learning Journey</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mMPRzdv-u2g?si=gPcHHXtxyXhixeLq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mMPRzdv-u2g?si=gPcHHXtxyXhixeLq"></iframe>
 </div>
 <h3>PSG Bonding Session (Teachers' Day 2025)</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9JIqMODqCgg?si=EkU2qj2iAMppe5fY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9JIqMODqCgg?si=EkU2qj2iAMppe5fY"></iframe>
 </div>
 <h3>PSG Flower Making Session 2</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WlEyo6l0hZ0?si=UA2m_rKr4YtSVsxt"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WlEyo6l0hZ0?si=UA2m_rKr4YtSVsxt"></iframe>
 </div>
 <p></p>
