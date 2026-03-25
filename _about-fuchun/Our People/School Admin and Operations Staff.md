@@ -196,7 +196,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anjitha</p>
+<p>Ms Amelia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -208,7 +208,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fahmi</p>
+<p>Mr Mustaqim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
