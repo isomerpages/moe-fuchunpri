@@ -99,10 +99,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Ho</p>
+<p>Mdm Minjit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_hui_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_hua@moe.edu.sg</a>
+<p><a href="mailto:minjit_kaur_hardial_singh_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">minjit_kaur_hardial_singh_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
