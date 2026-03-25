@@ -74,18 +74,6 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED/Admin Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pang_heng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_heng_mui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
