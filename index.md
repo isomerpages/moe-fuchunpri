@@ -14,7 +14,7 @@ sections:
         - title: Connect With Us
           description: ""
           url: /fuchun-primary-school/updates/permalink/
-      background: /images/Banners/WhatsApp_Image_2026_04_29_at_1_43_51_PM.jpg
+      background: /images/Banners/v3 fuchun_sch_website_banner_2025_cleanedup_lowresgif.gif
   - infobar:
       title: P1 Virtual Open House
       id: infobar
