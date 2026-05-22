@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character and Citizenship Education (CCE).md
       - English.md
       - Mathematics.md
       - Science.md
