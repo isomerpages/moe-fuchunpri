@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Integration of International Students (ISP).md
       - Sexuality Education.md
       - Form Teacher Guidance Period (FTGP).md
       - National Education.md
