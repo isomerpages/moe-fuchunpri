@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - SEC Development.md
       - Values Education.md
       - Mission & Vision.md
       - School Calendar.md
