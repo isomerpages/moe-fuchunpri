@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - National Education.md
       - SEC Development.md
       - Values Education.md
       - Mission & Vision.md
