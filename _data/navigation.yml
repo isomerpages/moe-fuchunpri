@@ -5,8 +5,10 @@ links:
   - title: Uniquely Fuchun
     url: /interdisciplinary-project-work/
     sublinks:
+      - title: 21CC Development @ FCPS
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/e21cc-development-fcps
       - title: Interdisciplinary Project Work
-        url: /interdisciplinary-project-work/
+        url: https://sites.google.com/moe.edu.sg/fcps-g-site-homeroom-prog/homeroom-home/interdisciplinary-project-work
       - title: Applied Learning Programme
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-speak-up-at-fuchun/speak-up-at-fuchun-home
       - title: Learning for Life Programme
@@ -72,6 +74,6 @@ links:
       - title: PE, Art & Music (PAM)
         url: https://sites.google.com/moe.edu.sg/fcps-g-site-pam-dept/pe-art-music-dept-home
       - title: CCE
-        url: /cce-mission-vision/
+        url: /character-and-citizenship-education-cce/
   - title: Achievements
     collection: achievements
