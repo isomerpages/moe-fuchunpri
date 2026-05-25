@@ -3,7 +3,6 @@ title: Sexuality Education
 permalink: /for-parents-n-students/sexuality-education/
 description: ""
 variant: tiptap
-third_nav_title: CCE
 ---
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p>1. Sexuality Education (SEd) in schools is about enabling students to

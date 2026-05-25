@@ -3,7 +3,6 @@ title: Integration of International Students (ISP)
 permalink: /integration-of-international-students-isp/
 variant: tiptap
 description: ""
-third_nav_title: CCE
 ---
 <p>At Fuchun Primary, we believe every student belongs. Our Integration of
 International Students programme supports international pupils in adjusting

@@ -3,7 +3,6 @@ title: SEC Development
 permalink: /sec-development/
 variant: tiptap
 description: ""
-third_nav_title: CCE
 ---
 <h4>Social Emotional Development</h4>
 <p>We aim to develop our students with a strong core and equipped with the

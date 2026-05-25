@@ -3,7 +3,6 @@ title: Values Education
 permalink: /values-education/
 variant: tiptap
 description: ""
-third_nav_title: CCE
 ---
 <h4><strong>Values Education (Fuchun Champions)</strong></h4>
 <p>At Fuchun Primary School, we believe that character forms the foundation

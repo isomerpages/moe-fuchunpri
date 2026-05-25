@@ -2,6 +2,7 @@ collections:
   uniquely-fuchun:
     output: true
     order:
+      - 21CC Development @ FCPS.md
       - Interdisciplinary Project Work.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
