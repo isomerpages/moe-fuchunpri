@@ -2,7 +2,6 @@ collections:
   about-fuchun:
     output: true
     order:
-      - Example Title.md
       - Principal’s Message.md
       - Fuchun Story.md
       - Vision, Mission, Values, Motto & Crest.md
