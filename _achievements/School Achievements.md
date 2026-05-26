@@ -12,3 +12,8 @@ or social initiatives.</p>
 <p>On 23 May 2026, Fuchun Primary School was presented the Silver Award by
 the Mayor of North West CDC Mr Alex Yam, for its sustained collaboration
 with NWCDC.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/School/WhatsApp_Image_2026_05_26_at_3_45_50_PM.jpg">
+</div>
+<p></p>
