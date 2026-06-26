@@ -29,24 +29,6 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Assistant Year Head (Primary 5&amp;6)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheryl_kayla_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheryl_kayla_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
