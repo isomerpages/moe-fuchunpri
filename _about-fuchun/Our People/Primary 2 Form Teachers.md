@@ -99,19 +99,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Minjit</p>
+<p>Ms Chitra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:minjit_kaur_hardial_singh_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">minjit_kaur_hardial_singh_a@moe.edu.sg</a>
+<p><a href="mailto:fcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fcps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee HN</p>
+<p>Mr Lee SR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_hui_ning@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_shi_ren@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -144,10 +144,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thala</p>
+<p>Mrs Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sakunthala_rajamohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sakunthala_rajamohan@moe.edu.sg</a>
+<p><a href="mailto:cheryl_kayla_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheryl_kayla_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
