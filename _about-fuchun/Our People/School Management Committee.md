@@ -341,6 +341,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheryl_kayla_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheryl_kayla_ng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Soh MY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -420,18 +432,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_mei_zhu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">xu_mei_zhu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AYH/Primary 5&amp;6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheryl_kayla_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheryl_kayla_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
